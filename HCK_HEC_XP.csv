@@ -1,0 +1,2106 @@
+USER_ID,MISSION_DSC
+2843838,"Mise en place d’un pipeline RAG pour la migration de données Slack vers Microsoft Teams, permettant à 250+ collaborateurs d’effectuer des recherches sécurisées et rapides sur plus de 6 années de données historiques."
+2843838,Développement d'un dashboard RH intégrant l'analyse de sentiments et un agent conversationnel de recommandation pour extraire des insights exploitables sur la satisfaction des consultants. Intégration des données OfficeVibe via Azure Function et dbt pour le nettoyage des données.
+2843838,"Déploiement d’une application Write-Back pour un groupe logistique, déployée sur 10+ sites [CLIENT] et utilisée par 40+ utilisateurs, incluant une logique RLS (Row Level Security) et une interface utilisateur personnalisée. Résultat : optimisation mesurable des processus de gestion des données, plus de 500 clés de gestion de données créées pour une meilleure overview de leurs opérations."
+2843838,"Contribution majeure au Centre d’Excellence en IA : participation à la conception et au prototypage de solutions IA génératives, vulgarisation des concepts IA auprès des consultants internes, et partage des bonnes pratiques pour améliorer les projets [CLIENT] et internes."
+2843838,"Analyse des recommandations vidéo sur 5 couches d’interaction, en collectant et traitant 10 000+ vidéos. Utilisation de techniques de web scraping et de l’API YouTube."
+2843838,"Développement d’un modèle de classification basé sur un réseau de neurones artificiels avec Keras, destiné à identifier l'intention ""pro"" ou ""anti"" TCA de vidéos."
+2843838,"Conception d’analyses statistiques (régressions linéaires, multivariées et des ANOVA) pour générer des insights exploitables sur l’impact des recommandations algorithmiques sur les comportements des utilisateurs."
+2843838,"Rédaction d’un rapport final détaillant les résultats de recherche, partagé avec la communauté académique McGilloise."
+2843838,"Développement d’un modèle atteignant une précision de 96 % dans la prédiction des niveaux hormonaux, après 100+ heures de collaboration avec une équipe pluridisciplinaire."
+2843838,"Participation à 60 heures de formations en apprentissage automatique, dispensées par des experts au MILA, permettant d’approfondir les concepts avancés en IA."
+2843838,"Présentation du projet lors de la compétition Montréal Accelerator, remportant le premier prix parmi 7 équipes finalistes, devant 600+ participants."
+2841644,"J'ai travaillé sur différents appels d'offres City of Richmond, University of York ...) avec les équipes d'avant-vente"
+2841644,Project manager - Analyste Hyperion Planning
+2841644,"Projet : [CLIENT] a fait appel à Alithya dans le cadre d'un projet Oracle EPM (EPBCS) qui a pour but de mettre en place une nouvelle application et de nouveaux Cubes pour améliorer l'existant.
+
+* Je travaille avec l'architecte EPM qui gère le design de l'application et les différents ateliers avec les utilisateurs. Mon rôle sur ce projet est de construire les Artéfacts (Dimensions, Formulaires...) de la nouvelle application
+* Exporter et Importer des artéfacts de l'ancienne application vers la nouvelle et les mettre à jour, chargement de données pour faire des tests.
+* Mise à jour des Scripts de calculs et les tester avec Smart view."
+2841644,"Demo Sepaq/PPS:      Préparer et délivrer des Demos Oracle EPM Budgeting Planning pour des clients, pour répondre à des appels d'offres. Ces demos sont faites en collaborations avec des consultants Avant-vente d'Oracle"
+2836571,"* Mettre au point un système de surveillance des données automatisé (Snowflake Tasks) utilisant Snowpark, SQL et des Python UDF pour garantir la qualité dans Snowflake, améliorant ainsi la fiabilité de la base de données de l'équipe marketing."
+2836571,Améliorer le système de recommandations de ventes e-commerce en développant le back-end d'un tableau de bord Power BI pour suivre les flux d'achats des clients. Celui-ci indique les séquences de produits fréquemment achetés et met en évidence des KRIs tels que le temps moyen de leur complétion.
+2836571,"Supporter les analyses en répondant aux demandes analytiques des professionnels du marketing, facilitant ainsi la prise de décision stratégique."
+2836571,"Migration automatique (pipeline ETL) de fichiers en format .parquet vers le cloud (Microsoft Azure) en utilisant PySpark, Python et SQL pour aider à leur ettoyage et leur intégration."
+2836571,Création d'un système de registres avec Power Automate pour surveiller la migration automatique et partager les résultats des statuts par courriel avec les utilisateurs finaux.
+2836571,Conception d'un tableau de bord avec Power BI de la performance des multiples processus ETL afin de créer un nouvel outil de détection d'anomalies et de communication des statuts.
+2836571,Développement et standardisation de l'écriture de la documentation au sein de l'équipe couvrant la documentation intégrée au code et celle des développeurs.
+2836571,"Création de projets pratiques axés sur la segmentation des clients, la construction de modèles de scoring des prospects et l'analyse des réseaux sociaux."
+2700124,"Livraison de pipelines de données conteneurisés, simplifiant le processus de consommation des données et aidant à obtenir leurs données plus rapidement."
+2700124,Conception du projet de consentement du client dans le cadre du programme MCP. A mis l'accent sur le renforcement des relations avec les clients existants grâce à des initiatives en matière de protection de la vie privée.
+2700124,Travailler en tant qu'architecte d'intégration pour construire des bases de données 360 avec les données transactionnelles des clients de [CLIENT].
+2708864,"Organiser et animer les cérémonies agiles (Sprint planning, Sprint review, rétrospectives)"
+2708864,Mettre en place les bonnes pratiques agiles
+2708864,Assurer la gestion de l'estimation et de la planification Agile
+2708864,Accompagner l'équipe de gestionnaire de projet dans l'amélioration des processus agile
+2708864,"Piloter, planifier et coordonner des projets"
+2708864,Assurer le respect du budget et des délais
+2708864,Responsable du développement de l'offre Data gouvernance
+2708864,Développement de rapports BI
+2818577,Having a great business acumen and active listening to be able to fully understand what people are trying to tell me.
+2818577,"Dealing with data modelling, cleansing and transformation, calculation, extraction, warehousing, collection, automation"
+2818577,Implementing effective data governance and documentation practices to last the project without too much effort.
+2818577,Delivering the appropriate solution that meets with the user needs.
+2818577,Managing the whole projects to make sure everything goes smoothly and as expected.
+2818577,Having a great business acumen and active listening to be able to fully understand what CEO are trying to tell us.
+2818577,"Being the most experienced, I had to help my partners understand what to do, supervise them, answer their questions and doubts."
+2818577,"Developing an ""ETL"" trough Power Query"
+2818577,Thinking about improvements for the future
+2818577,Organizing employees' tasks and make sure they know what to do and when and how to do it.
+2818577,Implementing documentation to facilitate clerk learning.
+2818577,Dealing with the marketing and the branch's opening
+2818577,"Resolving issues with customers by being respectful, professional and always commercial."
+2817191,Subject Matter Expert for the implementation and operationalization of [CLIENT]
+2817191,Help at the operationalization of Snowflake
+2817191,Creation of a backlog for the implementations of 2 new softwares
+2817191,Help to train and integrate new users to the platform
+2817191,Identify the business needs and translate it into functional and non-functional requirements
+2817191,Map of the Data Lake ETL and application of the business rules
+2817191,Client: Acquired insurance arm of one of Canada's largest banks
+2817191,"This project is part of a cross-functional program to migrate or convert policies from the [CLIENT]'s legacy system, AS400, to a new system, GuideWire PolicyCenter."
+2817191,Role: ETL specialist
+2817191,Document designs in system design specification (SDS) document
+2817191,Create mapping documents for ETL developers
+2817191,Design/Create/Perform validation test for ETL process
+2817191,Energy Supplier - Data Vault integration - Montreal; 8 months
+2817191,Client: Energy supplier of Quebec
+2817191,The [CLIENT] selected Deloitte to help them to take back the ownership of their data and improve he performance of their ETL process. I participate in Design and Development to enhance performance and data quality from a Budgeting process thank to the efficiency of the Data Vault
+2817191,Role: Analysis and development of a Data Vault
+2817191,"Perform workshops with the [CLIENT]: Design, Business Requirements, Integration in their system, knowledge transfer, etc."
+2817191,Work closely with the Business Analyst to extract the business rules from BW
+2817191,Data warehouse of SAP) (BA
+2817191,Translate the business needs into data compliance
+2817191,Create the mapping and Develop the entire solution
+2817191,Perform complete data quality analysis (Test strategy)
+2817191,Coordination and day-to-day follow-up with the [CLIENT] (BA and developers) and our team
+2817191,"Environments: BW (SAP), SSIS 2016"
+2449548,Migration de Power Center vers Informatica Cloud
+2449548,Migration de MicroStrategy vers Power BI
+2449548,Automatisation de l'ensemble de l'architecture via Stonebranch
+2449548,Analyses de performance
+2449548,Création du modèle de données avec l'équipe de reporting (modèle en étoile)
+2449548,Mise en place du processus d'intégration via Matillion et Azure
+2449548,"Focus sur Azure :
+- Création des instances Matillion 'from scratch'
+- Utilisation de azure automation account pour le start et le stop des machines virtuelles
+- Azure devOps permettant de gérer les différents environnements (développement, production).
+- Datalake pour l'historisation des fichiers"
+2449548,"- Snowflake : Création de l'ensemble des objets, gestion des droits"
+2449548,"- Analyses de performance : Considérant le volume de données, des stratégies d'optimisations ont été appliquées"
+2449548,Conseils et accompagnement
+2449548,Création du modèle de données (modèle en étoile)
+2449548,Mise en place du processus d'intégration via Matillion et AWS
+2449548,"Focus sur AWS:
+- Création des instances Matillion
+- DynamoDB pour le start et le stop des machines virtuelles
+- S3 bucket pour la réception et l'historisation des fichiers"
+2449548,Conseils et accompagnement
+2449548,Création du modèle de données (modèle en étoile) : Modèle comprenant des SCD2.
+2449548,Implémentation et automatisation sur Azure Data Factory (ADF)
+2449548,Utilisation de synapse serverless
+2449548,"Mis en place de Azure DevOps pour ADF afin de gérer les différents environnements (développement, production)"
+2449548,"Focus sur Azure :
+- Accompagné d'un architecte interne : proposition de l'ensemble de l'architecture 
+- Création d'un environnement 'from scratch'
+- Création de ADF et d'un workspace Synapse
+- Mise en place de l'architecture médaillon : raw, silver, gold 
+- Utilisation de fichiers parquets (notion de delta lake)
+- Gestion de la sécurité (Vnet, endpoints etc..)
+- Gestion de la confidentialité des données"
+2449548,Analyse et intégration des données via Talend (utlisation de CTEs)
+2449548,Automatisation du processus via GCP
+2449548,Création des objects sur Big Query
+2449548,Conseils et accompagnement
+2449548,Réplication de données en temps réel
+2449548,POC : Confluent Cloud (Kafka)
+2449548,"Snowflake : Créations des objets, gestions des accès, utilisation de dynamic tables, streams, tasks"
+2449548,Conseils et accompagnement
+2449548,Conseils et accompagnement sur Azure et Snowflake
+2449548,Intégration des sources Sql server via ADF et les procédures stockées sur Snowflake
+2451804,Set up and configure a new Snowflake environment for [CLIENT] use
+2451804,"Plan and implement security, storage, and warehouse"
+2451804,Advise on integration and management tasks
+2451804,Document new environment
+2451804,Interface with [CLIENT] DBAs for handover
+2451804,Assist developers and teams with technical expertise
+2451804,Analysis of current migration status
+2451804,"Advise on standards, development methodology and management practices"
+2451804,"Document solutions, proposals and analysis"
+2451804,Develop database tools to facilitate management of processes
+2451804,Coordinate with development teams
+2451804,Analysis of existing installations
+2451804,"Migration of Informatica PWC environment from 10.2 version to 10.5, including servers, services and repositories."
+2451804,Provide technical warehousing solutions
+2451804,Consult on technical hurdles
+2451804,"Document proposals, solution design, detail design"
+2451804,Develop database and integration packages
+2451804,Manage code deployments
+2451804,Strategic assistance and interventions
+2451804,"Analyze customer requirements, environments and systems"
+2451804,Propose migration solution
+2451804,"Document solution design, manage [CLIENT] presentations"
+2451804,System and platform analysis
+2451804,Provide expert assistance to associated teams
+2451804,Lead and organize development team efforts
+2451804,Manage the migration of environments
+2451804,Provide assistance and guidance to development team
+2451804,Oversee efforts to improve performance and stability
+2451804,"Advise, plan and manage the migration of data warehouse from Redshift to Snowflake"
+2451804,"Provide detailed migration plan for database, data movement operations and reporting"
+2451804,Assist developers and teams with technical expertise
+2451804,Advise and validate customer solutions and architecture
+2451804,Produce architecture specifications
+2451804,Assist developers and teams with technical expertise
+2451804,Upgrade existing processes for reliability and performance
+2451804,Analyze business requirements and customer constraints
+2451804,Advise and validate customer solutions and architecture
+2451804,Produce technical specifications and project reporting
+2451804,Assist developers and teams with technical expertise and oversight
+2451804,"Install, configure and administer new Informatica environments onsite with customers"
+2451804,"Provide customer support during development, testing and operational implementation"
+2451804,Apply technical and functional expertise on projects and propositions
+2451804,"Develop complex, multi-source integration solutions"
+2451804,Create and maintain developmental standards based on [CLIENT] requirements
+2451804,Conduct end-user and developer training
+2451804,Maintain server and service stability
+2451804,Upgrade existing processes for reliability and performance
+2451804,Development of high-volume ETL solutions
+2451804,Creation and revision of development standards
+2451804,Organization and management of local and offshore developer teams
+2451804,Review of development and post-project documentation
+2451804,Liaison with customer QA department
+2451804,Audit of existing ETL projects
+2452725,Développement de pipelines d’ingestion Datafactory
+2452725,Développement de fonctions et scripts de transformations Pyspark et Spark/Scala 4
+2452725,Industrialisation de modèles statistiques (IA) sur MLflow
+2452725,Déploiement de libraires et de tests automatisés sur Azure DevOps
+2452725,Analyse des sources de données internes et externes
+2452725,Analyse de l’architecture de données interne
+2452725,Élaboration de la proposition d’architecture Big Data
+2452725,Traduction de scripts ETL R existants vers du PySpark
+2452725,Ingestion de données dans le Datalake
+2452725,Configuration de l’environnement Azure 5
+2452725,Développement de scripts d’automatisation Python
+2453233,Analyse du besoin
+2453233,Proposition et présentation de corrections aux utilisateurs
+2453233,Validation de développements
+2453233,Analyses d'anomalies et évolutions
+2453233,Analyse du besoin
+2453233,Analysis des anomalies et évolutions
+2453233,Support à l’utilisateur final
+2453233,Monitoring applicatif de nuit
+2453233,Analyse du besoin
+2453233,Animation d’ateliers avec les lignes d’affaires
+2453233,Modélisation de données
+2453262,Création et administration de l'environnement Snowflake
+2453262,Analyse du modèle de données
+2453262,Développement des traitements ELT
+2453262,Développement des pipelines d'alimentation de données avec Azure Data Factory
+2453262,Développement des rapports PowerBI
+2501258,Recueillir et valider des besoins du département du risque en rapport avec le nouveau calcul en vigueur
+2501258,"Décrire les cas d’utilisation et les valider avec les représentants de la ligne d’affaires, et définir les requis systèmes à partir des besoins d’affaires travaille étroitement avec le partenaire d’affaires et l’analyste d’affaires afin d’assurer une compréhension partagée par tous les requis"
+2501258,Consigner les besoins sous forme de requis et les valider avec les parties prenantes
+2501258,"Concevoir des solutions efficientes via l’analyse des fonctionnalités actuelles des systèmes permettant de définir/recommander les solutions technologiques appropriées, en travaillant de près avec l’analyste et l’architecte"
+2501258,Analyser les différentes sources de données devant être utilisées (effectuer l'analyse de diverses stratégies ainsi que contribuer à définir des solutions d’extraction de données)
+2501258,Comparer les tables du Datawarehouse en rapport avec le nouveau projet (comprendre l'environnement ainsi que les besoins des clients pour guider l’approche multidimensionnelle à adopter)
+2501258,Participer à la modélisation multidimensionnelle de la cible (Target) avec les architectes BI et de données
+2501258,Créer la feuille de route ETL (Informatica et SSIS)
+2501258,Présenter le dossier fonctionnel au programmeur responsable de sa réalisation et le soutenir tout au long du développement
+2501258,"Faire l’analyse de l’univers Business Object, détermination des mesures et des dimensions, validation des contextes avec les développeurs en vue de mettre en œuvre des tableaux de bord de mesure de performance de l’activité de prêts aux utilisateurs"
+2501258,Concevoir le document de mapping Business Object (BO) aussi bien pour le Daily comme pour l’historique
+2501258,Rédiger des plans d'essais et cas d’essais aussi bien pour ETL que pour BO
+2501258,Effectuer des Tests fonctionnels et suivre les erreurs dans TFS
+2501258,"Développer le dossier fonctionnel (FAD Functional Analyze Document) présentant la stratégie globale d’extraction de données, de versionning, de test et de mise en production"
+2501258,Suivre l’avancement du projet au sein de l’équipe BI et rendre compte au chef de projet
+2501258,Jouer le rôle d’ambassadeur du BI dans l’organisation (design Authority) dans les différents projets
+2501258,"Animer et coordonner les réunions de recueil de besoins et de présentation des solutions proposées aux intégrateurs, développeurs et autres analystes"
+2501258,Procéder à l’analyse fonctionnelle de l’impact et de la qualité des données issues de la migration des systèmes BI Legacy (datamart) vers le nouveau système constitué d’un unique entrepôt
+2501258,Agir comme référent dédié à la qualité des données et à la gouvernance des données
+2501258,Définir et mettre en œuvre les normes et processus de qualité des données en fonction des projets et des attentes des [CLIENT]
+2501258,Définir et mettre en œuvre les normes et processus de qualité des données en fonction des projets et des attentes des [CLIENT]
+2501258,Collaborer avec les différentes équipes d'architecture pour répondre et respecter le processus de qualité des données selon les normes de sécurité
+2501258,Soutenir le responsable de la qualité des données en contribuant à l'exécution de la stratégie du cadre de qualité des données conformément aux attentes du [CLIENT]
+2501258,Produire de la documentation pour concevoir et développer des solutions conformément aux exigences du [CLIENT]
+2501258,"Réaliser et contribuer à des initiatives d'amélioration continue de la qualité des données selon les centres d'expertise BI, pour aider à la collecte des exigences et à la mise en œuvre du déploiement des solutions"
+2501258,Optimiser la qualité des données et l'intégration de nouvelles sources de données en fonction des exigences des tests d'acceptation des utilisateurs et des clients
+2501258,Tenir une vieille active sur les normes et processus de données pour en assurer la conformité
+2503861,Prepared and delivered targeted systems training for business personnel.
+2503861,"Translated business requirements into a higher-level conceptual design while ensuring the program met performance, usability, scalability and functional requirements."
+2503861,Advised customers and users regarding required maintenance practices of diverse Self-service options for Tableau development and industry best practices.
+2503861,Initiated efforts to migrate legacy applications to Tableau platform.
+2503861,Developed a brand-new method to restrict data based on user login at a data source level.
+2503861,Optimized Tableau project development and roll-out through in-depth technical research and analysis of risk-reward scenarios.
+2503861,Report Server.
+2503861,Worked closely with Business users and developed Dashboards based on Ad-hoc requests.
+2503861,Created various Customized and interactive Reports and Dashboards in Power BI.
+2503861,Published the Dashboards in Various BI projects and scheduled the Dashboards using Power BI
+2503861,"Creating a Query, the Query Editor Window in Power BI"
+2503861,Using Tiles and Power View Filters and connecting slicers to more than one table.
+2503861,Worked with Live and Extract connections with SQL.
+2503861,"Developed creative dashboards, complex calculations and developed SQL queries."
+2503861,- Developed dashboards for CALMA application for global users.
+2571584,Accompagement de deux équipes dans la mise en place du cadre méthodologique Scrum
+2571584,Organisation et animations des cérémonies Agiles
+2571584,Coaching des Product Owners dans la mise en place de Roadmap
+2571584,Amélioration de l'utilisation de Jira et Confluence
+2571584,"Animation et mise en place des communautés de pratique (DEV, QAs, OPs,..)"
+2645516,"Gestion des requis : Utiliser diverses techniques pour obtenir et clarifier les besoins d'affaire. Créer et maintenir une documentation complète (documenter les requis, cas d'usage, user stories et autres artefacts conformément aux lignes directrices BABOK)."
+2645516,"Engagement des parties prenantes : Assurer la liaison entre les parties prenantes, les experts par sujet et les équipes techniques, en veillant à une communication claire et à une bonne compréhension des besoins d'affaire."
+2645516,"Modélisation des processus : Analyser et modéliser les processus opérationnels actuels et futurs à l'aide de techniques telles que les diagrammes de flux de processus, cas d'usage, scénarios..."
+2645516,"Analyse de données : Analyser et interpréter les données afin d'identifier les tendances, les modèles et les schémas en place pour mieux éclairer les décisions de l'entreprise."
+2578963,"Analyse, collecte et documentation des besoins métier"
+2578963,Développement de solutions de préparation et transformation de données
+2578963,Rédaction et suivi de tests
+2578963,Coordination des équipes et gestion des dépendances avec les autres projets
+2579999,"[CLIENT] : Création d'un rapport Power BI opérationnel connecté à Snowflake, création d'une application Python de Monitoring de Power BI services avec les API Power BI."
+2579999,"[CLIENT] : Mise en place d'un environnement Power BI, développement d'un rapport power BI connecté à Snowflake, formation sur l'outil Power BI Desktop."
+2579999,"QSL : Modification et évolution sur un DWH existant, modification de rapports Power BI, développement d'un ETL pour remonter les données des systèmes sources."
+2579999,"[CLIENT] : Consultant sur leur projet d'utilisation de Power BI, formation Power BI."
+2579999,"CSF : Consultant sur leur projet d'utilisation de Power BI, mise en place de Dataflows."
+2579999,[CLIENT] : Développement de rapports Power BI.
+2579999,"[CLIENT] : Développements / Evolutions rapports Power BI, migration de tenant."
+2579999,[CLIENT] : Développements rapports Power BI.
+2579999,"Bitumar : Gestion Datawarehouse SQL, développements / évolutions sur SSIS."
+2579999,ACI : Développements / Évolutions rapports Power BI.
+2579999,"Medial : Développement rapport client, connexion avec API."
+2579999,"[CLIENT] : Formation Power BI, correction rapport Power BI."
+2579999,[Groupe Lefevbre] : Audit de leur environnement analytique pour migration.
+2579999,[CLIENT] : Formation Power BI
+2579999,"[Cirque du Soleil] : Formation Data Gouvernance / Power BI. Mandat client partie Analytique (développement de rapport, monitoring)"
+2579999,L'Oreal : Formation Data Gouvernance.
+2579999,[CLIENT] : Formation Power BI
+2579999,[CLIENT] : Développement de rapports avec l'utilisation de la plateforme Fabric
+2579999,[CLIENT] : Correction / Evolution sur un fichier de consolidation bancaire
+2579999,Ardene : Developpement de l'environnement analytique avec Power BI. Intervention en tant que Tech Lead.
+2501164,Concevoir une interface utilisateur fonctionnelle et attrayante
+2501164,"Concevoir l'architecture d'information et de contenu, et la navigation du rapport"
+2501164,Travailler en collaboration avec les consultants et développeurs
+2501164,Concevoir une interface utilisateur fonctionnelle et en lien avec la charte graphique de la compagnie
+2501164,Reconcevoir l'architecture d'information et de contenu
+2683916,"*      Handled unit, integration and regression testing of the various billing and invoicing scenarios and coordinated validation of the test results. Provided support to the billing team in analyzing and rectifying unbilled accounts."
+2683916,Involved in correcting budget and collective accounts. Execution of daily production report for the business SMEs. Provided post go-live support to analyzed defects and data. Daily monitoring of SAP logs and SAP EMMA cases for billing & invoicing processes.
+2683916,Involved in the execution of daily reports and provided them to the business community.
+2683916,*      Involved in supporting the billing and invoicing team to check the accuracy of the billing un.
+2683916,Provided support to fix billing errors as well as to fix accounts billed inaccurately.
+2683916,Involved in the analysis of accounts and provided solutions to fix billing errors.
+2683916,Designed and configured new rate categories and rate determination.
+2683916,Provided functional support and test data for interface development.
+2683916,Provided support to the FICA team and Bill print team to implement new functionalities.
+2683916,*      Involved in defining business requirements and developed business blueprints for business processes.
+2683916,Involved in configuring of SAP basic settings for the billing and invoicing area and this included setting up number ranges and setting up installation facts
+2683916,"Handled unit, integration and regression testing of the various billing and invoicing scenarios and coordinated validation of the test results with business experts. Provided support to the billing team in analyzing and rectifying unbilled accounts."
+2683916,Involved in the manual conversion process to convert multiple installation and contracts.
+2683916,"*      Involved in studying and documenting the ""As-Is"" processes for the legacy CIS system from both a functional and technical perspective. Was heavily involved in the blueprint phase and which included business processes for master data, meter reading, device management, billing, invoicing, budget billing plan and payment runs. Captured the different rates and the naming convention being used for it to be modelled in the new system."
+2683916,"Documented business requirements for third party collection, payment files and external invoice printing."
+2683916,"*      Configured basic settings for the system and this included setting up the number ranges checking for SAP rates, verifying standard IS-U parameter records, portions and meter reading units."
+2683916,"Actively managed and monitored progress against the plan using project management principles adjusted priorities as required, and regularly communicated progress to key stakeholders."
+2683916,"Developed specifications for interfaces for payment files, third-party bill print and new customer enrollment, also developed testing strategies and scenarios."
+2683916,"*      Led the Toronto Technical Banner Billing team, participated in documenting the ""As-Is"" process, and the design, construction, testing, implementation and support phases of interfaces, data conversion and reports of customized modules for the CIS Banner project for"
+2683916,"Southern Company Gas, USA."
+2683916,"Conducted design reviews/walk-through for gaps, conversion, interfaces and reports. Conducted construction reviews/walk-through for developed modules. Conducted blueprint validation as well."
+2683916,"Delivered high-stake projects under budget, including IVR, Summary/Pull Bill and Cancellation projects."
+2683916,"*      Lead user engagements for Requirements gathering for customized reports in the areas of order processing, delivery, pricing, billing and returns."
+2683916,Researched interface requirements and designed functional specifications for interfaces and ew reports.
+2683916,Studied and documented the possibility of using a third party credit check systems integrating with SAP.
+2683916,"*      Led the CIS development team for defect fixing, customization and data retrieval projects."
+2683916,Facilitated and Coordinated with different Business/System users in resolving data discrepancies.
+2683916,"*      Led the technical team in building applications to meet the demand for rapid processing of large amounts of data, data conversion, completion of complex calculations and transactions as well as configuration, testing and implementation of customized delinquency and customer contact modules."
+2683916,"Developed scripts to identify, analyze and fix data issues as well as developed code to fix product defects."
+2502347,"Projet 1: Concevoir, programmer et maintenir les systèmes de bases de données d’un site web d’information (Intranet - Infosource) destiné aux employés et administrateurs de l’entreprise :
+
+*Conçois et implante le modèle de données soutenant les applications
+*Analyse et programme les différents traitements du système de base de données
+*Établis des échéanciers d’implantation
+*Définis les tests de performance
+*Administre les systèmes de base de données
+*Travaille au sein d’une équipe de 4 analystes-programmeurs, 2 graphistes et 2 gestionnaires de projet pour plus de 15 000 utilisateurs."
+2502347,"Projet 2: Créer une passerelle de données entre deux logiciels de gestion en approvisionnement :
+
+*Évalue les besoins du [CLIENT] afin de déterminer les fonctionnalités du système
+*Définis les orientations technologiques, la méthodologie et les outils de programmation, les tests et le mode d’implantation
+*Conçois la passerelle, la programme, la teste et l’implante en production
+*Établis les échéanciers et supervise la réalisation des phases."
+2502347,"Projet 3: Concevoir le modèle de données d’un centre d’appels pour l’Agence des douanes et du revenu du Canada (ADRC). Administrer les bases de données :
+
+*Participe à l’architecture générale du système d’enregistrement des appels de Revenu Canada
+*Assume le rôle de conseiller principal aux bases de données dans l’équipe de développement
+*Conçois et programme le modèle de données du système.
+*Définis les tests de performance
+*Installe le système de gestion de base de données dans les environnements de développement et de production du gouvernement fédéral
+Travaille au sein d’une équipe de 15 développeurs, 2 gestionnaires de projet pour 
+850 utilisateurs répartis dans les bureaux de Montréal, Toronto et Vancouver"
+2502347,"Projet 4: Concevoir un système d’entrepôt de données produisant des analyses de coût par activité d’un centre hospitalier :
+
+*Conçois l’architecture complète du système d’entrepôt de données
+*Programme le modèle de données de l’entrepôt et les outils d’arrimage des données provenant des différents systèmes du centre hospitalier
+*Crée le site web fournissant les outils d’interrogation
+*Définis les tests de performance
+*Installe les environnements de production
+*Anime les rencontres permettant de spécifier les règles d’affaires et forme les utilisateurs"
+2501974,"Création de tableaux de bords de suivis de suivi de facturation, afin de soutenir les opérations en leur permettant d'identifier plus facilement les incohérences et en les aidant a optimiser les processus existants."
+2501974,Création des modèles sémantiques
+2501974,"Optimisation des tables et des vues dans Microsoft Fabric, pour optimiser la performance des modèles sémantiques et s'assurer de répondre au mieux aux besoins des rapports."
+2501974,Livraison en mode Agile avec Jira
+2501974,"Développement Power BI :
+Migration des anciens tableaux de reporting Cognos vers PowerBI (+ de 50 rapports).
+Création des tables et des vues dans Snowflake et création des modèles sémantiques dans PowerBI"
+2501974,"Optimisation:
+Concevoir les nouveaux tableaux de bord et migration des rapports existants en s'assurant d'optimiser et de challenger les métriques  afin de répondre au mieux aux besoins des utilisateurs finaux et de proposer des solutions d'optimisation adaptées."
+2501974,"Mise en place de normes de développement: Établir des normes de développement et de déploiement soient mises en œuvre et respectées afin d’assurer une cohérence et une uniformité entre les tableaux de bord  Power BI, la gestion des données, l’architecture des données et l’infrastructure de données."
+2501974,Recueillir et comprendre les besoins d'affaires amenant à l'élaboration des User Stories (Jira).
+2501974,Analyser les impacts TI et les efforts requis pour chaque livrable.
+2501974,Gestion du backlog et priorisation des livrables (de la mise en place jusqu'au déploiement).
+2501974,Documentation des projets et des spécifications techniques (Confluence).
+2501974,Validations en UAT des nouvelles fonctionnalités ( Snowflake/ DataBricks) avant release en PROD
+2501974,"++Business Intelligence (70%)++
+
+->  Déploiement de plus d'une vingtaine de tableaux de bords (PowerBI) pour différents départements de l'entreprise
+(marketing, ventes, opérations, service à la clientèle et amélioration continue).
+->  Définition des besoins en interne et compréhension des attentes des utilisateurs, extraction des données,
+transformation des données, élaboration du tableau de bord, intégration de mesures temporelles en DAX et validation des
+données finales.
+-> Élaboration et automatisation de la 'Scorecard' de l'unité d'affaires.
+-> Contrôle journalier de la qualité des données.
+-> Point de contact principal entre les utilisateurs et l'équipe TI (ingénieurs Azure)."
+2501974,"++Support aux utilisateurs (30%)++
+-> Animation de formations sur l'utilisation des tableaux de bord et vulgarisation du 'Data Lake' auprès des employés.
+-> Développement d'outils de formation et de documentation à destination des utilisateurs finaux."
+2501974,"++Autres projets (20%)++
+-> Extraction et analyse de données en Python pour des rapports ad hoc.
+-> Rédaction et mise en place d'un plan de contingence en cas d'interruption du service Azure."
+2501974,"++Business Intelligence (40%)++
+- Création de tableaux de bords interactifs avec PowerBI permettant un meilleur suivi des KPI de production:
+Suivi en temps réel des activités dans les usines, indicateurs de production et suivi des dépenses."
+2501974,"++Support aux opérations (40%)++
+- Préparation des rapports mensuels de gestion: production des résultats financiers (ventes, volumes de production,
+coûts de production, profitabilité et productivité des opérations)."
+2501974,"++Gestion de projets (20%)++
+- Étude et analyse de la profitabilité des projets: suivi des projets avec les différents départements (marketing,
+opérations), analyse de profitabilité, suivi des coûts de chaque projet et consolidation mensuelle des efficacités apportées par les projets."
+2501974,"++Gestion de la trésorerie++
+- Suivi des opérations bancaires, réconciliation des comptes, transferts de fonds et gestion des flux de trésorerie.
+- Analyse des écarts de trésorerie (prévisions vs transactions réelles).
+- Gestion des paiements hebdomadaires des fournisseurs."
+2501974,"++Analyse et traitement de données++
+- Développement de rapports et de tableaux de bord permettant un meilleur suivi des KPI mensuels des opérations et
+un suivi en temps réel de l'inventaire.
+- Vérification de l’intégrité et de la qualité des données entrées dans le système comptable."
+2501974,"++Participation au processus de clôture mensuelle++
+- Préparation des écritures comptables et production des rapports de suivi d'inventaire."
+2583132,Adapter les scripts SQL pour assurer la compatibilité avec Snowflake.
+2583132,Créer les procédures stockées selon les spécifications.
+2583132,Tester les procédures migrées pour garantir leur bon fonctionnement.
+2583132,Gérer le versionning des scripts et des procédures avec Azure DevOps.
+2583132,Identifier et Proposer des Alternatives Stratégiques visant à améliorer le processus de déploiement sur Azure DevOps
+2583132,Diagnostiquer et résolution des erreurs survenues sur Azure Data Factory.
+2583132,"Concevoir et mettre en œuvre un mécanisme robuste assurant l'exactitude des données lors du téléchargement à partir de l'API, renforçant ainsi la qualité des données intégrées."
+2583132,Migrer des packages DTS vers SSIS tout en veillant sur les performances et l'intégrité des données lors de l'intégration des données.
+2583132,"Transformer le code VB dans les packages DTS en C#, optimisant les scripts pour une meilleure maintenabilité et performance."
+2583132,Mettre en place des tests approfondis et des tests de non-régression pour valider l'exactitude des données tout au long de la migration.
+2583132,"Collaborer avec les parties prenantes pour recueillir les exigences et les traduire en modèles de données efficaces, garantissant l'exactitude, la cohérence et les performances des données."
+2583132,Collecter et analyser les exigences des utilisateurs métiers pour le processus ETL.
+2583132,Participer à la modélisation de l'entrepôt des données.
+2583132,Concevoir et élaborer un flux de travail ETL dans Azure Synapse pour automatiser le traitement des données de la source vers l'entrepôt des données.
+2583132,"Développer des transformations de données pour nettoyer, agréger et normaliser les données dans le processus ETL."
+2583132,Mettre en place des configurations paramétrées pour automatiser l'extraction de données et améliorer les performances du processus ETL.
+2583132,Développer des notebooks SPARK pour implémenter des transformations de données complexes et optimiser les performances du système.
+2583132,Créer des vues pour faciliter l'accès et l'analyse des données pour les utilisateurs métiers.
+2583132,Collaborer avec les parties prenantes pour s'assurer que les exigences sont satisfaites et que les données sont exploitées de manière optimale.
+2583132,"Élaborer et mettre en place des stratégies visant à améliorer les performances des tableaux de bord, telles que l'optimisation du modèle de données, l'ajustement des requêtes et les mécanismes de mise en cache."
+2583132,Appliquer la méthodologie Scrum pour organiser et gérer de manière efficiente les activités de développement.
+2583132,"Charger des données à partir de plusieurs bases de données MongoDB dans Snowflake en utilisant une solution rentable, flexible et dynamique."
+2583132,Mettre en place une solution d'audit pour capturer et stocker les métriques de performance des processus dans Azure Data Factory.
+2583132,"Développer un système d'exécution dynamique des jobs, permettant aux processus d'effectuer des sub-jobs en fonction de paramètres changeants."
+2583132,Créer un processus automatisé de génération de documentation pour le projet ADF en utilisant PowerShell.
+2689959,*    Dedicated PCO to a team delivering a 5-year software development project for the revamp of the application used by pharmacies to fill and bill prescriptions across all [CLIENT] and [CLIENT] pharmacies.
+2689959,Managed project financials for a team of 40 people.
+2689959,"Setup project documentation in SharePoint, Teams, Confluence."
+2689959,Prepared and tracked the project plan in Microsoft Project.
+2689959,Participated in the organization of the project governance.
+2689959,Worked with software development teams using Agile methodologies and tools.
+2689959,*    Setup of Data Extraction team within [CLIENT] and outside vendors for 5 Divestiture Programs.
+2689959,"Responsible for implementing tracking tools that enabled daily reporting on project activities and record keeping (SharePoint timesheet, activity-issue tracker, data folders)."
+2689959,Managed a complex monthly financial chargeback across multiple internal teams (monthly 250K).
+2689959,"Responsible for reviewing SOWs, preparing POs and invoice tracking with outside vendors."
+2689959,Oversee 2 portfolios: up to 80 projects at one time representing a $20M annual Portfolio budget.
+2689959,Responsible for processing all Purchase Orders for the projects as well as invoice approvals.
+2689959,Reviewed monthly cost reports and accruals with PMs; responsible for coaching and ensuring accurate forecasting and reporting done by the [CLIENT] team.
+2689959,Implemented improvements and consolidated various tracking tools used by the PMO and PCO teams.
+2689959,Mentor to junior PCOs as well as training new team of interns each semester.
+2689959,"*    Audit and QA review all project management related documents (Charter, Financials, Project Management"
+2689959,Plan) submitted for the project gating process and manage the administration of the funding request.
+2689959,"Coordinate the operationalization of the newly implemented project life cycle, which includes the update of templates, process improvements and documentation, and updates to the PMO SharePoint site."
+2689959,"Responsible for promoting the project life cycle process through written communication to the IT Project community and the organization of group learning sessions, PM community meetings."
+2689959,"Manage the administration of the Smartsheet project tracker tool: support to the PM community, develop eports and dashboards, improvements to existing processes and templates."
+2689959,"Review and provide sign-off on project closures from a governance standpoint; measure adherence to project life cycle process, quality of deliverables, use of the available tools and templates."
+2689959,"General go-to for project governance questions, issues, project tasks and administration (SharePoint eporting, change requests, project lifecycle, gating process, Smartsheet tracker tool)."
+2689959,"*    Managed the project budgets for the Global IT Portfolio ($13M); setup budget tracking, acted as lead contact with finance, conducted monthly reviews with project managers, responsible for accrual process."
+2689959,"Lead and organized the Project Review Boards and in turn prepared the Executive Dashboard (included project status, KPIs, Risks and Issues) for the CIO and regional IT Directors."
+2689959,"Coordinated with the Portfolio team, the yearly Portfolio planning exercise which included the Global projects and the consolidation of regional project portfolios; all within a decentralized environment."
+2689959,Setup the SharePoint site for Global Portfolio which included creation of project templates (RAID logs)
+2689959,"Project Status Reports, Dashboard, Charter, Project Closure) as well as repository for project financials contract management, team operations."
+2689959,Lead preparation of project plan for the Infrastructure Outsourcing transition team.
+2689959,Organized PMO forums with the objective of knowledge sharing of project processes across worldwide egional PMOs; part of a continuous improvement initiative.
+2689959,Coordinated transition activities for in-flight projects and integrate PMO processes with outsourcing partner.
+2689959,*    Program Control Officer for two projects sponsored by Finance function: Financial Planning & Analysis
+2689959,$6M) and Enhanced Finance Controls and Analysis ($5M).
+2689959,"Managed project budgets with multiple sources of data, prepared IT/Business View, tracked multi-year project against the portfolio budget. Prepared monthly cost reports for PMO and finance teams."
+2689959,Lead the Daily Morning Meetings with Business and IT teams.
+2689959,Setup governance structure with program manager (business and IT participation).
+2689959,Prepared Steering Committees presentations with PM and took meeting minutes during the meeting.
+2689959,Coordinated procurement activities for contracts with external suppliers.
+2689959,"Setup project documentation and performed weekly tracking on risks, actions, issues, decisions."
+2689959,Prepared weekly status reports for key project stakeholders and PMO teams.
+2689959,Project Management Analyst
+2689959,"Revamped the main PMO reporting tool used across all IT Delivery teams; created the template, executed ain the trainer sessions and provide support post-implementation."
+2689959,"Reporting tool encompassed weekly status on a project with embedded risk, action, issue, decision logs to facilitate automation and ease of reporting. Report aligned with the CIO's Project Portfolio tracking."
+2689959,*    Prepared and controlled project budgets for software development studio working in an Agile environment.
+2689959,Organized and tracked resource allocation for 60 resources delivering on-going projects.
+2689959,*    Lead and delivered projects successfully within a Project Management Office for a major client ([CLIENT]).
+2689959,Managed an average of 20 projects representing budget over $1M while respecting quality and maintaining focus on meeting [CLIENT] requirements and expectations.
+2689959,"Controlled project plans that accounted for project risk, scope, schedule, and cost."
+2689959,Coordinated weekly team meetings with external [CLIENT]; Specialized in international projects and crossfunctional teams.
+2689959,Built proposals and pricing with technical teams that brought value to the [CLIENT] requirements.
+2689959,*    Managed and controlled the contractual and financial aspect of 15 on-going projects for [CLIENT] client.
+2689959,Ensured project health by using project management methodology and following business control processes.
+2689959,Created and monitored project work schedules and budgets.
+2689959,Focal point for 30 on-going proposals and responsible for reporting results to upper management.
+2689959,Trained new resources and undertook a team lead approach within Project Control team.
+2693756,"Reviewed recent SAP implementation for [CLIENT] and identified processes, system gaps and recommended solution."
+2693756,"Led projects for SAP ERP enhancement, systems integration, and BI solution projects."
+2693756,Communicated with Senior Executive Team to share IT best practices and develop strategy and implementation road map for [CLIENT] Canada and [CLIENT] Finance Company
+2693756,"Collaborated with colleagues both within, and outside the IT organisation and [CLIENT] USA"
+2693756,Reviewed current Management Reporting tools SAP BO and Non-SAP platforms and recommend solutions
+2693756,"Led Management Reporting projects on BW/BI, Legacy mainframe and reporting systems"
+2693756,Delivered of projects within timescales and budgets.
+2693756,Solved complex business process and system issues
+2693756,"Led SAP, BW/BO, Siebel enhancement and YDS portal projects"
+2693756,Collaborated with Corporate Executive Team to implement PMO practice for [CLIENT] region
+2693756,"Collaborated with cross functional teams from Finance, IT&S and Operations to document and analyze current financial systems, processes and data management"
+2693756,Led project meetings to understand the scope of the project
+2693756,"Collected, analyzed and documented user requirements in order to improve business operations in SAP ERP and BI solution"
+2693756,"Designed, implemented, and mapped processes, tools and systems necessary to ensure Finance processes are effective, and IT quality service levels are delivered"
+2693756,Led Business Objects 4.0 project for [CLIENT]
+2693756,Owned BO project deliverables and responsible for the day-to-day project management.
+2693756,"Worked closely with SAP Business Objects USA project team, business managers and finance leaders and SAP Business Partners to assess and analyze the various needs in all areas of strategic organizational development, effectiveness, and financial management."
+2693756,"Collaborated with other functional engineers, team leads, managers, and business representatives o determine schedules and project timeframes."
+2693756,"Organization Structure, General Ledger, Cash Journal, New GL, Accounts Payable, Accounts Receivable Fixed Assets."
+2693756,Analyzed existing SAP Accounts Payable processes and made process improvement
+2693756,"Analyzed and made recommendations for requests for changes to end user security based knowledge of SAP transactions, separation of duties and general business processes"
+2693756,"Led the business requirements gathering, system design, configuration and testing"
+2693756,Interacted with [CLIENT] Super Users for requirement analysis and testing
+2693756,Provided in-depth knowledge of the ERP application and evaluated the customers' business requirements with the standard SAP and other ERP solutions
+2693756,Demonstrated experience in use of the prescribed implementation methodology
+2693756,Supported the user acceptance testing and trained customer resources to successfully use and maintain the ERP application and [CLIENT] BI/CPM software
+2693756,"Provided training to business users on system navigation, General Ledger, AR, AP, BR"
+2513866,Stabiliser l'environnement existant sur Azure Devops : simplifier et documenter les process d'intégration et de déploiement
+2513866,"Améliorer l'intégration et le déploiement des assets Power BI : tests automatisés, CI/CD, monitorer l'utilisation de la capacité"
+2513866,"Monitorer la qualité et la sécurité de la donnée : meta donnée de Power BI, masking policies sur Snowflake, rls sur Power BI"
+2513866,"Conception de solutions techniques pour répondre aux besoins des utilisateurs : cadrage, chiffrage"
+2513866,"Mise en place de processus de développement et de bonnes pratiques inter équipes impliquant Dataiku, Snowflake, Power BI, Azure Devops"
+2513866,Améliorer la performance de procédures stockées sur Snowflake et mettre en place du rafraichissement incrémental : technique Watermark  Task DAG dans Snowflake
+2513866,"Administration des comptes de service et outils : communication, sécurisation des secrets et mots de passe, planning de rotation de mots de passe"
+2513866,Développement de rapports et datasets Power BI / Fabric
+2513866,"Concevoir, optimiser et évaluer le coût de la plateforme d'intégration"
+2513866,Développer la plateforme d'intégration
+2513866,Concevoir les visualisations et les développer sur Power BI
+2513866,Intégrer les calculs de performances énergétiques dans le flux de données
+2513866,Accompagner le [CLIENT] dans la modélisation des calculs dans le cadre d'une augmentation des bâtiments monitorés.
+2513866,Suivre les actions et impliquer le [CLIENT] dans le développement du projet
+2513866,"Administrer les différents environnements de travail (dev et prod) : version de code, flux de données, base de données, version de rapports Power BI"
+2513866,Maintenir et documenter un flux de données existant sur Azure Data Factory
+2513866,Concevoir et développer les évolutions pour répondre aux demandes clients
+2513866,Mettre en place un flux de données depuis un ERP vers une database Snowflake.
+2513866,Répliquer des transformations existantes sur le pipeline précédent en les intégrant au nouveau via dbt.
+2513866,Gérer l'accès aux données qui seront consommées par Power BI
+2513866,"Extraction de données de Contentful via Webhook, API et Lambda function (AWS)"
+2513866,Intégration dans un flux de données via Fivetran
+2513866,Transformation de données semi-structurée via dbt
+2513831,Mission stratégie et gouvernance - [CLIENT] - Elaboration du plan stratégique data - Acculturation COMEX et directions métiers - Mise en place d'une approche datamesh - Définition et mise en place du framework de gouvernance des données - Management de l'équipe data - Mars 2023 à juillet 2024
+2513831,Mission de conseil - [CLIENT] ([CLIENT] - Canada) - Gouvernance des données - Audit du système actuel - Préconisations et proposition d'un framework de gouvernance - Accompagnement pour la mise en oeuvre - Novembre 2023 à Juillet 2024
+2513831,Mission de conseil - [CLIENT] (Canada) - Audit du systeme data existant - Formalisation des ambitions métiers & IT - Elaboration d'un plan stratégique data - Septembre 2023 à janvier 2024
+2513831,Mission de conseil - Groupe [CLIENT] (Canada) - Participation au plan stratégique data - Octobre 2022 à mars 2023
+2513831,"Animation de la Business Unit Project Management - Structuration des équipes, Management, Recrutement, Design méthodologie et framework de gestion de projet, Amélioration continue des processus internes"
+2513831,"Responsable des offres Project Management, Gouvernance & Stratégie Data"
+2513831,Relation avec les universités
+2513848,"- Auditer les opération journalieres
+- Corriger les erreurs
+- Développer de nouvelles fonctionnalités
+- Assistance des utilisateurs"
+2513848,"**[CLIENT]**
+
+**Mise en place de reporting** 
+
+- Participation aux ateliers de conception
+- Création de datasets 
+- Gestion de flux de données AIH grâce aux DTP
+- Mise à jour du workflow 
+- Développement des rapports de saisie"
+2662823,Oversee the university's website redesign and admissions program in close collaboration with internal employees and consultants from various sectors.
+2662823,"Identified, defined and established project objectives, budget needs, roles, responsibilities and roadmap."
+2662823,"Creation of thorough project plans, migration roadmaps and strategies to ensure smooth project execution and within defined time and cost."
+2662823,"Monitoring of project progress, risk and change management and regular communication with senior management."
+2662823,Oversee numerous BI IT projects in close collaboration with internal employees and consultants from various sectors.
+2662823,Involvement of the scrum master from project alignment to closure.
+2662823,"Identified, defined and established project objectives, budget needs, roles, responsibilities and roadmap."
+2662823,"Creation of thorough project plans, migration roadmaps and strategies to ensure smooth project execution and within defined time and cost."
+2662823,"Monitoring of project progress, risk and change management and regular communication with senior management."
+2662823,Acting IT Support Team Manager
+2662823,Oversee numerous IT projects in close collaboration with internal employees and consultants from various sectors.
+2662823,"Identified, defined and established project objectives, budget needs, roles, esponsibilities and roadmap."
+2662823,"Creation of thorough project plans, migration roadmaps and strategies to ensure smooth project execution and within defined time and cost."
+2662823,"Monitoring of project progress, isk and change management and regular communication with senior management."
+2662823,"Oversaw numerous IT projects in close collaboration with internal employees and consultants from various sectors. Identified, defined, and established project objectives, budgetary needs, roles, responsibilities, and roadmap."
+2662823,"Created in-depth project plans, migration roadmaps, and strategies to ensure smooth project execution and within set timeline and cost requirement."
+2662823,Monitored and communicated project progress on regular basis with senior management
+2662823,Azure Migration (Cloud) and Server Migration (On-Prem)
+2662823,"Evaluated, replaced, and decommissioned Microsoft BizTalk server and APEC systems."
+2662823,"Jenkins Update, Web Stack Updates"
+2662823,Oversaw Salesforce optimizations and deployment in close collaboration with internal employees and consultants from various departments.
+2662823,"Identified, defined, and established project objectives, budgetary needs, roles, responsibilities, and roadmap."
+2662823,"Created in-depth project plans, migration roadmaps, and strategies to ensure smooth project execution, change management and within set timeline and cost requirement."
+2662823,Supervised and reported project progress on regular basis with senior management and stakeholders.
+2662823,Administered Salesforce customer relationship management (CRM) and FinancialForce (ERP Cloud) implementation for four customers.
+2662823,Managed projects from initial phase to delivery phase deployment in close collaboration with internal employees and consultants from various departments.
+2662823,"Identified, defined, and established project objectives, roles, responsibilities, and roadmap."
+2662823,"Formulated detailed project plans, migration roadmaps, and strategies to ensure smooth project execution, change management while meeting timeline and cost requirements."
+2662823,Monitored and communicated project progress on regular basis with executive management and stakeholders.
+2662823,Oversaw numerous IT projects in close collaboration with internal employees and consultants from various sectors.
+2662823,"Identified, defined, and established project objectives, budgetary needs, roles, responsibilities, and roadmap."
+2662823,"Created in-depth project plans, migration roadmaps, and strategies to ensure smooth project execution and within set timeline and cost requirement."
+2662823,"Monitored and communicated project progress on regular basis with senior management, while according with PMO standards."
+2662823,"Updated project documentations, including charts, tables, plans, and diagrams for assistance in issue analysis and resolution."
+2662823,"Organized periodic meeting with all levels of management for overseeing project changes/status, negotiations, and prioritizing work."
+2662823,Implemented Statistical Analysis System (SAS) solution for International Financial Reporting
+2662823,"Standards (IFRS), while managing $30M budget."
+2662823,"Deployed IT Scrum and Kanban board for tracking day-to-day processes/activities identifying/mitigating technical bugs and risks, developing software, and ensuring quality assurance."
+2662823,"Piloted project operations from inception to finalization which included plan development execution, transition stage, and resources allocation in line with established project scope and quality constraints."
+2662823,Projected and administered project budgets with minimal negative impact on budget.
+2662823,"Delegated high performing quality assurance team, including lead QA and two analysts on project."
+2662823,"Developed tactical project and program plans, while complying with business requirements."
+2662823,Directed team activities to ensure maximum productivity and performance in compliance with cost and time requirements.
+2662823,"Planned, developed, and implemented projects through resources allocation and adherence with project scope, quality requirements, and timeframe."
+2662823,"Forecasted, tacked, and managed project as well as program budgets in efficient manner."
+2662823,Oversaw technical delivery of projects and programs as scheduled.
+2662823,"Maintained charts, tables, diagrams, and plans with up-to-date information for facilitating risk analysis and rectification."
+2662823,Deployed Oracle Enterprise Resource Planning (ERP) Cloud by managing budget of around $40M and 25k p-d.
+2662823,"Successfully installed IT Scrum and Kanban board for keeping abreast with existing processes/operations, software development, bugs identification/mitigation, and quality assurance."
+2662823,"Controlled project costs, timelines, and daily activities in line with established project roadmap."
+2662823,Scrutinized project progress to identify and report areas of improvement by delivering ecommendations.
+2662823,"Generated and maintained various reports regarding projects, records, dashboards, meetings progress for communicating with project office, manager, and management committees."
+2662823,"Spearheaded five envelope projects (Identity and Access Management, EPM, GEN IV, System Update) of worth Gen$35M throughout completion within deadline and budget."
+2662823,"Ensured imely project deliverables by overseeing changes requests, project closure, and chart progress board."
+2662823,"Coached and guided project leaders for efficiently leveraging project/practical management tools, budget management/planning, and documentation control."
+2662823,"Stowed and automated connection between Identity and Access Management system and HR system through roles/account deployment, risk analysis/identification, orphan accounts closure, user ID consolidation, and workflow implementation."
+2662823,"Revamped project office by developing and executing project plans and standards/procedures optimizing EPM, formulating templates, and maintaining software applications."
+2766619,"Définir et déployer la vision, les objectifs et les plans d’action relatifs à l’Analytique en cohérence avec la stratégie globale de [CLIENT]."
+2766619,Collaborer étroitement avec le [CLIENT] pour stimuler la croissance des revenus et avec le [CLIENT] pour optimiser les opérations.
+2766619,"Intervenir en tant que Customer Success Manager sur des comptes stratégiques pour assurer la bonne tenue de nos interventions, maintenir une excellente relation avec le client et générer des opportunités."
+2766619,S’assurer du bon taux d’activité des consultants de la BU et de sa rentabilité
+2766619,Anticiper les risques et mettre en place des actions préventives et évolutives afin de les gérer
+2766619,"Représenter l’Entreprise sur son périmètre d’activité, faire connaître sa BU et son offre sur le marché."
+2766619,"Assumer un rôle d'architecte, superviser les autres architectes et les faire profiter de son expérience pour leur permettre de monter en compétence."
+2766619,"En lien avec le Bureau de projet, assurer la bonne tenue des projets analytiques, qu’ils soient terminés dans les délais, respectent le budget et soient de la plus haute qualité."
+2766619,"Composer, affecter et coordonner, en collaboration avec les ventes, les équipes opérationnelles dans le cadre des activités pré-sales : démos, appels de découverte, présentations, propositions; il est le garant de l’implication de ses équipes et du respect du process de vente par celles-ci"
+2766619,"Supervise l'ensemble des livraisons analytiques de son périmètre, des aspects de Pré-sales, et des activités architecturales."
+2766619,Membre de la direction de la pratique d'ingénierie des données
+2766619,Impliqué dans le processus de recrutement afin de constituer une équipe performante et talentueuse à Montréal et Toronto.
+2766619,Gestion des affectations de nos talents pour les nouveaux projets [CLIENT] en alignant les compétences adéquates avec les initiatives pertinentes pour maximiser la performance de l'équipe et assurer le succès des projets.
+2766619,Organiser des réunions d'équipe pour promouvoir la collaboration et la communication entre les membres de l'équipe.
+2766619,Cultiver des partenariats technologiques et élaborant une feuille de route pluriannuelle pour la pratique.
+2766619,"Diriger les efforts pour établir et mettre en œuvre des pratiques de pointe des méthodologies innovantes, des cadres techniques et des accélérateurs dans l'industrie."
+2766619,"Apporter un soutien ponctuel aux diverses équipes de projet en tant qu'expert en la matière, contribuant à leur succès et développement."
+2766619,"* Piloter l'exploration, la conception et le déploiement de la mise en œuvre de la plateforme de données Azure et Databricks et la création de rapports MVP Power BI, incluant l'architecture cible, les pipelines d'ingestion de données et les configurations des services de données Azure et de la plateforme Databricks."
+2766619,"Apporter soutien, conseils et partager les meilleures pratiques Azure avec les clients."
+2766619,"Animer des sessions de transfert de connaissances, des démonstrations de solutions et rédiger une documentation détaillée des solutions."
+2766619,"Entretenir une communication régulière et soutenue avec les clients lors des réunions de suivi, fournissant des mises à jour, des éclairages et des recommandations expertes pour stimuler la collaboration et encourager le succès."
+2766619,Organiser et orchestrer les sprint planning pour les membres de l'équipe assurant une répartition optimale des tâches et un bon déroulement des projets.
+2766619,"Piloter l'exploration, la conception et le déploiement de la mise en œuvre de la plateforme de données Azure et la création de rapports MVP Power BI, incluant l'architecture cible, les pipelines d'ingestion de données et les configurations des services de données Azure."
+2766619,"Apporter soutien, conseils et partager les meilleures pratiques Azure avec les clients."
+2766619,"Animer des sessions de transfert de connaissances, des démonstrations de solutions et rédiger une documentation détaillée des solutions."
+2766619,"Entretenir une communication régulière et soutenue avec les clients lors des réunions de suivi, fournissant des mises à jour, des éclairages et des recommandations expertes pour stimuler la collaboration et encourager le succès."
+2766619,Organiser et orchestrer les sprint planning pour les membres de l'équipe assurant une répartition optimale des tâches et un bon déroulement des projets.
+2766619,Élaborer une stratégie de plateforme de données Azure à l'échelle de l'entreprise pour répondre aux besoins prioritaires de la [CLIENT].
+2766619,Documenter une architecture cible de référence alignés avec les principes clés et la vision [CLIENT].
+2766619,Participer activement à la stratégie de Gestion du Changement et aux initiatives de gouvernance des rapports.
+2766619,"Maintenir une communication soutenue et régulière avec les clients lors des réunions de suivi, apportant des mises à jour, des conseils avisés et des recommandations d'experts pour stimuler la collaboration et garantir le succès des projets."
+2766619,"Piloter une équipe transversale de 12 membres pour unifier diverses sources de données au sein d'une architecture globale, permettant l'élaboration d'offres précieuses pour les clients biopharmaceutiques."
+2766619,Instaurer des méthodologies rigoureuses pour l'entretien et l'appui d'écosystèmes complexes dotés d'applications à fort impact.
+2766619,Planifier et orchestrer les emplois du temps des membres de l'équipe garantissant une attribution optimale des tâches et un bon déroulement des projets.
+2766619,"Concevoir une solution intégrant Snowflake, Matillion, Qlik Replicate sur Azure et Power BI."
+2766619,"Entretenir une communication soutenue et régulière avec les clients lors des réunions de suivi, apportant des mises à jour, des éclairages et des recommandations d'experts pour stimuler la collaboration et assurer le succès des projets."
+2766619,"En tant que fervent défenseur des solutions innovantes et des analyses basées sur les données, j'ai joué un rôle crucial en tant que Responsable de Centre d'Excellence en Données et Analytique Avancée, contribuant au succès organisationnel grâce à des stratégies et technologies de pointe."
+2766619,"Diriger le recrutement, la formation et le développement professionnel des membres de l'équipe, en leur fournissant un encadrement pratique et un soutien technique pour les aider à atteindre leurs objectifs."
+2766619,"Surveiller et gérer plusieurs projets, fournissant des mises à jour régulières et des rapports de progression lors des réunions de comité de suivi."
+2766619,"Élaborer et mettre en œuvre une feuille de route pluriannuelle pour les données et l'analyse, alignée sur les objectifs de l'[CLIENT] et comprenant l'architecture, la stratégie cloud, la gouvernance des données, l'analyse avancée avec l'apprentissage automatique, la littératie des données et la formation des équipes d'affaires."
+2766619,"Collaborer avec diverses équipes, y compris l'architecture d'entreprise l'infrastructure, DevOps, la cybersécurité, la gestion de projet et les lignes d'affaires, pour créer un portefeuille de projets complet et présenter des stratégies, projets et démonstrations innovants."
+2766619,"Initier un programme novateur visant à attirer et à former des talents émergents juniors, en leur offrant des opportunités variées pour travailler dans différentes lignes d'activité et développer leur expertise en matière de données et d'analyses avancées."
+2766619,"Responsable de la conception technique détaillée, de la mise en œuvre et de l'évolution de la plateforme de gestion de données et intelligence d'affaire."
+2766619,"Participer aux divers projets dans les phases d'architecture de solution, de données et d'intégration."
+2766619,Encadrer les équipes de développements en recommandant les orientations et les décisions techniques.
+2766619,Accompagner les différents intervenants lors du cycle de vie du développement des projets et des évolutions.
+2766619,Conceptualiser les solutions en considérant les principes directeurs et les ormes d'architecture corporative de la [CLIENT].
+2766619,"Etablir des stratégies et s'assurer de leur mise en place pour mieux gérer l'évolution de nos applications, de nos infrastructures, et assurer la pérennité de nos solutions existantes."
+2766619,Traiter et estimer les nouvelles demandes de sujets de données et d'intégration systèmes des différents projets d'affaires.
+2766619,Assurer la vigie des systèmes d'information et des technologies.
+2664664,Consolidate selected duplicate applications due to [CLIENT] acquisition by [CLIENT]
+2664664,Manage evolution projects of extranet with Scrum methodology (TFS / Jira)
+2664664,Ensure project compliance with Ops and Change Control teams
+2599691,Accompagnement d'une équipe dans la mise en place du cadre méthodologique Scrum
+2599691,Organisation et animation des cérémonies Agiles
+2599691,Facilitateur dans l'organisation du compte et la gestion des parties prenantes
+2599691,"Amélioration continue des processus, des procédures et des outils en place"
+2599691,"Accompagnement du [CLIENT] dans la toute la chaîne de valeur BI de l'entreprise (RSE, Finance, TI, Logistics, RH)"
+2599691,Organisation des rencontres stratégiques afin de mieux adresser les sujets à moyen long terme
+2599691,"Facilitateur dans l'organisation et la structure du compte (gestion de projet, admin, facturation)"
+2599691,"Amélioration continue des processus de support, d'évolution et d'astreintes"
+2599691,Estimation / costing de projet BI / IA
+2599691,Leader interne chez [CLIENT] pour renforcer les compétences des consultants en réponse aux besoins client
+2599691,J'agis comme facilitateur lors de rencontres Métiers/Techniques pour la création et le support d'une plateforme analytique
+2599691,Accompagnement dans la mise en place d'un cadre méthodologique Agile
+2599691,Assurer le suivi et garantir la synchronisation des différentes parties prenantes
+2599691,"Intégré au sein du pôle projet de Solution BI, j'interviens pour [CLIENT] en tant que gestionnaire de projets dans le domaine de l'intelligence d'affaires BI et IA. Mes activités sont centrées autour de la satisfaction client, depuis le recueil du besoin jusqu'à la livraison en production. Je suis également impliqué dans la structuration du bureau pour définir et améliorer les processus actuels"
+2560995,Maintenance et évolution du système décisionnel existant sous DataVault
+2560995,Analyse fonctionnelle des périmètres Epargne et Investissement
+2560995,Rédaction des besoins métiers en technique
+2560995,Migration des donnes vers Fabric et création des pipelines ADF
+2634429,Intégration dans l'ecosytème de [CLIENT] de 4 nouvelles entités suite à une acquisition acquisition
+2634429,"Implantation des modules Grand livre, Banque, [CLIENT], [CLIENT] approvisionnement"
+2634429,Mise en place de l'outil Financial reporter
+2634429,Support et formation aux utilisateurs
+2634429,Implantation du progiciel Dynamics AX 2012
+2634429,"Mise en place des modules Grand livre, Banque, [CLIENT], fournisseur"
+2634429,Accompagnement Post GO-live et support aux utilisateurs
+2634429,Préparation et analyse des états financiers de la filiale Service de café Van Houtte
+2634429,Suivi des contrôles SOX
+2634429,Suivi des Immobilisations
+2634429,Consolidation des entités
+2634865,"Prodiguer les conseils stratégiques et les conseils en matière de technologie et soutien à la sélection de systèmes à des centaines d'entreprises à travers le Canada (stratégies numériques, demandes de propositions, examens de contrats et soutien à la mise en œuvre);"
+2634865,"Rédiger les stratégies numériques, les plans d'action et de continuité, les recommandations, les sélections de systèmes et les mises en œuvre pour plus d'une centaine de petites et moyennes entreprises à travers le Canada;"
+2634865,Présenter les recommandations et les solutions proposées aux actionnaires et dirigeants des [CLIENT];
+2634865,Assurer la gestion de projet et la supervision de la livraison des mandats par une équipe de conseillers externes à travers le Canada;
+2634865,Réviser et négocier les contrats informatiques avec les éditeurs et fournisseurs de progiciels
+2634865,"Assurer le leadership de l'équipe interne pour développer et améliorer les solutions de consultation, les outils et les techniques de livraison;"
+2634865,"Adapter les meilleures pratiques BABOK, PMBOK, BPMN et TOGAF à la pratique, la gestion de projet et les livrables produits;"
+2634865,"Assurer le développement des affaires pour la pratique, y compris l'élaboration de propositions l'estimation de l'effort de prestation et les ressources requises;"
+2634865,"Collaborer avec plusieurs éditeurs de logiciels et revendeurs de logiciels à valeur ajoutée en Amérique du Nord tels que SAP, Microsoft, Oracle, Epicor, Infor, Syspro et Sage."
+2634865,Agir à titre d'analyse d'affaires pour une solution d'analyse des risques et la gestion des prêts basés sur Microsoft Dynamics CRM;
+2634865,Modéliser les diagrammes des cas d'utilisation et des scénarios (UML)
+2634865,Réaliser les modèles de processus d'affaires (BPMN)
+2634865,Former les analystes d'affaires sur les meilleures pratiques pour le développement des scénarios de cas d'utilisation;
+2634865,Collaborer avec les experts en la matière pour déterminer les exigences opérationnelles; chefs d'entreprise afin de définir l'analyse de rentabilisation et la portée de la solution; architectes de solutions et d'entreprises afin de répondre aux besoins de l'entreprise dans le cadre de l'entreprise existante et proposée (comité d'architecture);
+2634865,Définir les processus métier et améliorer les processus métiers existants compte tenu de la mise en place de la nouvelle plateforme utilisant BPMN et UML;
+2634865,Réaliser les ateliers et les sessions d'entretien en collaboration avec les gestionnaires et les utilisateurs afin d'obtenir et de documenter les besoins de l'entreprise.
+2671704,"IA générative
+- Développement d'un chatbot intégré à Snowflake, permettant aux employés de rechercher des informations essentielles parmi les messages et pièces jointes suite à la migration de Slack vers Teams. Ce chatbot a été conçu pour faciliter l'accès aux données clés transférées lors de ce changement d'outil de communication.
+- Développement d'une application de matching conçue pour accélérer considérablement le processus de staffing en alignant rapidement les compétences et expériences des consultants avec les besoins spécifiques des clients. 
+- Création de plusieurs architectures de solution, notamment en IA générative pour des agents conversationnels dans des projets client. Cela inclut le développement de la démarche et de la méthodologie, l'intégration de solutions cloud pour la gestion des LLM, l'utilisation de frameworks de management de dialogue, ainsi que des solutions front-end adaptées."
+2671704,"Machine Learning, Deep Learning et Data Engineering
+- Lead d’un projet de détection de dommages sur véhicules pour un [CLIENT], utilisant des méthodes de deep learning. Ce projet vise à identifier des dommages potentiels (pare-brise fissuré, chocs, rayures...) non signalés par les conducteurs, afin de renforcer la sécurité des conducteurs et des usagers tout en préservant l’image de l’entreprise.
+- Responsable d'un projet de prédiction de revenu pour notre entité, basé sur des méthodes de machine learning et des modèles de séries temporelles.
+- Supervision d’un projet d’IA dédié aux ressources humaines pour analyser et suivre le churn des employés. Ce projet inclut l’analyse de sentiment sur des données textuelles issues de formulaires et l’analyse des données de satisfaction pour mieux comprendre et anticiper les départs potentiels. Une part importante de data engineering est intégrée, notamment pour l’ingestion de données via API depuis un fournisseur vers nos bases de données Snowflake.
+- Dans le cadre de la migration des outils de communication interne, responsable du transfert des données textuelles et documentaires (PDF, PowerPoint, Word, etc.) de l’ancien outil vers des bases de données et des espaces de stockage cloud, avec une intégration effectuée via API."
+2671704,"Création d'applications de write back (MD-Lite)
+Applications data développées avec Streamlit et hébergées sur Snowflake. Ces applications permettent aux utilisateurs de saisir et de mettre à jour directement les données dans Snowflake, simplifiant la gestion des données de référence
+- 3 applications mise en production chez deux clients 
+- Création d'une approche produit directement commercialisable dans Snowflake (préparation du Business Plan, sondage de perception produit, création du modèle de revenu...)"
+2671704,"Activités interne 
+- Management de l'équipe Data Science
+- Participation au pôle Recherche et Développement du Groupe [CLIENT]
+- Création de l'offre en IA générative
+- Préparation et présentation de conférences à divers évènements en IA au Canada
+- Participation aux processus d'avant vente client"
+2671704,Comprendre les problématiques business auxquelles sont confrontés les clients et apporter des solutions par le biais de la data
+2671704,Réaliser des analyses pointues de Big Data
+2671704,Création d'indicateurs cohérents répondant aux besoin [CLIENT]
+2671704,Participer au développement de modèles IA avancés
+2671704,Implémentation de techniques et algorithmes de modélisation prédictive
+2671704,Veille technologique constante afin d'assurer un haut niveau d'innovation et pour promouvoir les pratiques de pointe
+2708468,Facilitated several sessions with government clients to perform extensive analysis on the project scope and define requirements
+2708468,Identified requirements and introduced a formal requirements management process which included gaining approval and sign-off of all requirement documents
+2708468,Created process mappings and flow diagrams for better visualization
+2708468,Maintained the physical and logical data model for the entire project in the ERWIN portal
+2708468,Performed extensive analysis on the existing COTS product and created Step Action documents for specific business scenarios
+2708468,Performed data analysis techniques like SQL querying to identify discrepancies in data between source and target systems
+2708468,"Communicated with third party vendors regarding work requests, scheduling and timelines"
+2708468,Worked in parallel with other third-party vendors for Organizational Change Management and Data Conversion for the project
+2708468,Extracted assessment rules from source code and translated them in the [CLIENT] product templates
+2708468,Delivered working product demos iteratively at the [CLIENT] site on the complete claims module
+2708468,Developed and executed test scripts for user acceptance testing
+2676328,Création et maintenance de rapports et de modèles sémantiques sur Power BI
+2676328,Accompagnement des consommateurs de rapports
+2676328,Élaboration et mise en place d'une architecture de données sur Microsoft Fabric
+2676328,Conduction d'une veille technologique et intégration de nouvelles fonctionnalités Fabric et Power BI
+2676328,Élaboration de requêtes SQL afin de répondre à des besoins métiers
+2676328,Investigation et résolution de bugs opérationnels
+2676328,Veille technologique Power BI
+2676328,Mise en place des nouvelles fonctionnalités
+2676328,Présentation des nouveautés à l'équipe
+2676328,Favorisation de la collaboration sur Power BI
+2676328,Accompagnement des Power et Super users
+2676328,"Support et élaboration de flows Power Automate pour la mise en production de rapports, par exemple"
+2433136,Analyse et documentation des besoins métiers
+2433136,Animation d'ateliers avec les business units
+2433136,"Création de rapports Power BI, analyse ad-hoc pour les différents métiers et standardisation des tâches récurrentes"
+2433136,Analyse et migration des rapports existants de Microstrategy vers Power BI
+2433136,Définition du plan de stockage
+2433136,Responsable des tests de données et de rapports
+2433136,Accompagner le [CLIENT] dans sa compréhension des résultats
+2433136,"Participation à un POC Dataiku : Connexion à différentes sources de données et développement de la segmentation client, test et comparaison de différents algorithmes"
+2433111,Target data structure implementation and scripting
+2433111,Qlik Data flow design and implementation
+2433111,Workshops on cost management and infrastructure optimization
+2433111,Quality Assurance and alert dashboard creation
+2433111,SAP Business Objects universe conversion to new data source
+2433111,Definition and administration of Snowflake environment
+2433111,Creation of privilege and role architecture
+2433111,Development of administrative stored procedures
+2433111,Data and business requirements analysis
+2433111,Evolution of the « Espace Données » architecture
+2433111,Advise the employees on the best practices in terms of development and quality assurance
+2433111,Coaching the teams
+2433111,"Training the internal ressources, according to the recommendations"
+2433111,Collect and analysis of the business requirements
+2433111,Power BI dashboards development
+2433111,Recommendations for optimizing the BI tools
+2433111,Documentation of the quality system
+2433111,"Training for the users, support for the UAT tests"
+2433111,Data Analysis
+2433111,Validating the business rules with the business analysts and the business lines
+2433111,Collect and analysis of the business requirements
+2433111,Power BI dashboards development
+2433111,Recommendations for optimizing the BI tools
+2433111,Quality control
+2433111,Coaching on the best practices
+2433111,Data analysis
+2433111,Collect and analysis of the business requirements
+2433111,Power BI dashboards development
+2433111,Azure functions development to read and integrate Amazon SNS messages
+2433111,"Snowflake DB development (staging, table feeding tasks and data model design"
+2433111,"Training for the users, support for the UAT tests"
+2433111,Data analysis
+2433111,"Collect the needs, validation of the business rules"
+2433111,Data integration supervision and QA in Snowflake
+2433111,Power BI reports development
+2433111,Power BI reports QA
+2433111,UAT tests
+2433111,Validation of the business rules
+2433111,Animation of various workshops to collect the needs
+2433111,Data analysis
+2433111,Power BI reports development
+2433111,Power BI reports QA
+2433111,Design and requirements of data extraction from Quickbooks
+2433111,BI ecosystem analysis
+2433111,Workshops to collect the needs
+2433111,Data modeling and data mart design
+2433111,T-SQL programming and data flow design (advanced analytical functions)
+2433111,Collect and analyse business requirements
+2433111,Specification and development of Power BI visualization
+2433111,Automatization of 2 complex reports (performance of the teams & finance)
+2433111,Technical conception and modeling of the data
+2433111,SQL script and datamart development (advanced analytics functions)
+2433111,Specifications and development of the visualization (Tableau)
+2433111,Technical and functional documentation
+2433111,Financial and production KPI consolidation
+2433111,Collect and analyse business requirements
+2433111,Entry forms design and development
+2433111,Data model and data structure development
+2433111,Gathering Tools solution implementation and unit tests
+2433111,UAT overview and user training / support
+2433111,Supply chain / buying planification tool development
+2433111,Consulted for the data model optimization
+2433111,Entry forms development
+2533337,Intégration de données
+2533337,Analyser et résoudre les incidents
+2533337,Mise en place d'une solution ETL
+2533337,Communiquer avec les parties prenantes internes et externes
+2533337,- Analyser et résoudre les incidents.
+2533337,Gérer de petits projets d'amélioration
+2533338,"Analyse :
+Prise de besoin [CLIENT]
+Analyse des enjeux
+Définition des indicateurs avec le [CLIENT]"
+2533338,"Modélisation du datawarehouse :
+Création de vues /table SQL afin de rendre la donnée exploitable par un outil de reporting"
+2533338,"Intégration/transformation de la donnée :
+Création de flux afin d’intégrer des données provenant de systèmes source dans une database tout en appliquant des transformations définies lors de la phase de modélisation du datawarehouse"
+2533338,"Restitution de données :
+Création de rapports dynamiques et interactifs basés sur les besoins [CLIENT] définie préalablement"
+2535513,Participation au scoping & estimation des projets Vena et support à la mise en place des contrats;
+2535513,Lead design des implantations utilisant l'outil Vena;
+2535513,Implantation & support technique pour les équipes d'implantation utilisant l'outil VENA;
+2535513,Contribution à la mise en place de la méthodologie et documentation entourant les implantations réalisées à l'aide de l'outil VENA.
+2540340,Traduire et compiler les besoins métiers
+2540340,Produire la documentation de cartographie de la source vers la cible
+2540340,Générer des visualisations Power BI conformément aux exigences spécifiées
+2540340,Effectuer des tests et validations de plusieurs rapports afin de corriger ou signaler des erreurs
+2540340,Migrer plusieurs ensembles de données vers le nouvel environnement cloud
+2540340,Collaborer avec les équipes métiers pour s'assurer que la livraison est en totale conformité avec leurs besoins
+2540340,Assurer un suivi proactif en coordination avec les utilisateurs métiers
+2540340,Création de mesures pour ajouter aux cubes
+2540340,Suivi du monitoring
+2540340,Recueil des besoins
+2540340,Tests d'intégration
+2540340,Recueil des besoins
+2540340,Réalisation des maquettes
+2540340,Extraction et préparation des données
+2540340,Modélisation des données
+2540340,Création de rapport
+2540340,Modélisation et développement de rapports et tableaux de bord sous Power BI
+2540340,Réalisation des maquettes
+2540340,Veiller à la qualité de la modélisation
+2540340,Import des données via Azure
+2540340,Recueil des besoins
+2540340,Faire évoluer les tableaux de bords
+2540340,Rédiger les indicateurs
+2540340,Veiller à la qualité de la modélisation
+2540340,Import des données via Snowflake
+2540340,Veiller à la qualité des données
+2540340,Développer des modèles composites Power BI et assurer la qualité de la modélisation
+2540340,Partager les bonnes pratiques à adopter
+2540340,Modélisation et développement de rapports et tableaux de bord sous Power BI
+2540340,Recueil du besoin
+2540340,Support Power BI
+2540340,Recueil des besoins
+2540340,Faire évoluer les tableaux de bords
+2540340,Rédiger les indicateurs
+2540340,Veiller à la qualité de la modélisation
+2540340,Import des données via PostgreSQL
+2540340,Veiller à la qualité des données
+2540340,Développer les rapports
+2540340,Partager les bonnes pratiques à adopter
+2540340,Migration des sources des données d'un fichier excel via une API vers une base de données
+2499680,Analyser et définir les besoins et problématiques d'affaires via l'animation d'ateliers
+2499680,Rédaction de cahier des charges
+2499680,Définition d'indicateurs clé pertinents pour les besoins d'affaires identifiés
+2499680,"Etudier, analyser et recommander les techniques et algorithmes de modélisation prédictive, classification et clustering les plus adaptés aux données et à la problématique d'affaires"
+2499680,"Analyse des données poussée par le biais d’analyses statistiques, méthodes d'exploration de données"
+2499680,"Construction et optimisation de modèles d'intelligence artificielle : statistiques, machine learning, séries temporelles"
+2499680,Restitution des résultats d'analyse de façon claire et pertinente selon les problématiques et enjeux métier
+2499680,Construction de rapports Power BI
+2475141,Reinforce and Develop brand awareness #FUNgenieur
+2475141,Supervise commercial & bid strategy
+2475141,"Cultivate company culture, employee engagement, productivity and passion"
+2475141,"Provide key insight, Coach and Mentor employees to optimize performance"
+2475141,Sponsor an internal R&D unit
+2475141,"Compute & analyse dashboard, financial reports and manage P&L"
+2475141,Adapt organization throughout development from 2 to 100 employees with a major Agile transformation - Complete process review ISO9001/AS9100
+2475141,"Review, Develop & Measure key metrics (KPI) for operations of the company"
+2475141,Supported the opening of a new office in Toronto in 2017
+2475141,Outperformed development objectives (50) by reaching 80+ employees within 3 years with an annual gross profit 5M$+
+2475141,Launched [CLIENT] in Montreal in 2015
+2475141,"Finalist of ""Gilles Demers Prize 2018: SME of the year in aeronautic"""
+2725267,"Conception et développement de composantes ETL (mappages et flux de travail Informatica, SQL Server 2016 procédures stockées) et de procédures de contrôle de gestion de la charge pour intégrer l’activité principale dans la nouvelle architecture de données qui améliore les besoins en matière de rapports."
+2725267,Élaboration et exécution de stratégies d’essais unitaires et d’essais intégrés. Élaboration et documentation des plans de test.
+2725267,"En contact direct avec les gestionnaires de projet, les architectes d’entreprise et les analystes fonctionnels."
+2725267,"Recueil et documentation des spécifications et des exigences du système auprès des utilisateurs techniques et fonctionnels afin de mettre en évidence l’impact sur l’entrepôt de données, le  réseau des équipements nouvellement ajoutés et de répondre aux besoins en matière de rapports."
+2725267,"Conception de haut niveau pour les composantes ETL (cartographies et flux de travail [CLIENT]) et une évaluation détaillée des systèmes touchés, en termes de disponibilité des données sources, de qualité des données sources et d’évolutivité de la base de données cible."
+2725267,Attribution de rôles et de tâches à une équipe de développeurs et de responsables techniques (10 membres à l’étranger) pendant la phase de codage et a fourni une surveillance active pour les tests unitaires et les tests d’intégration.
+2725267,"Analyse des exigences commerciales pour l’[CLIENT] (assurances multirisques) et a conçu des mappages et des flux de travail ETL à l’aide d’Informatica PowerCenter 7.1.3/8.6 pour produire des DataMarts analytiques cibles offrant des rapports clés sur la distribution des primes, le profilage des clients et les segments de marché."
+2725267,"Effectuer le développement selon la conception, création des plans de test et de cas de test et des scripts de test, a effectué des tests unitaires et d’intégration, a fourni de l’aide pendant la phase de test d’acceptation par l’utilisateur et a fourni un soutien après la mise en œuvre."
+2725267,Effectuer le dépannage et le réglage des performances des tâches quotidiennes et des flux de travail affectés par l’augmentation du volume de données source.
+2725267,Création d’un nouveau Data Mart à l’aide de données sources provenant de plusieurs bases de données contenant des enregistrements au niveau des transactions et des comptes pour alimenter une application SAS utilisée pour la notation d’assurance en fonction du profilage des clients.
+2725267,Migration des requêtes ET des procédures stockées SQL DB2 vers la de base de données Netezza et j’ai fourni la maintenance requise des mappages et des flux de travail ETL pour se conformer à la syntaxe et à la structure de la base de données Netezza.
+2725267,Effectuer un audit de la qualité des données et a intégré une nouvelle source de données dans l’interface de chargement automatisée pour inclure l’acquisition d’activités dans l’entrepôt de données principal.
+2725267,"Fournir un support, une surveillance et un dépannage des tâches et des flux de travail quotidiens et a résolu les problèmes liés à la granularité des données nouvellement intégrégée."
+2725267,"Conception et développement d’Oracle 10g PL/SQL Packages dans l’environnement Dev, exécution de l’intégration d’unités et de tests UAT pour une solution d’entrepôt de données qui fournit des mesures clés, des rapports et la dynamique du marché pour les sociétés pharmaceutiques utilisant des scripts Unix Shell et [CLIENT] comme outil d’automatisation."
+2725267,"Intégration de diverses données sources (données cryptées sur les ordonnances fournies par les pharmacies) dans une zone de transit, puis dans une interface de chargement qui remplit différents data marts conçus pour l’analyse du marché national sur les dimensions géographiques et démographiques."
+2726335,*   Développer les ETL pour le chargement des tables de faits et de dimensions
+2726335,Rédiger les cas de tests
+2726335,Définir les règles de transformation de la donnée source vers le comptoir de données
+2726335,Réaliser la preuve de concept dans le cadre d'une intégration continue en combinant Python et l'outil d'ordonnancement Jenkins ;
+2726335,Rédiger le dictionnaire de données.
+2551856,Coordination de l'équipe Front End (6 personnes)
+2551856,Développer 30-40 rapports pour l'équipe FP&A
+2551856,Mener des ateliers de recolte de besoins
+2551856,"Supervision du développement de jeux de données, de rapports et Apps"
+2551856,Réaliser l'audit de la plateforme de données en cours de migration
+2551856,Rencontrer les parties prenantes d'affaires et récolter les besoins pour les rapports
+2551856,Formaliser l'analyse fonctionnelle des données en back end venant du système d'information
+2551856,Analyse des besoins avec l'équipe de direction
+2551856,Proposition d'un plan d'actions (calendrier)
+2551856,"Conception d'une architecture de solutions et de modification de processus
+d'activités et de livraison de phases, budget et risques)"
+2551856,Analyse des besoins avec les clients d'affaires et de l'équipe TI/Données.
+2551856,Conception d'une architecture de données Fabric
+2551856,Benchmark de différentes solutions
+2551856,"Proposition d'un plan d'actions (calendrier d'activités et de livraison de phases, budget et risques)"
+2551856,"- Analyse d'affaires
+- Analyse fonctionnel
+- Tech lead"
+2551856,Gérer une équipe de 5 développeurs en intelligence d'affaires pour fournir des objets back-end et front-end de qualité
+2551856,Récolter les besoins de rapports analytiques pour la création de nouveaux rapports et la migration d'une trentaine de rapports
+2551856,Mise en place de la méthodologie DevOps pour le déployment des objets Power BI
+2551856,Intégrer de nouvelles données au Data Mart pour répondre au besoin d'affaires
+2552838,Analyser et documenter les besoins
+2552838,Analyser et documenter les sources de données
+2552838,Prototyper les analyses de données
+2552838,Préparer les données pour l’analyse
+2552838,Développer des tâches ETL en utilisant de Power BI DataFlow
+2552838,Développer des tableaux de bord avec Power BI
+2552838,Création de mesures à l'aide de DAX
+2552838,Effectuer l’analyse de performance pour améliorer la performance des rapports et des tâches ETL
+2552838,Participez aux ateliers pour comprendre les affaires et les besoins de chaque département de l'entreprise.
+2552838,Analyse des besoins du [CLIENT] dans divers domaines d'activité
+2552838,Modélisation d’un entrepôt de données en utilisant la méthodologie Kimbal
+2552838,Développer des tableaux de bord avec Power BI
+2552838,Création de mesures à l'aide de DAX
+2552838,Soutenir l’équipe de développement
+2552838,Réaliser une preuve de concept à l'aide d'Azure Data Factory pour les ETL
+2552838,Modélisation de données dimensionnelle
+2552838,Création de la couche sémantique en utilisant MicroStrategy Architect
+2552838,Développement de rapports et des tableaux de bord
+2552838,Installation et configuration de l'environnement [CLIENT]
+2552838,Modélisation du modèle dimensionnel;
+2552838,"Développement de ETL, en utilisant des outils d’intégration de données Pentaho data integration et Tableau prep."
+2552838,"Création du modèle de données, dans l'environnement Microstrategy, en utilisant Microstrategy Architect."
+2552838,Développement de rapports et des tableaux de bord dans Microstrategy et Tableau Desktop
+2479537,Mise en œuvre d’une application de simulation budgétaire (driver-based top-down allocation for Rolling Forecast)
+2479537,Conception et mise en œuvre d’une application d’allocation de coûts dans le cadre du processus de rolling forecast mensuel
+2479537,"Optimisation des processus de clôture et prévisionnels, recueil et validation des besoins, planification, réalisation et suivi"
+2479537,Coordination et pilotage des interventions avec l’équipe technique locale et la direction financière
+2480827,Compréhension du besoin avec le Business Analyst
+2480827,Réalisation de mockups lors de l’étude du besoin
+2480827,Microsoft SSRS : Développement de rapports
+2480827,Microsoft SSAS : Développement de mesures en DAX
+2480827,"Travail en relation avec un UX designer afin d’améliorer l’expérience utilisateur au sein des rapports (navigation, compréhension de l’analyse, aspect graphique/esthétique des rapports)."
+2480827,Rédaction des spécifications techniques pour les développeurs de rapports (outil Confluence)
+2480827,Rédaction de la documentation technique (outil Confluence)
+2713733,Support aux utilisateurs finaux de niveau 2
+2713733,"Préparation des maintenance pour le Budget, le suivi du Réel, le Plan Financier et l'Anticipé"
+2713733,Gestion de la billeterie Service Now
+2713733,Analyses d'impacts et Fonctionnelles liées aux évolutions
+2713733,Suivi des évolutions et taches de maintenances via Jira (Mode Agile)
+2713733,Intégration de la nouvelle charte de dimension tous les mois via DRM
+2713733,Création et Suivi des SR (Service Request) et RFC (Request for change) avec OMCS
+2713733,Design et développement de Flux FDMEE entre Workday et Hyperion Planning
+2713733,Design et développement de cubes ASO a des fins de Reporting
+2713733,Optimisation de la performance des applications Hyperion Planning
+2789547,"Design and implementation of data architecture (Azure Databricks and Microsoft Fabric integration): Lakehouse, Medallion, Mesh, security"
+2789547,"Design and implementation of workspace architecture (organization) in Fabric to support platform architecture (Lakehouse, Medaillion, Mesh), team segmentation (Data Engineer, Data Scientists, Reports builders and end users) and security (RBAC)."
+2789547,Design and implementation of Azure Synapse migration to Fabric
+2789547,Development of data processing notebooks on A zure Databricks (pyspark)
+2789547,Performance optimization (spark)
+2789547,Development of source data ingestion pipelines and orchestration with ADF and Fabric Pipelines
+2789547,Deployment automation via Azure DevOps pipelines
+2789547,"Development of POCs on Fabric with specific use cases: Data ingestion, Devops, RBAC..."
+2789547,"Documentation: Features, process ETLs, POCs"
+2789547,Analysis of business needs
+2789547,Data mapping (source -> data warehouse)
+2789547,"Development of data processing stored procedures (python snowpark , SQL) on snowflake"
+2789547,Develop ERP data ingestion pipelines and orchestrate stored procedures with ADF
+2789547,ETL process documentation
+2445149,Intégration de données
+2445149,Développement de rapports Power BI
+2446130,Création des rapports FRWS et SmartView au nouveau système Oracle Cloud.
+2446130,"Transformation de plusieurs rapports sous les normes 
+ IFRS4 aux nouvelles normes IFRS17."
+2446130,Participation à l'élaboration des cas test UAT.
+2446130,Création des documents de formation et des guides de l'utilisateur.
+2446130,Adapter et optimiser les rapports au nouveau système SAP
+2446130,Créer de nouvelles hiérarchies alternatives (GL et centre de profit)
+2446130,Analyser et comprendre les besoins du [CLIENT] pour proposer des améliorations à leurs processus.
+2446130,"Analyser divers processus comptables automatisés, les rapports et les états financiers à partir de l'outil de consolidation Tagetik."
+2446130,Analyser et valider la nouvelle clé comptable et divers contrôles de différentes sources dont Murex à partir du convertisseur Axway.
+2446130,Rédiger et performer des tests d'acceptations sur divers modules de DFO et services (par exemple : Grand livre et gestion de la trésorerie et de la banque).
+2446130,Valider l'intégralité des soldes initiaux des diverses entités de la [CLIENT] en vue de l'implantation de DFO (Microsoft Dynamic 365).
+2446130,Supporter les TI pour s'assurer que les besoins du [CLIENT] ont bien été compris et incorporés dans le développement de la solution.
+2446130,Élaboration des règles d'affaires pour la dérivation de l'information comptable.
+2446130,"Créer, exécuter et analyser des cas test dans FAH (Finance Accounting Hub)"
+2446130,"Participer à l'élaboration de l'entrepôt de données unique FSDF (Financial System Data Foundation), au mapping des requis dans la solution Oracle."
+2446130,"Comprendre et analyser les besoins FTR (Finance, Trésorerie et risques) pour les différents produits de la CCD (produits dérivés, prêts, dépôts...) [CLIENT], [CLIENT] et autres."
+2446382,Analyser le système d'information financier
+2446382,Concevoir et modéliser le datawarehouse
+2446382,Créer les interfaces Data Entry via PowerON et Power BI
+2446382,Produire des rapports analytiques répondants aux besoins demandés via Power BI
+2446382,Réaliser les phases de test et de recettes
+2446382,Établir la planification de refresh des rapports Power BI via l'outil Stonebranch
+2446382,"- Optimiser le script SQL généré par [CLIENT] et créer la vue dans Snowflake.
+- Assurer le mapping entre [CLIENT] et Power Bi.
+- Importer les tables (vue et master data) dans Power BI.
+- Créer les mesures manquantes dans Power BI.
+- Reproduire les rapports analytiques dans Power BI.
+- Réaliser le test unitaire pour valider les données entre [CLIENT] et Power BI, en rédigeant les documents associés.
+- Configurer et optimiser le Workflow dans Informatica Cloud.
+- Réaliser le test unitaire pour valider les données entre DB2 et Snowflake, en rédigeant les documents associés."
+2447137,"Gestion des requis : Utiliser diverses techniques pour obtenir et clarifier les besoins d'affaire. Créer et maintenir une documentation complète (documenter les requis, cas d'usage, user stories et autres artefacts conformément aux lignes directrices BABOK)."
+2447137,"Engagement des parties prenantes : Assurer la liaison entre les parties prenantes, les experts par sujet et les équipes techniques, en veillant à une communication claire et à une bonne compréhension des besoins d'affaire."
+2447137,"Modélisation des processus : Analyser et modéliser les processus opérationnels actuels et futurs à l'aide de techniques telles que les diagrammes de flux de processus, cas d'usage, scénarios..."
+2447137,"Analyse de données : Analyser et interpréter les données afin d'identifier les tendances, les modèles et les schémas en place pour mieux éclairer les décisions de l'[CLIENT]."
+2447137,Évaluation des solutions et assurance qualité : Évaluer les solutions proposées par rapport aux exigences établies et mener des activités de validation pour s'assurer qu'elles répondent aux besoins d'affaire.
+2447137,Gestion du changement : Contribuer à l'élaboration et à l'exécution de plans de gestion du changement afin de faciliter les transitions pour les parties prenantes affaire et techniques concernées par les changements.
+2447137,Gestion des données: Participer activement à l'élaboration des processus ETL de l'analyse des spécifications de la source à la conception des modèles de données avec l'architecte de solution.
+2447527,"Implementation of the Fluence consolidation tool for [CLIENT] (Tool configuration, validation, security management)"
+2447527,Design sessions on reports
+2447527,Building financial reports on Fluence XL
+2447527,Knowledge sharing with the [CLIENT]
+2447527,Occasional support on various topics related to the use of the Fluence tool
+2447527,"Implementation of the Fluence consolidation tool for [CLIENT] (Tool configuration, validation, security management)"
+2447527,Design sessions on reports
+2447527,Building financial reports on Fluence XL
+2447527,Knowledge sharing with the [CLIENT]
+2447527,Occasional support on various topics related to the use of the Fluence tool
+2447527,Accompanying accounts payable
+2447527,Leading workshops and interviews to understand the current situation
+2447527,Optimisation of operational process for purchase order processing
+2447527,"Optimisation of the ""Procure to Pay"" process"
+2447527,"Implementation of the Fluence consolidation tool for [CLIENT] (Tool configuration, validation, security management)"
+2447527,Design sessions on reports
+2447527,Building financial reports on [CLIENT] XL
+2447527,Knowledge sharing with the [CLIENT]
+2447527,Occasional support on various topics related to the use of the Fluence tool
+2447527,"Implementation of the Fluence consolidation tool for [CLIENT] (Tool configuration, validation, security management)"
+2447527,Design sessions on reports
+2447527,Building financial reports on Fluence XL
+2447527,Knowledge sharing with the [CLIENT]
+2447527,Occasional support on various topics related to the use of the Fluence tool
+2447527,Financial reporting
+2447527,Monthly profit and loss closing
+2447527,"Participation in the production of reports for cross-functional departments (tax, human resources, consolidation)"
+2447527,Participation in the production of monthly and quarterly consolidated reports for the company and the consolidation package
+2447527,"Participation in the production of statutory annual accounts and summary documents (management report, appendix, etc.)"
+2447527,Interlocutor for the [CLIENT]
+2447527,"Participation as a junior project officer in the project to dematerialize ""expense reports"""
+2447672,"**Business Analyst for the implementation of a Power BI platform for the Order of CPAs:**
+ * Facilitating working sessions with stakeholders to understand their data analysis needs and requirements.
+  * Drafting detailed specifications for the expected features of the Power BI platform, taking into account user needs and technical constraints.
+  * Recommending best practices for dashboard design to ensure clear and effective data visualization.
+  * Preparing explanatory documents and user guides for end-users, helping them understand and make the most of the Power BI platform.
+  * Collaborating with the development team to conduct tests and validations."
+2447672,"* **EPM Developer in projects involving the implementation of the VENA tool::**
+   * Building data input forms and reports.
+   * Contributing to the development of ETLs (Extract, Transform, Load) for data integration into the VENA platform.
+   * Configuring user access rights, ensuring that each user has appropriate permissions to access and modify data.
+   * Setting up the workflow to manage data flow and ensure adequate validation before submission.
+   * Participating in final tests and User Acceptance Testing (UAT) to ensure the proper functioning of the solution."
+2447672,-
+2451833,"**Dans un contexte de grand projet de transformation de la fonction Finance, appui à l'équipe de Performance Financière dans la gestion des impacts liés au changement de système financier et de la charte comptable, impactant l'ensemble de leur processus de production de rapport financier**
+- Analyse d'impacts;
+- Recueil des besoins d'analyses permettant la définition de la nouvelle architecture;
+- Définition de la charte de comptes comptable et analytique - pour une entreprise de transport de voyageurs privée du [CLIENT];
+- Définition de règles permettant l'utilisation standardisée de la charte de comptes;
+- Recueil des besoins d'analyse fonctionnelle;
+- Définition d'indicateurs pour l'automatisation de la production de rapports;
+- Organisation et suivi de la mise en application des nouvelles règles de gestion."
+2451833,"**Appui dans la redéfinition de la charte de comptes, dans le cadre de l'implantation d'un outil d'approvisionnement ([CLIENT]) - pour une entreprise du secteur de l'agroalimentaire**
+- Analyse de la charte de compte actuelle et mise en évidence des écarts aux pratiques exemplaires et à la charte de comptes du Groupe;
+- Redéfinition des différents segments constituant la charte de comptes;
+- Apurement des comptes comptables
+- Appui sur le mapping entre la charte de compte et la taxonomie;
+- Analyse du calcul du coût de revient - pour une entreprise spécialisée dans la confection de vêtements de plein air;
+- Audit de la méthodologie utilisée et des systèmes;
+- Analyse des différent processus impactant le calcul du coût de revient : processus d'achats processus d'inventaire, processus de ventes;
+- Rédaction d'un rapport présentant les écarts aux pratiques exemplaires et les recommandations."
+2451833,"**Accompagnement à la refonte du processus de recrutement [de la phase de planification stratégique à la phase d'intégration des employés] - pour une commission scolaire**
+- Animation d'ateliers avec les équipes de recrutement;
+- Analyse des étapes de la chaîne de valeur sur ses différents aspects : modèle de livraison gouvernance, personnes, processus, outils, données;
+- Proposition d'un processus cible."
+2451833,"**Redéfinition des processus afin d'améliorer et de simplifier la communication entre l'Opérationnel et la Finance pour une entreprise de transport maritime**
+- Cartographie des processus financier et présentation des pratiques exemplaires;
+- Examen des systèmes [Oracle];
+- Analyse des écarts aux pratiques exemplaires et recommandations."
+2451833,"**Aide à la sélection d'un nouveau progiciel de gestion intégré pour un organisme à but on lucratif qui contribue au développement et à l'optimisation du recyclage**
+- Appui à la définition des requis fonctionnels;
+- Préparation de scénarios pour les démonstrations."
+2451833,"**Clients Principaux :**
+[CLIENT], [CLIENT], [CLIENT], [CLIENT], [CLIENT], [CLIENT]"
+2456839,Fournir une formation au personnel du [CLIENT] sur la manière d'utiliser efficacement un nouveau modèle et outil de consolidation financère ainsi que développer un support méthodologique.
+2456839,Identifier la cause sous-jacente des problèmes d'intégrité des données et proposer des solutions appropriées.
+2456839,Développer des supports claires et innovantes pour résoudre les problèmes d'analyses de données.
+2456839,"Accompagner l'équipe financière dans la planification, la coordination, la collecte des besoins et la livraison."
+2456839,Création de guide utilisateur sur le bon fonctionnement de la solution (UAT).
+2456839,Gestion des accès et identifiants pour les nouveaux utilisateurs.
+2456839,Organiser des ateliers pour former les ressources à la technologie et à l'outil.
+2456839,Participer à des sessions de conception pour définir les processus opérationnels.
+2456839,Préparer la mise en œuvre de la solution VENA en créant des canaux ETL pour charger les données dans le modèle et en élaborant la documentation appropriée.
+2456839,"Assurer le support des réunions de suivi du projet, en préparant les ordres du jour, les présentations et les retours d'information."
+2456839,Concevoir des rapports et des modèles de saisie de données conformément aux directives de l'entreprise avec la documentation adéquate.
+2456839,Préparation à l’implantation d’un nouveau système de consolidation financière
+2456839,Création de charte de compte pour l’ensemble des 60 entités du groupe
+2456839,Atelier de présélection
+2456839,Ammonisation des règles d’allocation et de rapport statutaire
+2456839,Processus de standardisation des états financiers
+2456839,Gestion des anomalies durant la transformation des données.
+2456839,Maintenance évolutive des outils de traduction de donnée.
+2456839,Support aux administrateurs et formation des utilisateurs de l’application SAP.
+2456839,"Création, gestion et suivi des ETL avec mise à jour des importations journalières dans SAP."
+2456839,Participation aux ateliers de recueil des besoins affaires.
+2456839,Démonstration de la solution VENA pour répondre à l'appel d'offre du [CLIENT].
+2456839,"Définition du data model, du design de la solution, modélisation des rapports financier."
+2456839,Développement de certaines fonctionnalités dans l’outil et de rapports financiers.
+2456947,Analyses des fichiers Excel utilisés pour automatiser la réconciliation de comptes
+2456947,Documentation de toutes les requêtes alimentant ces fichiers (Power Query)
+2456947,Compréhension intrinsèque et systèmique du modèle de données
+2456947,"Appropriation exhaustive du flux de données, depuis l'ERP vers le système de consolidation financière"
+2456947,Rapport de l'analyse technique auprès du COPIL
+2456947,Documentation de l'analyse
+2456947,Proposition des évolutions possibles des processus de reporting financier
+2457327,"Engagement [CLIENT], gestion de comptes, porteur d'affaire"
+2457327,Développement et gestion des équipes de consultants
+2457327,Architecte de solution Analytiques
+2457327,"Stratégie analytique et gouvernance de données pour des petites et moyennes entreprises ([CLIENT], [CLIENT] etc.) et de plus grosses >1Milliard CA ([CLIENT], [CLIENT], etc.)"
+2457327,Implémentation / Évolution de l’ETL Data Services
+2457327,Migration de SSIS vers Data Services
+2457327,Optimisation SQL / T-SQL
+2457327,Configuration et déploiement d’AgileWorkflow orchestrator
+2457327,Validation de la qualité des données
+2451715,Support aux utilisateurs finaux
+2451715,"Préparation des maintenances pour le budget, suivi du réel, plan financier et anticipé"
+2451715,Gestion de la billetterie Service Now
+2451715,Analyses d'impact et fonctionnelles liées aux évolutions
+2451715,Suivi des évolutions et tâches de maintenance via Jira (mode Agile)
+2451715,Intégration de la nouvelle charte de dimensions mensuellement via EDMCS
+2451715,Création et Suivi des SR (Service Request) et RFC (Request for change) avec OMCS
+2451715,Design et développement de Flux FDMEE entre Workday et Hyperion Planning
+2451715,Design et développement de cubes ASO a des fins de Reporting
+2451715,Optimisation de la performance des applications Hyperion Planning
+2445183,Rédaction des spécifications techniques a partir des spécifications fonctionnelles pour les demandes d'évolution
+2445183,"Refonte de la documentation du projet (Base de connaissance , procédure , Specs)"
+2445183,Réalisation des analyses d'impact des nouvelles ecolutions des systemes sources sur l'architecture actuelle du projet
+2445183,Préparation des ateliers pour recueil des informations sur les évolutions et préparation des spécifications.
+2445183,Analyse des données et préparations des solutions techniques pour assurer la gouvernance des données de l'entreprise dans l'entrepôt.
+2445183,Préparation des ateliers avec l'équipe Finance pour recueil des informations sur les évolutions et préparation des spécifications.
+2445183,Analyse des données et préparations des solutions techniques pour assurer la gouvernance des données de l'entreprise dans l'entrepôt.
+2445183,"Développement des évolutions (Base de données SQL , Model SSAS , Rapport POWER BI) dans le cadre des projets d'investissement immobilier."
+2445183,rédaction des spécifications techniques a partir des spécifications fonctionnelles pour les demandes d'évolution
+2445183,"Refonte de la documentation du projet (Base de connaissance , procédure , Specs)"
+2445183,développement des rapports Power BI pour les différents projets d'investissement et gestion d'Actif
+2445183,Développement des applications PowerApps intégrés dans le rapport Power BI pour les besoins de mise a jour des données par l'utilisateur et mise en place des flux Power Automate
+2445183,Réalisation des analyses d'impact des nouvelles ecolutions des systemes sources sur l'architecture actuelle du projet
+2445183,création des mesures DAX pour les analyses d'investissement immobilier et gestion d'actif
+2445183,optimisation des vues SQL et procédures stockée dans la base de données
+2445187,"Accompagnement à la reprise du projet (mise à niveau des différentes parties prenantes, définition des rôles et responsabilités, conseils sur outils technologiques...)"
+2445187,"Préparation des documents de suivi projets (mandat, lancement, comité de projet, comité de pilotage, demandes de changement...)"
+2445187,Suivi et anticipation du budget et des ressources
+2445187,"Identification des bloquants, partage des risques et mitigations"
+2445187,"Accompagnement dans la priorisation des activités (plan de visibilité des activités, ateliers...)"
+2445187,Supervision de la qualité
+2445187,"Formation à la méthodologie SCRUM (principes fondamentaux de l'agilité, 
+ méthodologie SCRUM, adaptation au projet, techniques d'estimations...)"
+2445187,Mise en place et animation des cérémonies
+2445187,"Préparation et animation de rencontres projets (lancement, suivi haut niveau, suivi de l'avancement, présentation des livrables)"
+2445187,Gestion du budget (forfait) et des ressources
+2445187,Mise en place et suivi de l'échéancier
+2445187,"Suivi du budget, de l'avancement"
+2445187,Priorisation des sujets
+2445187,Suivi des activités de développement
+2445187,Production de rapport d'avancement
+2445187,Suivi et forecast du budget
+2445187,Gestion des ressources (internes et [CLIENT])
+2445187,Préparation et animation de rencontres de suivi et de pilotage
+2445187,Facilitation de la communication et du partage d'information
+2445187,Amélioration continue de la méthodologie et gestion des irritants
+2445187,Suivi de l'avancement
+2445187,"Gestion du budget, des risques et des ressources"
+2445187,Préparation et animation de rencontres de suivi avec le [CLIENT]
+2445187,Préparation et animation de rencontres afin de préparer la feuille de route annuelle
+2445187,Proposition de solutions adaptées pour réduire les coûts d'opération
+2445187,Gestion de la priorisation des requêtes en fonction des SLA
+2445187,Établissement d'un plan d'exécution (PMP) et d'un échéancier
+2445187,Suivi du budget
+2445187,Gestion des ressources
+2445187,Établissement d'un plan d'exécution et d'un échéancier
+2445187,Accompagnement du [CLIENT] sur l'expression des besoins
+2445187,"Gestion du budget, des risques et des ressources"
+2445187,Gestion de la priorisation et de l'interdépendance entre les sujets
+2445187,Suivi de l'avancement et communication au client
+2445187,Préparation et animation de rencontres de suivi avec le [CLIENT]
+2445187,Établissement d'un plan d'exécution et d'un échéancier
+2445187,"Préparation et animation des réunions de cadrage du projet, de suivi et de clôture"
+2445187,Suivi de l'avancement et communication au client
+2445187,"Gestion du budget, des risques et des ressources"
+2445187,Analyse de la valeur acquise
+2445187,Suivi des activités
+2445187,Suivi du budget
+2445187,Gestion des ressources
+2445187,Suivi du plan d'exécution et de l'échéancier
+2445187,Suivi de l'avancement et communication au client
+2445187,"Gestion du budget, des risques et des ressources"
+2445187,Préparation et animation des réunions de suivi et de clôture
+2445187,Accompagnement sur la transition vers la phase de support
+2445187,Préparation du backlog pour les phases projets à venir
+2445187,"Missions liées à la gestion de projets BI et Data Science :
+- Établissement d'un plan d'exécution et d'un échéancier pour chaque projet
+- Gestion quotidienne tout au long du cycle de vie des projets (traditionnelle et hybride SCRUM)
+- Suivi du progrès de chaque projet et du respect de l'échéancier
+- Gestion du budget, des risques et des problématiques, des ressources
+- Coordination des projets et de leur interdépendance 
+- Suivi des KPIs
+- Communication de l'état des projets au niveau stratégique"
+2445187,"Missions annexes :
+- Implication au sein du pôle projet (participation à la création et à la structuration de la BU de gestion de projet)
+- Participation à la vie d'entreprise (évènements sociaux, animation de lunch and learn, compétitions sportives)
+- Formation continue"
+2446029,"Planification, budgétisation, prévisions, consolidation et divulgation financière"
+2446029,Responsable de l’exécution des livrables projet
+2446029,Gestion quotidienne de travail et des priorités
+2446029,Analyser et comprendre des problématiques pour proposer des solutions innovatrices
+2446029,"Comprendre les notions de comptabilité, d’audit et les appliquer aux situations touchant les clients"
+2446029,"Préparation et/ou analyses de réconciliations et rapports d'analyse de gestion financière, en laissant une piste de vérification complète."
+2446029,Compréhension et documentation des processus comptables
+2445156,"Database Management: Manage databases, ensuring data integrity, performance, and scalability."
+2445156,"ETL (Extract, Transform, Load): Extract data, apply transformations, and load it into data warehouses or analytics platforms."
+2445156,Data Modeling: Create and optimize data models for efficient querying and reporting.
+2445156,"Architecture: Design and implement data ecosystems, considering scalability, security, and performance."
+2445156,"Collaboration: Work closely with data scientists, analysts, and business stakeholders to understand requirements and deliver actionable insights."
+2445156,Report distribution architectural redesign
+2445156,Implementation of Workspace/Application intended for the distribution of the report
+2445156,Implementation of security group and role to support the new architecture
+2445156,Strategic discussion on best practices and optimization of the current process
+2445156,Workshop on the best visualization practices in Power BI
+2445156,Data visualization in Power BI
+2445156,Data modelization (In Power BI and in MySQL)
+2445156,Transformation of transactional Data to relational Data (BI)
+2445156,Project management
+2445156,Exhaustive data analysis
+2445156,Exhaustive data analysis
+2445156,Data visualization in Power BI
+2445156,DAX script analysis and optimization
+2445156,Ticket Management
+2445156,Exhaustive data analysis
+2445156,Data visualization in Power BI
+2445156,Data modelization (In Power BI and in Snowflake) and optimization
+2445156,DAX script analysis and optimization
+2445156,Project management
+2445156,Data visualization in Power BI
+2445156,Data modelization
+2445156,Implementation of governance and documentation processes adapted to the needs of the company
+2445156,Development and implementation of the Power BI architecture
+2445156,Security (Row-Level-Security and Audience management)
+2445156,Project management
+2445156,Data visualization in Power BI
+2445156,Data modelization
+2445156,Exhaustive data analysis
+2445156,Translation of the business rules into technical specifications
+2445156,Project Management
+2445156,Data infrastructures modification
+2445156,Data Visualization
+2445156,Exhaustive data analysis
+2445156,Translation of the business rules into technical specifications
+2447746,Définir les requis et documenter les rapports
+2447746,Créer et maintenir les rapports Power BI
+2447746,Créer et maintenir les vues des datamarts dans Snowflake
+2447746,Compléter des modélisations de données
+2447746,Planification stratégique de la gestion du changement
+2447746,Rédaction de rapports d'activités
+2447746,Coordonner les projets (affichage traditionnel et numérique)
+2447746,Suivi de la production et des divers intervenants des projets
+2450849,"Permettant d'afficher, sous la forme d'un tableau type Excel, des tables situées dans diverses bases de données : Snowflake, SQL Server"
+2450849,"Depuis l'appli web, l'utilisateur peut modifier la table, ajouter des lignes, filtrer les valeurs, ... puis sauvegarder les modifications vers Snowflake ou tout autre BDD."
+2450849,L'application historise automatiquement l'ensemble des modifications.
+2450849,Le déploiement de la solution se fait via une VM ou un container Docker dans le cloud.
+2450849,Proposition d'action pour prévenir les risques d'accidents identifiés et diminuer le coût direct à l'entreprise.
+2450849,"En charge de la réplication de données depuis des bases IBM iDB2 on-premises, vers un environnement cloud Snowflake"
+2449781,"Project planning and organisation :
+- Propose & implement initiatives to optimize project plan / budget / quality
+- Define methodology and deliverables standards for each phase of the project
+- Ensure that project activities follow defined methodology, processes and tools
+- Design templates to document project activities
+- Participate in project portfolio re-orgnization and strategic planning to deliver projects over the next 5 years"
+2449781,"Project Monitoring :
+- Manage the Project plan / resources and tasks
+- Ensure that the project operates within the approved scope / timeline
+- Report in project status to executives
+- Identify and mitigate risks – propose solutions, escalate as needed
+- Identify  and prioritize activities (and product backlog items)"
+2449781,"Leadership and team management 
+- Define capacity plan, skill matrix required based on deliverables and project phases
+- Identify needs for resources onboarding
+- Act as mediator to clear conflicts 
+- Manage Project staff by providing direction, guidance, feedback (team 25 individuals : business analysts, process specialists, super users, BPO)
+- Manage project partners - internal stakeholders and external providers
+- Drive way of working and communicate project phases objectives"
+2449639,"Organisation de la gouvernance projet en coopération avec le [CLIENT] 
+Création et maintient de la feuille de route projet en coopération avec le [CLIENT]"
+2449639,"Création et maintient de la feuille de route projet en coopération avec le [CLIENT], suivi de la qualité des livrables"
+2449639,Pilotage des ressources (10 ressources)
+2449639,Pilotage du budget projet lié à l'intervention de [CLIENT] (environ 600k CAD)
+2449639,Animation des réunions quotidiens et périodiques
+2449639,Suivi du tableau de bord et des tâches projets (JIRA)
+2449639,Création et présentation d'un tableau de bord projet reprenant l'ensemble des éléments de santé du projet
+2449639,Gestion des risques projets ainsi que des dépendances en lien avec le périmètre de la mission Solution BI
+2449639,Devoir de conseil et d'accompagnement auprès du [CLIENT]
+2449639,Accompagnement du changement
+2449639,"Définition et analyse des besoins [CLIENT], proposition d'une stratégie projet"
+2449639,Conception et planification budgétaire (environ 200k)
+2449639,Gestion des ressources de l'équipe projet [CLIENT]  ( 4 personnes)  et client (10 personnes)
+2449639,"Création du plan projet et suivi de la feuille de route, suivi et contrôle de la qualité des livrables"
+2449639,Pilotage des dépendances et risques projet
+2449639,Création et présentation d'un statut projet détaillé
+2449639,Suivi des tâches et avancements projet (JIRA)
+2449639,Gestion des différentes parties prenantes
+2449639,Devoir de conseil et d'accompagnement auprès du [CLIENT]
+2443989,"Amélioration des rapports de restitution déjà existant (Tagetik Style, ajout de hiérarchie pour dynamicité du rapport etc)"
+2443989,Création et Maintenance des rapports Tagetik
+2443989,Modifications des rapports de [CLIENT] à [CLIENT]
+2443989,"Gestion de la connectivité Tagetik - Power BI (collecte, trie, transformation des données et mise en place / configuration de la connexion)"
+2443989,"Formation des utilisateurs (réunion, documentation technique)"
+2443989,Support des utilisateurs
+2443989,Participation aux ateliers de recueil des besoins affaires
+2443989,"Implémentation EPM de Tagetik (Conception de la solution, construction d'ETL, création et maintenance des rapports Tagetik, UAT et mise en production)"
+2443989,"Formation des utilisateurs (réunion, documentation technique)"
+2443989,Support des utilisateurs
+2443989,Participation aux ateliers de recueil des besoins affaires
+2443989,"Implémentation EPM de Tagetik (Conception de la solution, construction d'ETL, création et maintenance des rapports Tagetik, UAT et mise en production)"
+2443989,"Formation des utilisateurs (réunion, documentation technique)"
+2443989,"Gestion des anomalies (Data validation, données manquantes ou eronnées, modifications de rapports...)"
+2443989,"Evolution applicative (Création et maintenance de rapports, changement de variables…)"
+2443989,Support aux administrateurs de l’application Hyperion
+2443989,"Suivi des anomalies via des tickets JIRA, Service Now"
+2443989,Formation des utilisateurs à Smart View
+2443989,Intégration de la nouvelle charte de dimension tous les mois via DRM
+2443989,Participation aux ateliers de recueil des besoins affaires
+2443989,Support de niveau 1 aux utilisateurs Tagetik (environ 80 utilisateurs)
+2443989,Analyse et résolution d’incidents (ServiceNow)
+2443989,"Gestion des activités de clôtures et d’élaboration budgétaire avec différentes équipes de Finance 
+(Supply Chain, Sales Finance, Fixed Cost…)"
+2443989,Création et maintenance de rapports Tagetik
+2443989,Support aux utilisateurs (Formation et accès)
+2443989,"Evolution applicative (rapport, procès, calculation logic, Workflow, ETL, Data Integration, DTP…)"
+2444211,Analyser les objectifs des entreprises et élaborer des solutions en matière de données pour répondre aux besoins des clients.
+2444211,Déterminer les causes principales des lacunes en matière d'intégrité des données et fournir des solutions appropriées en matière de données et de processus.
+2444211,"Contribuer à définir les normes, politiques et procédures de l'organisation en matière de gestion des données."
+2444211,"Concevoir et gérer des outils de collecte de données, nettoyer, fusionner et gérer les ensembles de données existants, ainsi que définir et appliquer des procédures de qualité des données afin de garantir l'exactitude et l'actualité des données."
+2444211,Initier l'analyse des données et identifier les opportunités stratégiques qui ont un impact positif sur l'entreprise.
+2443199,Analyses de données exhaustives
+2443199,Présentation de résultats d'analyses
+2443199,Identification et interprétation des besoins d'affaires
+2443199,Modélisation et exploitation pertinente de la donnée selon le besoin d'affaire
+2443199,Manipulation et structuration de données
+2443771,Répondre aux appels d’offres pour l’acquisition de solutions technologiques et pour la revue des processus financiers
+2443771,Coacher des consultants pour les aider à réaliser leurs missions
+2443771,Développer des procédures internes
+2443771,Agir en tant qu'intermédiaire entre le PO et l’équipe d’affaires pour les différentes demandes
+2443771,- Collecter et documenter les exigences d’affaires en menant des entretiens et des ateliers pour recueillir les informations nécessaires.
+2443771,Analyser les processus existants sur IFRS 4 et proposer des améliorations pour les nouveaux processus sur IFRS 17
+2443771,Contribuer à l'élaboration des stratégies d'essais et définir les tests d'acceptation à réaliser
+2443771,Analyser les impacts des solutions IFRS 9 et IFRS 17 afin d’assurer une gestion du changement efficace avec les équipes affectées
+2443771,"Contribuer à planifier, organiser et structurer le processus de production des informations financières IFRS 9 et IFRS 17"
+2443771,Collaborer sur une base régulière avec les préparateurs et les responsables de la production de l’information financière sur Wdesk afin de comprendre leurs besoins et d’apporter les modifications requises sur la plateforme
+2443771,Identifier les pistes d’améliorations et les remonter à la gestion afin de les intégrer dans leur processus de priorisation
+2443771,Préparer et réviser les états financiers annuels et trimestriels conforme à IFRS 9 et IFRS 17 ainsi que les différents rapports de gestion expédiés aux partenaires et aux clients externes en s’assurant de l’exactitude des données financières et de la qualité de leur présentation
+2443771,Assurer la formation des ressources impactés par les changements et leur donner le support demandé
+2443208,Créer une offre data science : rencontre de nouveaux clients – workshops – conférences – articles
+2443208,Monter des projets Data science : comprendre les besoins - monter une feuille de route et découper le projet en tâches et phases pour travailler en itération
+2443208,"Consolider l’expertise pour avoir une offre claire : définir la vision data science, consolider et harmoniser les méthodes"
+2443208,Supporter l'équipe sur les projets AI en cours
+2443208,"Travail sur des cas clients pour apporter des expertises diverses : 
+Machine Learning -- Deep Learning -- NLP -- Gouvernance de l'IA"
+2443208,Définition de la vision et du positionnement AI de [CLIENT]
+2443208,Définition de l'offre Data science avec la consolidation d'outils et de bonnes pratiques pour l'équipe data science
+2443208,Leader les projets pour assurer une qualité et une restitution utile et utilisable
+2443208,Manager des consultants : profils différents et des réalités mandats différentes (aviation – assurance- retail – logistique – etc.)
+2443208,Fédérer autour de projet interne en dehors des mandats : Optimisation des placements des ressources – Top Model (Analyse des commentaires autonomes - NLP )
+2443208,Accompagnement dans les développements professionnels : formations – certifications – détection de lead – etc.
+2443208,Mandat sur des modèles prédictifs - Gouvernance de l'IA pour la Grics
+2443208,Travail stratégique avec le ministère de l'éducation pour le chantier IA - avec le MILA et IVADO
+2443208,Product Manager IA : soutien de l’équipe permanente sur le développement d’un projet IA pour assurer la vision globale de la solution à livrer
+2443208,Création d’un score par article afin d’apporter une dimension « qualité » : Indice Rédactionnel
+2443208,Déceler le nombre de mot optimal par article selon les thèmes pour optimiser les articles performants
+2443208,NLP : Création d’informations qualitatives afin de qualifier les articles
+2443208,NLP : Définir les thèmes traités par La Presse et associer un thème dominant pour chaque article : Topic Modeling
+2443208,NLP : Taguer chaque article par différentes informations afin de les spécifier -- NER
+2443208,Faire une segmentation fine grâce aux cartes de Kohonen des lecteurs (Réseau de Neurones)
+2443208,Développement et mise en production d'un algorithme de recommandation des meilleurs articles pour la nouvelles applications mobile (Onglet Palmarès)
+2443208,Implémentation du système de recommandation d'articles pour chaque lecteur
+2443208,Prédire l'âge et le sexe des lecteurs suivant leurs lectures (en méthode supervisée) => pour le ciblage des publicités
+2443208,Cibler les prochains lecteurs pour la campagne de donation
+2443208,Calculer le potentiel d'habitude
+2443208,Quantifier l'engagement des lecteurs (création d'un score) pour plus de 1 000 000 de lecteurs
+2433141,Implement processes/ceremonies related to the Scrum methodology
+2433141,"Prepare management deliverables (product log, JIRA, project tracking)"
+2433141,Ensure open communication and coordination between all project stakeholders
+2433141,Ensure the implementation of tools and methodology related to agility
+2433141,Ensure the correct use of the Scrum methodology
+2433141,Ensure synchronization with the project scrums master
+2433141,"Support and help the business (PO, Business analyst)"
+2433142,"Créer, améliorer et supporter les ETL sous Fabric"
+2433142,Améliorer l'écosysteme Azure et les interactions avec d'autres composants
+2433142,Construire un ecosysteme d'API pour les fournisseur externes pour extraire et ingerer les données
+2433142,"Fournir les meilleurs pratiques DevOps, incluant la gestions des releases, CICD, tests etc"
+2433142,Créer la solution d'extraction par API des fournisseurs externes
+2433142,"Construction, maintien et evolution de l'architecture (Synapse, ADLS, Keyvault, VNET, Security, IAM, Monitoring)"
+2433142,Construction de template génerique Infra As Code pour Azure ([CLIENT] templates + template specs)
+2433142,Construction de pipeline build et CI-CD pour l'infrastructure
+2433142,"Implementation des transformation Spark sous Synapse
+Creation d'un framework de transformation Spark core et dataproduct"
+2433142,Orchestration et triggering des ETL sous Synapse
+2433142,Gestion et conseil de projets connexe utilisant notre architecture
+2433142,Livraison de data product
+2433142,Etre le référant de l'architecture et etre garant des bonnes pratiques dans les équipes [CLIENT] et [CLIENT]
+2433142,"Construction, maintient et évolution de la librairie utilsant PySpark, roulant actuellement sur Databricks"
+2433142,"Construction, maintient et évolution des paradigmes de transformation ETL avec la librairie, comprenant aussi la gestion des tests unitaires et intégré"
+2433142,"Construction, maintiens et évolution d’une API de management pour Snowflake (model de permission des rôles et facilitation du Data Ops avec des apis de clone intégré, ainsi que la creation d'object nécessitant de haut privilèges)"
+2433142,Construction et maintien de template de release multi-stage DevOps
+2433142,"Gestion des différents environnements et de l'Ops 
+Gestion des pipeline et release sous Azure DevOps
+Creation et gestion d'outils accélérateurs devops pour la creation des infrastructures"
+2433142,"Construction du model de permission Azure vers Snowflake (SCIM et App reg), la stratégie de roles, accès, policies le tout dans une démarche infra-as-code"
+2433142,Gestion et construction de la structure cible Snowflake par Terraform
+2433142,Gestion des pipelines ADF et amélioration pour la migration du on-premise vers l’ADLS
+2433142,Gestion de la sécurité
+2433142,Coaching et aide aux autres équipes
+2433142,"Construction de la résolution d’un projet Data Science (méthodologies de développement, étapes de développement, estimation de temps de travail)"
+2433142,Développement du POC sur toute la chaine
+2433142,Récupération des données
+2433142,Mise en place de pipelines
+2433142,Traitement de données
+2433142,Application de modèles AI/DS
+2433142,Présentation du projet au [CLIENT]
+2433142,Animer les ateliers et les sessions de conceptions
+2433142,Mise en place des process
+2433142,Déploiement sur différents environnements
+2433142,Coaching
+2433142,Benchmark des solutions
+2433142,Participation aux ateliers
+2433142,Implémentations des process
+2433142,Connexion des différents environnements
+2433142,Rédaction des livrables
+2433142,Participer aux fondations et préparer des méthodologies de développement
+2433142,Créer et maintenir les librairies d’extraction EDW
+2433142,Dialoguer et implémenter les solutions avec les analystes
+2433142,Livrer les Dimensions et les tables de Faits à chaque sprint
+2433142,Livrer des tests associés
+2433142,Exécuter les Runs des pipelines ADF et les monitorer
+2433142,"Implémenter de nouveaux concepts comme SilverPrime, PIT, Snapshot"
+2433142,Suivre le déploiement en pre-prod et assurer la correction de bugs
+2433143,Amélioration de la gouvernance Power BI
+2433143,Gouvernance : définition de la stratégie d’accès aux données sources
+2433143,Conception des modèles de données dans Snowflake et Power BI
+2433143,Développement de rapports Power BI
+2433143,Support de l'équipe sur Snowflake et Power BI
+2433144,"Solutions VENA:
+Rachid est intervenu sur l’implémentation de solutions VENA pour une entreprise de moyenne taille qui a décidé d’implémenter sa première solution EPM.
+
+Il a été en charge des tâches suivantes : 
+Création de méta données
+Création de l’ETL 
+Création de rapports et de formulaire de saisie de données"
+2433144,"Technologies Fluence:
+Rachid a participé à l’implémentation de l’outil de consolidation des technologies Fluence pour deux clients utilisant déjà les solutions Vena. Ces entreprises utilisaient toutes les deux Excel pour consolider leurs données pour moins de dix entités utilisant des devises différentes."
+2433144,"Implémentation de solutions de budgétisation et prévision de CCH Tagetik:
+Rachid a participé dans la refonte de l’application CCH Tagetik pour une entreprise utilisant déjà CCH Tagetik mais ayant décidé son modèle de données. 
+
+Il a été en charge des tâches suivantes :
+Transformation des meta données 
+Création de l’ETL 
+Création de rapports et de formulaire de saisie de données"
+2433144,"Développement de l’offre EPM:
+Certification Expert Consolidation CCH Tagetik
+Parcours d’apprentissage de Vena Solutions
+Formation à la solution de consolidation Fluence Technologies
+Parcours d’apprentissage de Workiva"
+2433144,"Optimisation de processus opérationnel
+
+Pour un projet d’amélioration continue qui porte sur l’amélioration, l’optimisation et la standardisation d’un processus opérationnel pour une des grandes villes du Québec, Rachid a joué un rôle d’accompagnateur pour l’équipe, dont voici quelques-unes des activités :
+
+Animation d’ateliers et d’entrevues de compréhension de la situation actuelle
+Animation d’atelier d’identification des gaspillages et des pistes de solution
+Suivi de projet et rapports d'avancement du projet
+Cartographie du processus actuel et du processus cible"
+2433144,"Modèle opérationnel cible
+
+Dans le cadre d’un mandat pour un fonds d’investissement majeur au Québec, Rachid est intervenu sur un projet d’alignement stratégique et de revue de l’organisation de l’équipe des comptes à payer en redéfinissant la structure cible pour le département et en identifiant les bonnes pratiques à mettre en place. Les tâches principales de Rachid étaient les suivantes :
+
+Analyse des résultats d’un balisage
+Établir une structure de gouvernance des processus et définir la nouvelle structure organisationnelle
+Documenter et suggérer les descriptions de poste adéquates
+Mise à jour et optimisation du modèle de base dans Power BI"
+2433144,"Sélection de système
+
+Pour un projet de sélection d’un progiciel de gestion intégré (« ERP ») et d’un outil de consolidation pour une PME active dans le numérique, Rachid a joué un rôle de conseiller pour accompagner le [CLIENT] tout au long du processus. Les tâches principales de Rachid étaient les suivantes :
+
+Identification et rédaction des besoins
+Rédaction de l’appel d’offres (« RFP »)
+Revue et analyse des offres reçues
+Participation aux démonstrations
+Évaluation des solutions et des méthodes d’implémentation proposées"
+2433144,"Implémentation du module de Planification Budgétaire de CCH Tagetik
+
+Rachid a participé à l’implémentation du module de Planification Budgétaire de [CLIENT] pour une entreprise active dans le secteur de l’aéronautique qui utilisait auparavant la solution Oracle Hyperion Financial Management. Il a notamment été en charge des taches suivante :
+
+Création des ETLs (« Extract, Transform, Load »)
+Création des rapports et des formulaires de saisie
+Rédaction du manuel administrateur et de support de formation pour les utilisateurs finaux
+Conception du flux de travail et paramétrage des droits des utilisateurs
+Support des opérationnel lors des tests de validation utilisateur
+Assistance d’après démarrage"
+2433144,"Implémentation du module de Consolidation [CLIENT]
+
+Rachid a également participé au paramétrage du module de Consolidation de [CLIENT] pour un client qui utilisait déjà l’outil [CLIENT]. Le projet a couvert la consolidation d’une vingtaine d’entités, établies dans différents pays et utilisant différentes devises. Il a entre autres travaillé sur les sujets suivants :
+
+Identification et rédaction des besoins
+Paramétrage de l’application et des règles de consolidation
+Initialisation du module"
+2433140,Lead workshops and interviews to understand the current situation
+2433140,Facilitate committees and workshops involving stakeholders from different sectors to understand business issues
+2433140,Analyze the different transformation scenarios and optimization options
+2433140,Guide the business with organizing project timeline and roadmap
+2433140,Monitor project progress and deliver timely status reports
+2433852,"• Gestion de la couche sémantique 
+• Prise de requis auprès des équipes Business
+• Développements de datasets Power BI
+• Développements de rapports / d'évolutions pour les équipes Business
+• Mise en place d'un processus de mise en production"
+2437177,"Helping [CLIENT]s:
+- Maintain & support
+- Evolve & optimize
+- Develop & deliver"
+2442934,"Architecture/Modélisation de l’application : Datasets à créer, Nombre de dimensions/Type de Dimensions par Datasets, lien entre les différents Datasets..."
+2442934,Suivi des développeurs / Répartition des tâches à effectuer
+2442934,Création des spécifications / maquettes des rapports à développer par l'équipe
+2442934,Création des Data Processing utlisé pour transformer/allouer/transporter les données
+2432194,Analyse de la situation actuelle et définition d'un plan d'action à long terme
+2432194,Dépôt de dossier pour obtenir la certification Ecoresponsable audité par Ecocert
+2432194,Pilotage des actions de Développement Durable au sein de l'entreprise
+2432194,"Gestion des ressources, du budget et de la portée du projet"
+2432194,Suivi régulier avec le [CLIENT]
+2432194,Organisation des cérémonies Scrum
+2432194,Suivi régulier du projet avec le [CLIENT]
+2432194,Suivi du budget et de la portée du projet
+2433083,Exhaustive data analysis
+2433083,Translation of the business rules into technical specifications
+2433083,"Participating in the development of statistic models, in order to rate the profitability of potential clients and to prioritize the new requests"
+2433083,"Transformation of the data from production with those used by the models, through a R library"
+2433083,"Run the predictions based on those data, supported by the statistical models used by actuaries"
+2433083,Create a monitoring framework gathering all developed ML solutions
+2433083,Supporting the business analyst for the validation of the business rules
+2433083,"Planning the Data Science project (methodology, steps of developments, effort estimation…)"
+2433083,"Development of the POC (collecting data, pipelines creation, data transformation, AI/DS model application)"
+2433083,"Implementing a predictive model, in order to identify the behavior changes according to major external events"
+2433083,Models tuning to optimize performance
+2433083,Pitching the POC to the business
+2433083,Supporting the business analyst for the validation of the business rules
+2433083,"Planning the Data Science project (methodology, steps of developments, effort estimation…)"
+2433083,"Development of the POC (collecting data, pipelines creation, data transformation, DS model application)"
+2433083,Implementation of data processing and Power BI restitution presenting the P&L
+2433083,Models tuning to optimize performance
+2433083,Pitching the POC to the business
+2433083,Organize workshops with teams to understand needs and goals
+2433083,"Development of data preparation, cleaning, features extraction."
+2433083,Implementation of prediction models (machine learning)
+2433083,"Models’ benchmark, models tuning / optimization"
+2433083,"Collaborate with the team and use Snowflake, Databricks and Dataiku for development, deployment and ML models gestion"
+2433092,Gestion du budget.
+2433092,Planification de l'échéancier
+2433092,Participation à la gestion des équipes ainsi que les suivis de leur progression
+2433092,"Gestion des besoins du [CLIENT], de la communication ainsi que les conflits."
+2433092,Gestion du budget.
+2433092,Planification de l'échéancier
+2433092,Participation à la gestion des équipes ainsi que les suivis de leur progression
+2433092,"Gestion des besoins du [CLIENT], de la communication ainsi que les conflits."
+2433092,Accompagnement de rehaussement projet
+2433092,Participation à la planification de l'échéancier
+2433092,Participation à la gestion des équipes ainsi que les suivis de leur progression
+2433092,Analyse du Projet via différents types de documentation
+2433092,"Participation à la planification de l'échéancier, point de contact client."
+2433092,Gestion de crise (urgences)
+2433092,Analyse du Projet via différents types de documentation
+2433092,"Analyse des risques, et mise en place de plans de mitigation."
+2433092,Lead de projet d'implantation de logiciel & création des nouveaux processus d'affaire.
+2433092,"Participation à la planification de l'échéancier, a la gestion des risques et plan de mitigation des risques."
+2433092,"Point de contact entre les besoins du département, ; les développeurs externes et le Project sponsor."
+2433092,Analyse du Projet via différents types de documentation (rapports quotidien).
+2433092,"Participation à la planification de l'échéancier, point de contact client."
+2433092,Gestion des risques et plan de mitigation des risques
+2433092,Analyse du Projet via différents types de documentation
+2433092,"Gestion des besoins du [CLIENT], de la communication ainsi que les conflits."
+2433099,Faire le suivi des activités de configuration et de développement.
+2433099,Gérer l'allocation des ressources.
+2433099,Gestion de l'échéancier.
+2433099,Coordonner les activités en fonctions de dépendances entre les différentes applications.
+2433099,Gérer le budget et produire les rapports d'avancements.
+2433099,"* Faire le suivi des activités de configuration et de développement.
+* Gérer l'allocation des ressources
+* Planifier la stratégie de migration
+* Gérer l'échéancier
+* Accompagner le client dans le choix des outils"
+2433099,"Mise en place d’une méthodologie de travail (RACI, Workflow, etc.)."
+2433099,Accompagner le client sur la rédaction des spécifications.
+2433099,Création et gestion d'un plan projet intégrant les activités/ressources [CLIENT].
+2433099,Conduire des ateliers avec les lignes d'affaire et les développeurs.
+2433099,Faire le suivi des activités de développement des rapports.
+2433099,Gérer l’allocation des ressources.
+2433099,Gérer l’échéancier et produire les rapports d’avancements.
+2433099,Proposer des solutions adaptées pour réduire les coûts d'opération.
+2433099,Prioriser les requêtes en fonction des SLA.
+2433099,Gérer le budget et produire les rapports d'avancements.
+2433099,Guider le client dans le choix de la solution technique.
+2433099,Proposer plusieurs solutions alternatives aux parties prenantes.
+2433099,Proposer et mettre en place un modèle de gouvernance de la donnée.
+2433099,Gérer l'allocation des ressources.
+2433099,Gérer le budget et produire les rapports d'avancements.
+2433099,Faire le suivi des activités de configuration et de développement.
+2433099,Faire le suivi des activités de configuration et de développement.
+2433099,Gérer l'allocation des ressources.
+2433099,Gestion de l'échéancier.
+2433099,Coordonner les activités en fonctions de dépendances entre les différentes applications.
+2433099,Gérer le budget et produire les rapports d'avancements.
+2433099,Faire le suivi des activités de configuration et de développement.
+2433099,Gérer l'allocation des ressources.
+2433099,Produire les rapports d'avancements & des heures consommées.
+2433099,Faire le suivi des activités de configuration et de développement.
+2433099,Gérer l'allocation des ressources.
+2433099,Gérer le budget et produire les rapports d'avancements.
+2433099,Planification des sprints
+2433099,Planifier la stratégie de déploiement des nouvelles fonctionnalités MRP et EWM.
+2433099,Identifier les éléments clés pour la gestion du changement et la formation.
+2433099,Coordonner les activités terrain [CLIENT] préalables au déploiement de la solution.
+2433099,Gérer le budget et produire les rapports d'avancements.
+2433099,Configuration d'un BPC 11 et BW/4HANA projet de staffing interne.
+2433099,Développement d'une solution BPC de planification des besoins d'approvisionnement.
+2433099,Configuration du module de consolidation financière sur S/4HANA 1709.
+2433114,Responsable de Livraison de pratique Oracle FP&A
+2433114,Gestion du Centre d'Excellence FP&A
+2433114,Encadrement hiérarchique des employés
+2433114,Gestion de la carriere des employés
+2433114,Optimisation des affectations des employés
+2433114,Recrutement d'employés
+2433114,Avant Ventes
+2433114,Gestion des formations et certifications Oracle des employés
+2433114,Gestion du partenariat avec les éditeurs
+2433114,Optimisation des processus FP&A
+2433114,Support aux utilisateurs finaux de niveau 2
+2433114,"Préparation des maintenances pour le Budget, le suivi du Réel, le Plan Financier et l'Anticipé"
+2433114,Gestion de la billeterie Service Now
+2433114,Analyses d'impacts et Fonctionnelles liées aux évolutions
+2433114,Suivi des évolutions et taches de maintenances via Jira (Mode Agile)
+2433114,Intégration de la nouvelle charte de dimension tous les mois via DRM/EDMCS
+2433114,Création et Suivi des SR (Service Request) et RFC (Request for change) avec OMCS
+2433114,Design et développement de Flux FDMEE/Data Exchange entre Workday et Hyperion Planning/EPBCS
+2433114,Design et développement de cubes ASO a des fins de Reporting
+2433114,Optimisation de la performance des applications Hyperion Planning
+2433114,Création de FST pour les besoins de rapports
+2433114,Gestion des flux de données dans les ETL
+2433114,Gestion des accès
+2433114,Projet Tagetik
+2433114,Import des métadonnées
+2433114,Support de niveau 2 aux utilisateurs Sage et HFM
+2433114,Évolutions dans Sage et HFM
+2433114,Gestion des flux de données FDMEE
+2433114,Gestion des métadonnées dans EPMA
+2433114,Création des GL dans Sage et HFM
+2433114,Clôture Financière
+2433114,Assurer la Clôture financière de fin de mois dans Sage 300 et HFM / Projet d'implantation Tagetik pour la partie FP&A
+2433117,Assurer la maintenance de l'environnement BI
+2433117,Intégration des règles d'affaires à l'entrepôt de données
+2433117,Former l'équipe aux processus et aux bonnes pratiques Devops
+2433117,Intégration et création de métriques dans les datasets centralisés sur Power BI Desktop
+2433117,Assurer la maintenance des datasets et rapports sur Power BI Service
+2433117,Prise de besoins et création de rapports de gestion sur Power BI Desktop
+2433118,Développer des modèles de données Power BI
+2433118,Développer des rapports
+2433118,Mener des ateliers pour la récoltes de besoins
+2433118,Création d'un outil d'analyse de marché avec Python
+2433118,Mise en place d'un architecture pour Power BI Premium
+2433118,Mener des formations auprès des utilisateurs principaux
+2433118,Formation sur la sécurité de données
+2433118,Élaboration d'une stratégie de sécurité de données
+2433118,Analyse et optimisation du modèle en place
+2433118,Développement du modèle de données de Power BI
+2433118,Récolte et analyse des besoins auprès des lignes d'affaires
+2433118,"Conception, préparation et adaptation de la formation pour les besoins du [CLIENT]"
+2433118,Coordination des séances de formation
+2433118,Animation des formations niveau débutant à avancé)
+2433118,"Conception, préparation et adaptation de la formation pour les besoins du [CLIENT]"
+2433118,Organisation et animation des séances de formation
+2433118,Développer des modèles de données Power BI
+2433118,Développer des rapports
+2433118,Création de Workspace et d’application Power BI
+2433118,Analyse besoin [CLIENT]
+2433118,Formation utilisateur
+2433118,Développer des modèles de données Power BI
+2433118,Développer des rapports
+2433118,Analyse besoin [CLIENT]
+2433118,Intégration de données
+2433118,Gestion de Projet
+2433118,Formation [CLIENT]
+2433118,Analyser et suivre les besoins [CLIENT]
+2433118,Maintenir les rapports
+2433118,Tester les rapports
+2433118,Développer les rapports
+2433118,"Assurer l’extraction, la transformation et le chargement des données"
+2433118,Développement de rapport
+2433118,Consolidation des besoins des [CLIENT]
+2433118,Création de tableaux de bord
+2433118,Gestion de Projet
+2433120,Développement des flux de données
+2433120,Développement des jeux de données
+2433120,Création de documentation fonctionnelles et de maintenance
+2433120,"Migrer et adapter les traitements existants de [CLIENT] vers le nouvel environnement: traitements IICS, tables et vues Snowflake ainsi que les tâches stonebranch"
+2433120,Réalisation de l'architecture du système et des tables
+2433120,Création des tables et des flux d'alimentation
+2433120,Développement des flux de données sur [CLIENT] Cloud
+2433120,Création des nouvelles tables et vues sur Snowflake
+2433120,"Optimisation, redesign des flux de données"
+2433120,"Tests, passages en QAT puis en Production, maintenance de la production"
+2433120,Montée en compétence techniques sur de nouveaux outils
+2433120,"Evolution, amélioration, automatisation des flux de données"
+2433120,Optimisation des flux de données
+2433120,Discussions avec le métier pour comprendre les évolutions nécessaires
+2433120,Maintenance des traitements ETL existants
+2433122,"Projet de migration vers le cloud, partie back end (Informatica Powercenter -> Informatica Cloud, DB2 --> Snowflake)"
+2433122,Activités de support quotidiennes des processus BI de [CLIENT].
+2433124,Restitution et transmission des connaissances
+2433124,Développement KPI et Tableau de bord
+2433124,"Conversation avec le [CLIENT] pour récolter les besoins, comprendre les enjeux et mettre en place une solution répondant à celle-ci."
+2433124,Restitution et transmission des connaissances
+2433124,Nettoyage de données
+2433124,Intégration de données
+2433124,Développement KPI et Tableau de bord
+2433125,"Comprendre les besoins des utilisateurs et des parties prenantes pour la planification, la budgétisation et la prévision.(Design session)"
+2433125,"Configurer et personnaliser le système VENA pour répondre aux besoins de l'entrepris, notamment la création de modèles de données, de dimensions, de formules et de rapports."
+2433125,Participer à la migration des données à partir des systèmes existants vers VENA.
+2433125,Collaborer avec les équipes de développement et les chefs de projet pour s'assurer que les livrables sont livrés dans les délais impartis et conformément aux spécifications.
+2433125,Assurer la formation des utilisateurs pour assurer l'adoption et l'utilisation correcte du système VENA.
+2433125,Maintenir et améliorer le système VENA en réponse aux besoins changeants de l'entreprise et aux commentaires des utilisateurs.
+2433125,Fournir un soutien aux utilisateurs et résoudre les problèmes liés au système VENA.
+2433125,"Concevoir et mettre en place des processus automatisés pour la collecte, la consolidation et la validation des données financières.(ETL)"
+2433125,Fournir une assistance technique aux utilisateurs de VENA et collaborer avec les équipes informatiques pour résoudre les problèmes techniques liés à l'utilisation de VENA.
+2433125,"Former les équipes internes de consultants sur l'utilisation de l'outil VENA, en leur fournissant une formation détaillée sur les fonctionnalités, la configuration et la maintenance de VENA."
+2433130,Analyse des rapports et des données
+2433130,Mener les ateliers de transformation avec les participants
+2433130,Documentation des requis affaires
+2433130,Gestion des parties prenantes
+2433130,Conception des requêtes de données avec dimensionalité
+2433130,Intégration des données dans les chiffriers
+2433130,Réconciliation aux systèmes sources
+2433134,Maintenance de rapports Power BI
+2433134,Développement de vues Snowflake
+2433134,Mise en place de procédures stockées pour mettre à jour la base de données Snowflake avec des données en provenance de Power BI/Power ON
+2433134,Implémentation de la sécurité au niveau de la visualisation et de l'écriture de données dans Power BI
+2433134,Réalisation d'un audit de l'environnement BI afin d'évaluer les axes d'amélioration
+2433134,Suivi quotidien des traitements afin de corriger les erreurs qui peuvent se produire
+2433134,"Mise en place de l'alimentation des données du DealFlow pour permettre la conception de rapports d'analyse (développement de base de données, développement des flux de chargement SnapLogic, automatisation sous Autosys, déploiement automatisé sur DevOps)"
+2433134,"Enrichissement des données alimentant la Fiche Partenaires (développement des flux de chargement SSIS, virtualisation des données avec Denodo, automatisation sous Autosys, déploiement automatisé sur DevOps)"
+2433134,Développement et administration de rapports d'analyse sur l'activité du CRM ainsi que les informations de la Fiche Partenaires (Power BI)
+2433134,Développement d’un entrepôt de données
+2433134,Mise en place et développement de l’ETL SSIS (Tech lead)
+2433134,Développement de rapports sur Power BI
+2433135,Echanges constant avec le [CLIENT] (PO) afin de rendre compte de l'avancement des sujets en cours
+2433135,Organisation de rencontres stratégiques (PO - Métier) afin de mieux adresser les sujet à moyen long termes
+2433135,Facilitateur avec le [CLIENT] afin de le supporter au mieux dans l'organisation opérationnelle
+2433135,Servant leader à l'interne afin de faire monter l'équipe en autonomie et maximiser la valeur ajoutée délivrée.
+2433135,Ateliers de validation des spécifications
+2433135,Définition des MVP pour chaque rapport
+2433135,Organisation du travail avec l’équipe en interne et les parties prenantes
+2433135,Session de collecte des retours d’expérience lors des démos
+2433135,Accompagnement du métier dans l’implémentation de sa stratégie BI
+2433135,Communication et suivi projet
+2433135,Cadrage des besoins et du périmètre projet
+2433135,Mise en place de l’équipe technique
+2433135,Animation des cérémonies
+2433135,Suivi de projet et rapports d'avancement
+2433135,"Tests interne, flux et tableaux de bord"
+2433135,"Gestion des délais, des coûts et de la qualité du projet"
+2433135,Gouvernance projet
+2433135,Gestion des risques
+2433135,Gestion d’équipe : 4 personnes
+2433135,Organiser les cérémonies et assurer la transparence
+2433135,Implémentation d’une approche agile et du cadre Scrum au sein de l’équipe
+2433135,"Préparer les livrables de gestion (JIRA, suivi projet)"
+2433135,Assurer une communication efficiente entre les parties prenantes
+2433135,"Assurer une relation de confiance et accompagner le métier (PO, business analyst)"
+2433135,Projet géré en offre de service (banque d’heures)
+2433135,Recueil des besoins
+2433135,Validation de la faisabilité technique
+2433135,Interlocuteur entre les différents acteurs du projet (2 tierces parties)
+2433135,Rédaction de la spécification fonctionnelle
+2433135,Tests internes
+2433135,Accompagnement à la transformation numérique
+2433135,Accompagnement dans l’Expression des besoins et nouveaux besoins à forte valeur ajoutée
+2433135,"Gestion des délais, des coûts et de la qualité du projet"
+2433135,Animation des cérémonies
+2433135,Gestion des risques
+2433135,Suivi de projet et rapports d'avancement
+2433135,Réalisation d’ateliers sur l’état actuel VS objectifs souhaités
+2433135,Cadrage des besoins et du périmètre projet
+2433135,Coach Agile; aider dans la recherche et l’identification de solutions
+2433135,Animation des cérémonies
+2433135,Mise en place de l’équipe technique
+2433135,Rédaction des spécifications fonctionnelles
+2433135,Suivi de projet et rapports d'avancement
+2433135,"Tests interne, flux et tableaux de bord"
+2433135,"Contrôle des délais, des coûts et de la qualité du projet"
+2433135,Gestion des risques
+2433135,Validation des éléments recueillies lors des ateliers fonctionnels
+2433135,Cadrage du projet
+2433135,Animation des cérémonies
+2433135,Accompagnement à la rédaction de la documentation technique
+2433135,"Contrôle des délais, des coûts et de la qualité du projet"
+2433135,Gestion des risques
+2433135,Gestion d’équipe : 3 personnes
+2433135,Suivi de projet et rapports d'avancement
+2433135,Animation des cérémonies
+2433135,"Contrôle des délais, des coûts et de la qualité du projet"
+2433135,Gestion des risques
+2433138,Comprendre les besoins et analyse des données des systèmes sources.
+2433138,Planifier l'architecture des phases de migration de données (Transcient-Staging-Curated-Datamart)
+2433138,"Générer le structure des tables à chaque phase, et  définir le modèle (logique - physique) des datamarts"
+2433138,Mettre en place la stratégie d'implémentation et de déploiement de la solution
+2433138,"Assurer la connection avec les differents types de systèmes sources(SAP, SQL Server, csv files, XML Files)"
+2433138,Analyser et profiler les données. Suggérer et développer des règles de gestions et rejets avec les analystes et les business
+2433138,"Développement des pipelines ADF, et créer des workflows pour synchroniser et orchestrer la démarche du fleau des différents systèmes sources et phases d'intégration"
+2433138,"Créer des procédures sur Synapse pour consolider les données, et appliquer les règles de gestions afin de générer les tables Datamarts"
+2433138,"Créer des rapports et des tableaux de bord PowerBI pour afficher différents types de visualisations tels que la gestion des coûts des processus exécutés sur Synapse, les performances ETL, la surveillance des tâches et la remontée des tâches échouées"
+2433138,Analyse des nouveaux changements et des règles d’affaires requis
+2433138,Développement des nouveaux changements ou modifications des règles d’affaires dans le code.
+2433138,Profilage de données et validation et créer des scripts de datafix pour corriger des données erronées
+2433138,Développement des mesures et attributs et valider les contextes dans Sap BO
+2433139,Superviser tous les aspects du projet et assurer la gestion des résultats;
+2433139,Guider le client dans le processus d'intégration des acquisitions;
+2433139,Développer un plan stratégique pour déployer la feuille de route du projet sur deux ans.
+2433139,Animation d’ateliers et d’entrevues de compréhension de la situation actuelle;
+2433139,Animation d’atelier de collecte de besoins;
+2433139,Analyse des différents scénarios de transformation et options d’optimisation;
+2433139,Suivi de projet et rapports d'avancement du projet;
+2433139,"Contrôle des délais, des coûts et de la portée du projet;"
+2433139,"Gestion des facteurs de risque en identifiant, mitigeant et communiquant sur les risques du projet."
+2433139,"Préparer et analyser les rapports financiers et de gestion de chaque business unit (résultats, prévisions, écarts);"
+2433139,Assurer la viabilité des unités d’affaires pour une prise de décisions optimale;
+2433139,Assurer la coordination et le suivi du processus budgétaire;
+2433139,Participer à la préparation des plans stratégiques annuels;
+2433139,"Ajustements de fin de mois (provisions, amortissements, charges payées d’avance, charges à payer)."
+2433109,Understanding of customer requirements
+2433109,Analysis of needs and impacts
+2433109,Development of data marts in T-SQL
+2433109,Development of a data warehouse
+2433109,Conversion of specification into development
+2433109,Implementation strategy recommendation
+2433109,Dashboards development
+2433109,Maintenance of implemented solutions
+2433109,Bug resolution
+2433109,Defining star schemas for Power BI
+2433109,Direct Query and optimization by aggregation tables
+2433109,Report development
+2433109,Creation of technical and functional documentation
+2433109,Power BI user training
+2433109,Understanding of the need and analysis of the different data sources
+2433109,Defining star schemas for the DWH and for Power BI
+2433109,Data extraction and transformation
+2433109,Report development
+2433109,Creation of technical and functional documentation
+2433109,Power BI user training
+2433109,Power BI modeling
+2433109,Report development
+2433109,Training and coaching on Power BI and the DAX language
+2433109,Understanding of the need
+2433109,Azure SQL Database
+2433109,Azure Analysis Services (AAS) tabular model
+2433109,Power BI reports
+2433109,Testing and Documentation
+2433109,Understanding of the need and the source database
+2433109,Star modeling
+2433109,Creating stored procedures and populating the model
+2433109,Creation of metrics in accordance with business rules
+2433109,Development of financial consolidation reports
+2433109,Creation of technical and functional documentation
+2433109,Understanding of the need and analysis of the different data sources
+2433109,Defining star schemas for the DWH and for Power BI
+2433109,Creating a DWH and SSAS Tabular Model
+2433109,Data extraction and transformation
+2433109,Creation of metrics in accordance with business rules
+2433109,Development of sales analysis reports
+2433109,Creation of technical and functional documentation
+2433109,Power BI user training
+2433109,Power BI user training
+2433109,Management of the Hyperion Essbase scope for [CLIENT] and [CLIENT].
+2433109,"Maintenance, optimization and automation of Hyperion Essbase applications"
+2433109,History recovery
+2433109,"Analysis, costing and evolutions"
+2433109,Creation of partitions and configuration of applications
+2433109,"Monthly, half-yearly and annual closings"
+2433109,Creation of technical and functional documentation in order to simplify understanding of the relationships between applications and facilitate their maintenance
+2433109,Optimization of all Hyperion Essbase applications for [CLIENT] and [CLIENT].
+2433109,Optimization of calculation times and volumetry of applications
+2433109,Optimization of SQL queries for loading data
+2433109,Application settings
+2433109,Naming convention rules
+2433109,Project to integrate this set into Hyperion Essbase applications
+2433109,"Creation of DLR, scripts and windows batches"
+2433109,User support
+2433109,Milk material variance analysis project
+2433109,Creating a New Hyperion Essbase Application
+2433109,"Creation of DLR, scripts and windows batches"
+2433109,Creation of technical and functional documentation
+2433109,User support
+2433109,Creation of Dodeca applications to offer complete autonomy to users on the actual and rolling forecast processes.
+2433112,Animation of workshops with the business lines
+2433112,"Recommendation and implementation of a complete Data Cloud platform for subsidiaries (integration, storage and reporting)"
+2433112,Training of technical teams and users
+2433112,Comprehensive analysis of the BI ecosystem
+2433112,Recommendation of improvements
+2433112,"Implementation of a ""Modern Data Stack"" architecture as part of a marketing project"
+2433112,Analysis of the BI ecosystem
+2433112,Writing of the documentation resulting from the analysis
+2433112,"Recommendation and implementation of a ""Modern Data Stack"" architecture as part of a project"
+2433112,Analysis of the existing architecture and the need for unified reporting between the financial application and the operational systems
+2433112,Harmonization of reporting structures between the different business lines
+2433112,Solution architecture definition
+2433112,Snowflake Administrator
+2433112,Solution architecture definition
+2433112,Adaptation of the PERSEUS model for Snowflake
+2433112,Defining the size and configuration of database infrastructures
+2433112,Implementation of monitoring mechanisms on the databases
+2433112,Training of technical teams and users
+2433112,Solution architecture definition
+2433112,Adaptation of the [CLIENT] data model to the [CLIENT] data model
+2433112,Defining the size and configuration of database infrastructures
+2433112,Definition of business calculation rules
+2433112,Implementation of monitoring mechanisms on the databases
+2433112,Monitoring the performance of integration flows and databases
+2433112,Solution architecture definition
+2433112,Animation of workshops and participation in change management
+2433112,Implementation of monitoring mechanisms on the databases
+2433112,Defining the size and configuration of database infrastructures
+2433112,Management of the developer team
+2433112,Training of technical teams and users
+2433112,Integration of data from a new company into existing reporting
+2433112,Maintenance of data warehouse feeding procedures according to changes in business rules
+2433112,Defining the size and configuration of database infrastructures
+2433112,Integration of data from a new company into existing reporting
+2936770,-   Développer des rapports Power BI qui permettent de faire le suivi des pertes opérationnelles et des données des transactions enregistrées dans les systèmes comptables
+2936770,Analyser et développer des rapports Power BI de reddition pour le suivi de divers projets
+2936770,Modéliser les données dans le cadre de la création ou mise à niveau de tableaux de bord et de rapports
+2936770,"Créer des tableaux de calcul et de suivis des ventes connectés à un cube, qui intègrent les chiffres des années antérieures, les résultats actuels et les prévisions selon différentes catégories de produits et canaux de ventes"
+2936770,Automatiser les tableaux et outils de calculs selon différents paramètres et besoins d'affaires
+2936770,Recommander des solutions sur la base des conclusions d'analyses pour l'évolution de systèmes ou rapports existants
+2936770,Construire des pipelines pour obtenir les données de diverses sources (API) et les ansformer avant de les mettre à disposition des équipes BI pour la création de apports
+2936770,Effectuer l'assurance qualité et les tests de validation utilisateurs
+2936770,"-  Analyser, modéliser les systèmes ou processus d'affaires et proposer des évolutions"
+2936770,Développer des solutions pour répondre à des insuffisances techniques de systèmes opérationnels
+2936770,Effectuer le profilage et à la modélisation des données
+2936770,Produire de la documentation d'architecture fonctionnelle
+2936770,Monter des scénarios de tests et supporter les utilisateurs aux tests d'acceptation
+2936770,Développer les mécanismes de déploiements de solutions
+2936770,-   Collecter et analyser des données sur le marché dans le cadre de mandats spéciaux d'étude de marché
+2936770,Fournir des rapports d'analyse détaillés et des visualisations interactives grâce à l'interprétation des données (Power BI)
+2936770,"Analyser l'environnement opérationnel pour cerner les défis, les améliorations possibles et les changements"
+2936770,Comprendre les problèmes et des lacunes rencontrés par les unités opérationnelles et analyser des causes fondamentales
+2936770,Créer et tenir à jour un dépôt central d'information de tous les processus opérationnels et de la documentation des systèmes
+2895177,"Managed Agile data engineering workflows, ensuring ETL reliability and precise pipeline scheduling on Airflow demonstrated strong soft skills in communication engaging non-technical audiences and aligning with business priorities."
+2895177,"Identified and visualized complex business challenges, gather stakeholder requirements, and transform business eeds into actionable development tasks for the data engineering team within an Agile framework"
+2895177,"Managed Jira tasks for on-time deliverables, collaborated with data engineering to ensure ETL pipeline reliability and accuracy, and supervised pipeline scheduling and execution on Airflow"
+2895177,"Effectively communicate development progress to diverse, non-technical audiences in company-wide presentations create detailed documentation and conduct user training on dashboard data extraction"
+2895177,"Developed ETL pipelines and crafted metrics and dashboards using SQL and Mode based on internal stakeholders' requirements, presented insights in bi-weekly market health meetings to a large non-technical audience"
+2895177,"Built a SQL data model to identify uncollected revenue drivers through cross-functional collaboration with marketing sales, and engineering departments, resulting in over $200k in projected revenue recovery"
+2895177,"Identified excessive refunds beyond policy for Annual Memberships, using SQL to uncover $500k in excess refunds for"
+2895177,"2022, leading collaborative efforts with Engineering to implement platform enhancements"
+2895177,"Led sophisticated data analysis to deliver accurate and timely reporting, proficient in clarifying scope and data requirements with stakeholders, and facilitating cross-departmental communication to drive data-driven decisions"
+2895177,"Leveraged Power BI Dataflow to perform ETL combining hundreds of Excel files, built a dashboard to monitor daily pricing changes for 3k+ SKUs, auto-detecting products priced below guidelines on [CLIENT], resolving commercial conflicts by providing daily insights and actionable data to the digital team"
+2895177,"Gathered business requirements from Finance and conducted analysis on internal and external % Gross Margin by building profitability models, advising proactive management of product mix to maximize profit"
+2895177,"Delivered price increase initiatives cross-functionally and leveraging data in pricing elasticity, consumer insights and competition dynamics, generated an additional $22M in Net Sales"
+2895177,"* Spearheaded the development of SQL and SAS models to monitor and analyze performance metrics for over 5,000 technicians, facilitating targeted coaching and operational improvements"
+2895177,"Initiated and managed the implementation of the division's first Power BI Report Server, which directly supported data-driven decision-making and enhanced stakeholder communication"
+2895177,"Demonstrated strong proficiency in SQL and agile methodologies, effectively prioritizing and managing the product backlog to align with strategic goals"
+2895177,"* Transformed reporting by automating 20+ business reports with Power Pivot and Power BI, enhancing data accuracy and accessibility for strategic decision-making"
+2977311,Increased product KPIs  by implementing a user centric feedback loop and continuously adjusting the product based on insights.
+2977311,Improved content velocity by 30% by aligning the process of multiples teams.
+2977311,"Manage the estimation, prioritization, Sprint, Scrum and coordination between all he teams"
+2977311,"Led and coordinated efforts  across development, QA, third-party partners, art animation, VFX, product management, UI, and other teams"
+2977311,"Implemented a push notification platform  ([CLIENT]), resulting in a 10% increase in customer engagement."
+2977311,"Led the implementation of the analytics platform  using Snowflake, DBT, Tableau, Fivetran, and Segment."
+2977311,"Developed key Tableau dashboards    for Finance, Product, and Management teams enhancing decision-making."
+2977311,Plan and led the business intelligence and analytics initiatives in the Free to play environment for 4 games.
+2977311,Increased the ARPU by 15% by giving product stakeholders visibility and tools on he user journey and purchase behavior.
+2977311,"Coordinate and lead data product initiatives across multiple teams, including planning and execution"
+2977311,"Held full accountability for setting and achieving the department's vision and objectives (OKRs) , leading teams of data engineers, data scientists, analytics engineer, and machine learning."
+2977311,"Selected and led the strategy, partner and project implementation  for a new data platform."
+2977311,"Plan, prioritize, own, and execute data projects for multiple departments within an Agile framework"
+2977311,Contributed to 20x revenue growth over five years  at [CLIENT] by equipping departments with data tools that optimized Revenues and ARPU
+2977311,"Hired and developed over 15 key professionals  in the Business Intelligence, Analytics and Data Engineering departments"
+2977311,Planned and executed multiple data projects that improved users experiences
+2977311,"Established and executed a BI roadmap, achieving sustainable results and ensuring data quality across multiple sources."
+2977311,"Led data lake and warehouse initiatives , introduced real-time monitoring tools, and modernized data infrastructure."
+2977311,"Developed 50+ dashboards and reports  , setting high self-service data platform."
+2976032,*      Coordination with different team members.
+2976032,Prioritize and order the different responsibilities of each team member.
+2976032,Coordinate with different partners and speakers.
+2976032,Negotiate with our various sponsors
+2957009,"Collaborate with stakeholders, users, and development teams to align scope"
+2957009,"Manage and prioritize backlog, user stories, delivery schedules"
+2957009,"Represent a team consisting of Analysts (3 business, 2 IT) and 2 Development squads (including a Tech lead, Project Managers and a Scrum master)"
+2957009,Influence and advocate change in a semi-Agile environment
+2957009,Manage stakeholder expectations and colleague workflows
+2957009,"Mandates overseen include Decumulation services, Financial planning and operational efficiency projects"
+2957009,"Lead, influence and contribute to various Product and Market Development Projects"
+2957009,Leverage Behavioral economics theory to engage plan members. Recommend new ideas and product offerings
+2957009,"Project: Increase asset retention for retired and terminated employees, Expected profitability gains of $9M over 5 years."
+2957009,"Insurance calculator, a key part of a larger project (>$10M) that aims to sell various insurance and ancillary products directly to consumers."
+2957009,Responsible investing: contributed to [CLIENT]'s UNPRI signing as asset-owner category
+2957009,Public speaking: Represent [CLIENT] at Industry-specific events (Benefits Canada)
+2957009,*      Drive sales of VRSP and other Group Retirement Services products to Group advisors
+2957009,*       Over $1M. AUM in 8 months. Aggressive cold calling
+2903451,Performed reviews and analysis of multiple data sources.
+2903451,Worked closely with stakeholders to gather requirements and critical information to develop BRDs.
+2920938,Atelier de travail avec le [CLIENT] pour comprendre les règles d'affaires
+2920938,Modélisation des données des locataires
+2920938,Création du virtual datamart Tenant avec les vues métiers utilisés pour les rapports PBI
+2920938,Assistance aux développeurs
+2920938,Aide au matching des noms des locataires avec les data stewards
+2920938,Composition de l'équipe
+2920938,Equipe constituée de 5 personnes
+2920938,Compréhension du besoin et analyse des différentes sources de données
+2920938,Rédaction d'une spécification fonctionnelle
+2920938,Composition de l'équipe
+2920938,Equipe constituée de 5 personnes
+2920938,Suivi des efforts
+2920938,Communication sur les bonnes pratiques BI
+2920938,Conception et refonte d'environ 700 flux d'intégration des données sous SSIS
+2920938,Modélisation en étoile du datawarehouse (dimension SCD2 + faits)
+2920938,Migration des packages dans le catalogue SSIS
+2920938,Création des pipelines CI/CD sous Azure DevOps
+2920938,Création des tâches SQL Agent pour charger quotidiennement les bases de données BI
+2920938,Réécriture des requêtes SQL lentes
+2920938,Composition de l'équipe
+2920938,Equipe constituée de 3 personnes
+2920938,Animation des ateliers de recueil des besoins utilisateurs
+2920938,Analyse des sources de données
+2920938,Développement de flux ETL
+2920938,Modélisation du modèle de données Power BI
+2920938,Développement de rapports
+2920938,Composition de l'équipe
+2920938,Equipe constituée de 3 personnes
+2920938,Développement du calculateur de rémunération de l'encaisse interne pour la trésorerie
+2920938,"conception, développement des flux de chargement SSIS, automatisation sous Autosys déploiement automatisé sur DevOps)"
+2920938,"Support évolutif de l'entrepôt de données Marché Public (développement SSIS, déploiement automatisé sur DevOps)"
+2920938,Création des flux de chargement des données de rendement périodique et des devises de marché
+2920938,"développement des flux de chargement SSIS, ESB, automatisation sous Autosys, déploiement automatisé sur DevOps)"
+2920938,Composition de l'équipe
+2920938,Equipe constituée de 6 personnes
+2978961,Interface entre les utilisateurs finaux / parties prenantes (IT) et les différents départements internes
+2978961,Contrôle des non-conformités (bugs/lacunes) et transmission au prestataire via le système de suivi des problèmes
+2978961,"Analyse des besoins, documentation et réorganisation des processus du business pour une rentabilité optimum."
+2978961,"Co-création, réalisation et maintien de divers scripts de test/validation basés sur les processus d'affaires des [CLIENT]"
+2978961,Suivi des projets et de l'atteinte des résultats souhaités
+2978961,Reporting à la direction de tous les livrables et des activités connexes
+2978961,Revue des rapports existants avec les clients (Ventes & Solutions Média) dans Cognos et Sales Force
+2978961,Création de rapports Cognos sur la base des rapports Excel existants et des requêtes du département des ventes
+2978961,Collaboration avec la DSI pour l'implémentation du projet TM1/Cognos / tests des rapports
+2978961,Création des rapports Cognos sur une base de données dimensionnel TM1 cubes importé de BW SAP
+2978961,Formation et accompagnement des utilisateurs sur l'utilisation de l'outil Cognos dans le département Finance
+2978961,Principale Réalisation : Optimiser les données dimensionnelles de SAP dans Cognos
+3072774,"- Restructuration of the Centers Of Excellences to build out key processes, establish methodologies, and develop expertise across the enterprise around several areas of interest such as Project Management, Business Analysis, Artificial Intelligence and Data Management
+- Documentation of the best practices in Business Analysis based on methodologies such as the Business Analysis Body of Knowledge
+- Organization of internal (Lunch and Learns, COEs) and external events through partnerships (Hackathon) to share knowledge"
+3072774,"Capturing, analyzing, and writing business and functional requirements to ensure alignment"
+3072774,Modeling and documentation of business processes and procedures
+3072774,Facilitation and follow-ups of workshops with various stakeholders
+3072774,Assessing the financial impacts of developing new features to ensure cost-effectiveness
+3072774,"Setting up the test plan and supervising the test phase: writing scenarios, running tests
+results before problem resolution"
+2946290,"* Production de rapports stratégiques : Développement de rapports de reddition de comptes, portraits statistiques et présentations rigoureuses, livrés dans des délais prescrits, facilitant la prise de décision par la haute direction."
+2946290,"Gestion budgétaire : Préparation de rapports financiers pour plus de 10 programmes et initiatives, représentant un budget total de plus de 700 M$. Résultat : une meilleure visibilité sur l'utilisation des fonds publics et une optimisation des processus budgétaires."
+2946290,"Recueil des besoins et définition des règles d'affaires : Organisation de sessions collaboratives pour capturer les besoins des utilisateurs finaux et établir des règles d'affaires claires, assurant la pertinence et la précision des rapports produits."
+2946290,"Analyse et visualisation de données : Création de tableaux de bord et rapports interactifs dans Power BI, permettant de centraliser et d’analyser efficacement les données pour répondre aux demandes d’information."
+2946290,"Assurance qualité des données : Validation et vérification des données critiques en production, garantisant leur exactitude et leur conformité avec les standards internes."
+2946290,"Formation et accompagnement : Formation des conseillers et des conseillers principaux dans l'utilisation de Power BI et d'autres outils analytiques, renforçant leur autonomie dans la création et l'interprétation de rapports."
+2946290,"* Produire des rapports de reddition de comptes gouvernementales, présentations, informations et des portraits statistiques rigoureux, en temps opportun dans les délais prescrits"
+2946290,Préparation des rapports budgétaires pour plus d'une dizaine de programmes et d'initiatives totalisant plus de 100M$
+2946290,Manipulation et analyse de données à des fins de rapports et de tableaux de bord Power BI
+2946290,Effectuer un travail d'assurance-qualité sur les données en production
+2946290,Effectuer la saisie de factures des comptes payables et/ou recevables
+2946290,Réaliser la préparation des paiements et effectuer les paiements
+2946290,Préparer et envoyer les états de comptes aux clients. Effectuer le suivi des comptes recevables
+2946290,Offrir un support lors de la préparation des audits
+2946290,Automatiser des tâches à l'aide de VBA
