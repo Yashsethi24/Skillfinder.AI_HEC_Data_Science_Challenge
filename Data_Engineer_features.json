@@ -1,1 +1,31 @@
-{'Job Title': 'Data Engineer', 'Required Skills': ['Apache Spark', 'Python', 'Scala', 'Azure Data Factory', 'Azure Data Lake Storage (gen2)', 'Azure Databricks', 'Kafka', 'Data Quality Checks', 'Data Profiling', 'Monitoring'], 'Preferred Skills': [], 'Experience Required': 5.0, 'Languages': ['French', 'English'], 'Responsibilities': ['Conceive and develop robust and optimized data pipelines using Azure Data Factory to integrate data from multiple sources (ERP, CRM, etc.).', 'Design, build, and maintain efficient, reusable, and reliable ETL/ELT pipelines.', 'Ensure data quality through validation, cleansing, and transformation processes.', 'Collaborate with data scientists and analysts to design and implement data models.', 'Optimize data pipeline performance for scalability and reliability.'], 'Location': '', 'Salary': '', 'Additional Notes': 'Experience in retail or large distribution environments is preferred. Knowledge of monitoring pipelines (Azure Monitor, Log Analytics, Datadog) is an asset.'}
+{
+  "Job Title": "Data Engineer",
+  "Required Skills": [
+    "Apache Spark",
+    "Python",
+    "Scala",
+    "Azure Data Factory",
+    "Azure Data Lake Storage (gen2)",
+    "Azure Databricks",
+    "Kafka",
+    "Data Quality Checks",
+    "Data Profiling",
+    "Monitoring"
+  ],
+  "Preferred Skills": [],
+  "Experience Required": 5.0,
+  "Languages": ["French", "English"],
+  "Responsibilities": [
+    "Conceive and develop robust and optimized data pipelines using Azure Data Factory to integrate data from multiple sources (ERP, CRM, etc.).",
+    "Design, build, and maintain efficient, reusable, and reliable ETL/ELT pipelines.",
+    "Ensure data quality through validation, cleansing, and transformation processes.",
+    "Collaborate with data scientists and analysts to design and implement data models.",
+    "Optimize data pipeline performance for scalability and reliability."
+  ],
+  "Location": "",
+  "Salary": "",
+  "Additional Notes": {
+    "Preferred Experience": "Experience in retail or large distribution environments is preferred.",
+    "Monitoring Tools": "Knowledge of monitoring pipelines (Azure Monitor, Log Analytics, Datadog) is an asset."
+  }
+}

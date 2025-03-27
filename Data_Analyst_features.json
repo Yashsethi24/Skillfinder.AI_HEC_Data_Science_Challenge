@@ -1,1 +1,26 @@
-{'Job Title': 'Data Analyst - Marketing Analytics', 'Required Skills': ['SQL', 'Power BI', 'Databricks'], 'Preferred Skills': ['DAX', 'Power Query', 'ETL'], 'Experience Required': 5.0, 'Languages': ['English', 'French'], 'Responsibilities': ['Maintain and evolve marketing datasets from various sources.', 'Develop dashboards and reports in Power BI.', 'Optimize the performance of Power BI datasets.', 'Integrate data from diverse platforms (Google Analytics, CRM, Marketing Tools).', 'Write efficient SQL, DAX, and Power Query code.', 'Collaborate closely with analysts to understand their needs.', 'Create queries in Databricks and SSMS.', 'Ensure data quality and reliability.', 'Support colleagues via code reviews and technical support.', 'Design adapted data models for specific objectives.'], 'Location': 'Montreal', 'Salary': '', 'Additional Notes': 'Duration: 10 months (renewable). Type: Full-time. Mode of work: Hybrid (2 days per week at the Montreal office)'}
+{
+  "Job Title": "Data Analyst - Marketing Analytics",
+  "Required Skills": ["SQL", "Power BI", "Databricks"],
+  "Preferred Skills": ["DAX", "Power Query", "ETL"],
+  "Experience Required": 5.0,
+  "Languages": ["English", "French"],
+  "Responsibilities": [
+    "Maintain and evolve marketing datasets from various sources.",
+    "Develop dashboards and reports in Power BI.",
+    "Optimize the performance of Power BI datasets.",
+    "Integrate data from diverse platforms (Google Analytics, CRM, Marketing Tools).",
+    "Write efficient SQL, DAX, and Power Query code.",
+    "Collaborate closely with analysts to understand their needs.",
+    "Create queries in Databricks and SSMS.",
+    "Ensure data quality and reliability.",
+    "Support colleagues via code reviews and technical support.",
+    "Design adapted data models for specific objectives."
+  ],
+  "Location": "Montreal",
+  "Salary": "",
+  "Additional Notes": {
+    "Duration": "10 months (renewable)",
+    "Type": "Full-time",
+    "Mode of work": "Hybrid (2 days per week at the Montreal office)"
+  }
+}

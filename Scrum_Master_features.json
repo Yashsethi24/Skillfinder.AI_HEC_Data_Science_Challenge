@@ -1,1 +1,30 @@
-{'Job Title': 'Scrum Master', 'Required Skills': ['Agile Methodologies (Scrum, Kanban, Lean)', 'Leadership', 'Diplomacy', 'Influence'], 'Preferred Skills': ['Coaching Agile'], 'Experience Required': 3.0, 'Languages': ['French', 'English'], 'Responsibilities': ['Establish and maintain an effective agile framework for optimal team performance.', 'Facilitate all Scrum ceremonies (Daily Scrum, Sprint Planning, Sprint Review, Retrospective, Refinement).', 'Proactively manage obstacles to ensure project deliverables are on track.', "Support the team's development of autonomy and self-organization.", 'Act as an agile coach, guiding the team and stakeholders in understanding and applying agile values, principles, and practices.', 'Promote a culture of collaboration and continuous improvement.', 'Assist the Product Owner in effectively managing the product backlog, defining priorities, and maximizing delivered value.', 'Measure and analyze team performance using key indicators (velocity, burndown charts, lead time, etc.), using suitable tools.', 'Protect the team from external interference and maintain a peaceful work environment.'], 'Location': 'Montreal', 'Additional Notes': 'Contribute actively to the success of an engaged agile team in a stimulating digital transformation environment. Work for Alimora Groupe, a North American leader in sustainable agriculture with over 1500 employees across 7 production sites and presence in more than 12 countries.'}
+{
+  "Job Title": "Scrum Master",
+  "Required Skills": [
+    "Agile Methodologies (Scrum, Kanban, Lean)",
+    "Leadership",
+    "Diplomacy",
+    "Influence"
+  ],
+  "Preferred Skills": ["Coaching Agile"],
+  "Experience Required": 3.0,
+  "Languages": ["French", "English"],
+  "Responsibilities": [
+    "Establish and maintain an effective agile framework for optimal team performance.",
+    "Facilitate all Scrum ceremonies (Daily Scrum, Sprint Planning, Sprint Review, Retrospective, Refinement).",
+    "Proactively manage obstacles to ensure project deliverables are on track.",
+    "Support the team's development of autonomy and self-organization.",
+    "Act as an agile coach, guiding the team and stakeholders in understanding and applying agile values, principles, and practices.",
+    "Promote a culture of collaboration and continuous improvement.",
+    "Assist the Product Owner in effectively managing the product backlog, defining priorities, and maximizing delivered value.",
+    "Measure and analyze team performance using key indicators (velocity, burndown charts, lead time, etc.), using suitable tools.",
+    "Protect the team from external interference and maintain a peaceful work environment."
+  ],
+  "Location": "Montreal",
+  "Salary": "",
+  "Additional Notes": {
+    "Company": "Alimora Groupe",
+    "Company Info": "A North American leader in sustainable agriculture with over 1500 employees across 7 production sites and presence in more than 12 countries.",
+    "Environment": "Contribute actively to the success of an engaged agile team in a stimulating digital transformation environment."
+  }
+}
