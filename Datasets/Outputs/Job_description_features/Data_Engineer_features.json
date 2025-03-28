@@ -1,31 +1,94 @@
 {
-  "Job Title": "Data Engineer",
-  "Required Skills": [
-    "Apache Spark",
-    "Python",
-    "Scala",
-    "Azure Data Factory",
-    "Azure Data Lake Storage (gen2)",
-    "Azure Databricks",
-    "Kafka",
-    "Data Quality Checks",
-    "Data Profiling",
-    "Monitoring"
-  ],
-  "Preferred Skills": [],
-  "Experience Required": 5.0,
-  "Languages": ["French", "English"],
-  "Responsibilities": [
-    "Conceive and develop robust and optimized data pipelines using Azure Data Factory to integrate data from multiple sources (ERP, CRM, etc.).",
-    "Design, build, and maintain efficient, reusable, and reliable ETL/ELT pipelines.",
-    "Ensure data quality through validation, cleansing, and transformation processes.",
-    "Collaborate with data scientists and analysts to design and implement data models.",
-    "Optimize data pipeline performance for scalability and reliability."
-  ],
-  "Location": "",
-  "Salary": "",
-  "Additional Notes": {
-    "Preferred Experience": "Experience in retail or large distribution environments is preferred.",
-    "Monitoring Tools": "Knowledge of monitoring pipelines (Azure Monitor, Log Analytics, Datadog) is an asset."
-  }
+    "Job Title": "Data Engineer",
+    "Required Skills": [
+        {
+            "skill": "Apache Spark",
+            "level": 3
+        },
+        {
+            "skill": "Python",
+            "level": 3
+        },
+        {
+            "skill": "Scala",
+            "level": 3
+        },
+        {
+            "skill": "Azure Data Factory",
+            "level": 2
+        },
+        {
+            "skill": "Azure Data Lake Storage",
+            "level": 2
+        },
+        {
+            "skill": "Azure Databricks",
+            "level": 2
+        },
+        {
+            "skill": "Kafka",
+            "level": 2
+        },
+        {
+            "skill": "Data Architecture",
+            "level": 2
+        },
+        {
+            "skill": "CI/CD",
+            "level": 2
+        },
+        {
+            "skill": "Data Governance",
+            "level": 2
+        },
+        {
+            "skill": "Data Modeling",
+            "level": 2
+        },
+        {
+            "skill": "Data Warehousing",
+            "level": 2
+        }
+    ],
+    "Preferred Skills": [
+        {
+            "skill": "Retail or Supply Chain Data Management",
+            "level": 1
+        },
+        {
+            "skill": "Pipeline Monitoring",
+            "level": 1
+        },
+        {
+            "skill": "Data Science/Machine Learning",
+            "level": 1
+        }
+    ],
+    "Experience Required": 5.0,
+    "Languages": [
+        {
+            "language": "French",
+            "level": 3
+        },
+        {
+            "language": "English",
+            "level": 3
+        }
+    ],
+    "Responsibilities": [
+        "Design and develop robust and optimized data ingestion pipelines using Azure Data Factory",
+        "Develop complex transformations using Apache Spark (Scala/Python) in Azure Databricks",
+        "Implement streaming and batch data flows using Databricks Streaming and Apache Kafka",
+        "Define and implement data models for analytical needs (data marts, data lakehouse)",
+        "Implement data quality validation processes (data quality checks, data profiling, automated monitoring)",
+        "Automate pipeline deployments and testing using Azure DevOps (CI/CD, versioning, rollback)",
+        "Document developed solutions according to internal standards and ensure traceability and replicability",
+        "Collaborate with data science, BI, and IT infrastructure teams to align deliverables with strategic objectives",
+        "Participate in the development of data engineering standards and best practices"
+    ],
+    "Additional Notes": {
+        "Duration": "12 months",
+        "Type": "Contract",
+        "Mode of work": "Full-time"
+    }
 }
