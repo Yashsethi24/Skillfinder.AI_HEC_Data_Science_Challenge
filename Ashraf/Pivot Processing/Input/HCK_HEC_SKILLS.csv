@@ -1,0 +1,3412 @@
+USER_ID,SKILLS_DSC,DOMAIN_DSC,LEVEL_VAL
+2836571,Snowflake Data Cloud,Data Platform,60
+2836571,Microsoft Azure,Data Platform,60
+2836571,Snowflake Data Cloud,Data Platform,60
+2836571,Microsoft Azure,Data Platform,60
+2836571,Snowflake Data Cloud,Data Platform,60
+2836571,Microsoft Azure,Data Platform,60
+2433134,Snowflake Data Cloud,Data Platform,60
+2433134,Snowflake Data Cloud,Data Platform,60
+2433134,Snowflake Data Cloud,Data Platform,60
+2433134,Snowflake Data Cloud,Data Platform,60
+2433134,Snowflake Data Cloud,Data Platform,60
+2433142,Amazon Web Services,Data Platform,20
+2433142,Microsoft Azure,Data Platform,90
+2433142,Google Cloud Platform,Data Platform,30
+2433142,Databricks Lakehouse Platform,Data Platform,80
+2433142,Snowflake Data Cloud,Data Platform,60
+2433142,Microsoft Fabric,Data Platform,60
+2433142,Amazon Web Services,Data Platform,20
+2433142,Microsoft Azure,Data Platform,90
+2433142,Google Cloud Platform,Data Platform,30
+2433142,Databricks Lakehouse Platform,Data Platform,80
+2433142,Snowflake Data Cloud,Data Platform,60
+2433142,Microsoft Fabric,Data Platform,60
+2433142,Amazon Web Services,Data Platform,20
+2433142,Microsoft Azure,Data Platform,90
+2433142,Google Cloud Platform,Data Platform,30
+2433142,Databricks Lakehouse Platform,Data Platform,80
+2433142,Snowflake Data Cloud,Data Platform,60
+2433142,Microsoft Fabric,Data Platform,60
+2433142,Amazon Web Services,Data Platform,20
+2433142,Microsoft Azure,Data Platform,90
+2433142,Google Cloud Platform,Data Platform,30
+2433142,Databricks Lakehouse Platform,Data Platform,80
+2433142,Snowflake Data Cloud,Data Platform,60
+2433142,Microsoft Fabric,Data Platform,60
+2433142,Amazon Web Services,Data Platform,20
+2433142,Microsoft Azure,Data Platform,90
+2433142,Google Cloud Platform,Data Platform,30
+2433142,Databricks Lakehouse Platform,Data Platform,80
+2433142,Snowflake Data Cloud,Data Platform,60
+2433142,Microsoft Fabric,Data Platform,60
+2433142,Amazon Web Services,Data Platform,20
+2433142,Microsoft Azure,Data Platform,90
+2433142,Google Cloud Platform,Data Platform,30
+2433142,Databricks Lakehouse Platform,Data Platform,80
+2433142,Snowflake Data Cloud,Data Platform,60
+2433142,Microsoft Fabric,Data Platform,60
+2433142,Amazon Web Services,Data Platform,20
+2433142,Microsoft Azure,Data Platform,90
+2433142,Google Cloud Platform,Data Platform,30
+2433142,Databricks Lakehouse Platform,Data Platform,80
+2433142,Snowflake Data Cloud,Data Platform,60
+2433142,Microsoft Fabric,Data Platform,60
+2433143,Microsoft Azure,Data Platform,60
+2433143,Snowflake Data Cloud,Data Platform,80
+2433852,Microsoft Azure,Data Platform,40
+2433852,Google Cloud Platform,Data Platform,40
+2433852,Snowflake Data Cloud,Data Platform,60
+2445183,Snowflake Data Cloud,Data Platform,80
+2445183,Snowflake Data Cloud,Data Platform,80
+2480827,Snowflake Data Cloud,Data Platform,70
+2480827,Microsoft Fabric,Data Platform,60
+2499680,Microsoft Azure,Data Platform,40
+2499680,Google Cloud Platform,Data Platform,60
+2513866,Microsoft Azure,Data Platform,50
+2513866,Snowflake Data Cloud,Data Platform,80
+2513866,Microsoft Fabric,Data Platform,60
+2513866,Microsoft Azure,Data Platform,50
+2513866,Snowflake Data Cloud,Data Platform,80
+2513866,Microsoft Fabric,Data Platform,60
+2513866,Microsoft Azure,Data Platform,50
+2513866,Snowflake Data Cloud,Data Platform,80
+2513866,Microsoft Fabric,Data Platform,60
+2513866,Microsoft Azure,Data Platform,50
+2513866,Snowflake Data Cloud,Data Platform,80
+2513866,Microsoft Fabric,Data Platform,60
+2513866,Microsoft Azure,Data Platform,50
+2513866,Snowflake Data Cloud,Data Platform,80
+2513866,Microsoft Fabric,Data Platform,60
+2551856,Microsoft Fabric,Data Platform,40
+2551856,Amazon Web Services,Data Platform,20
+2551856,Microsoft Azure,Data Platform,60
+2551856,Google Cloud Platform,Data Platform,60
+2551856,Databricks Lakehouse Platform,Data Platform,20
+2551856,Snowflake Data Cloud,Data Platform,60
+2551856,Microsoft Fabric,Data Platform,40
+2551856,Amazon Web Services,Data Platform,20
+2551856,Microsoft Azure,Data Platform,60
+2551856,Google Cloud Platform,Data Platform,60
+2551856,Databricks Lakehouse Platform,Data Platform,20
+2551856,Snowflake Data Cloud,Data Platform,60
+2551856,Microsoft Fabric,Data Platform,40
+2551856,Amazon Web Services,Data Platform,20
+2551856,Microsoft Azure,Data Platform,60
+2551856,Google Cloud Platform,Data Platform,60
+2551856,Databricks Lakehouse Platform,Data Platform,20
+2551856,Snowflake Data Cloud,Data Platform,60
+2551856,Microsoft Fabric,Data Platform,40
+2551856,Amazon Web Services,Data Platform,20
+2551856,Microsoft Azure,Data Platform,60
+2551856,Google Cloud Platform,Data Platform,60
+2551856,Databricks Lakehouse Platform,Data Platform,20
+2551856,Snowflake Data Cloud,Data Platform,60
+2551856,Microsoft Fabric,Data Platform,40
+2551856,Amazon Web Services,Data Platform,20
+2551856,Microsoft Azure,Data Platform,60
+2551856,Google Cloud Platform,Data Platform,60
+2551856,Databricks Lakehouse Platform,Data Platform,20
+2551856,Snowflake Data Cloud,Data Platform,60
+2551856,Microsoft Fabric,Data Platform,40
+2551856,Amazon Web Services,Data Platform,20
+2551856,Microsoft Azure,Data Platform,60
+2551856,Google Cloud Platform,Data Platform,60
+2551856,Databricks Lakehouse Platform,Data Platform,20
+2551856,Snowflake Data Cloud,Data Platform,60
+2551856,Microsoft Fabric,Data Platform,40
+2551856,Amazon Web Services,Data Platform,20
+2551856,Microsoft Azure,Data Platform,60
+2551856,Google Cloud Platform,Data Platform,60
+2551856,Databricks Lakehouse Platform,Data Platform,20
+2551856,Snowflake Data Cloud,Data Platform,60
+2578963,Microsoft Azure,Data Platform,60
+2579999,Microsoft Azure,Data Platform,50
+2579999,Google Cloud Platform,Data Platform,60
+2579999,Snowflake Data Cloud,Data Platform,30
+2671704,Amazon Web Services,Data Platform,40
+2671704,Google Cloud Platform,Data Platform,60
+2671704,Microsoft Azure,Data Platform,60
+2671704,Snowflake Data Cloud,Data Platform,70
+2671704,Amazon Web Services,Data Platform,40
+2671704,Google Cloud Platform,Data Platform,60
+2671704,Microsoft Azure,Data Platform,60
+2671704,Snowflake Data Cloud,Data Platform,70
+2789583,Amazon Web Services,Data Platform,20
+2789583,Microsoft Azure,Data Platform,40
+2789583,Snowflake Data Cloud,Data Platform,60
+2946290,Microsoft Azure,Data Platform,70
+2946290,Microsoft Fabric,Data Platform,70
+2946290,Microsoft Azure,Data Platform,70
+2946290,Microsoft Fabric,Data Platform,70
+2946290,Microsoft Azure,Data Platform,70
+2946290,Microsoft Fabric,Data Platform,70
+2818577,Microsoft Azure,Data Platform,20
+2818577,Snowflake Data Cloud,Data Platform,20
+2818577,Microsoft Azure,Data Platform,20
+2818577,Snowflake Data Cloud,Data Platform,20
+2818577,Microsoft Azure,Data Platform,20
+2818577,Snowflake Data Cloud,Data Platform,20
+2903451,Microsoft Azure,Data Platform,
+2903451,Snowflake Data Cloud,Data Platform,
+2903451,Databricks Lakehouse Platform,Data Platform,
+2433112,Amazon Web Services,Data Platform,60
+2433112,Microsoft Azure,Data Platform,80
+2433112,Snowflake Data Cloud,Data Platform,100
+2433112,Databricks Lakehouse Platform,Data Platform,40
+2433112,Microsoft Fabric,Data Platform,40
+2433112,Amazon Web Services,Data Platform,60
+2433112,Microsoft Azure,Data Platform,80
+2433112,Snowflake Data Cloud,Data Platform,100
+2433112,Databricks Lakehouse Platform,Data Platform,40
+2433112,Microsoft Fabric,Data Platform,40
+2433112,Amazon Web Services,Data Platform,60
+2433112,Microsoft Azure,Data Platform,80
+2433112,Snowflake Data Cloud,Data Platform,100
+2433112,Databricks Lakehouse Platform,Data Platform,40
+2433112,Microsoft Fabric,Data Platform,40
+2433112,Amazon Web Services,Data Platform,60
+2433112,Microsoft Azure,Data Platform,80
+2433112,Snowflake Data Cloud,Data Platform,100
+2433112,Databricks Lakehouse Platform,Data Platform,40
+2433112,Microsoft Fabric,Data Platform,40
+2433112,Amazon Web Services,Data Platform,60
+2433112,Microsoft Azure,Data Platform,80
+2433112,Snowflake Data Cloud,Data Platform,100
+2433112,Databricks Lakehouse Platform,Data Platform,40
+2433112,Microsoft Fabric,Data Platform,40
+2433112,Amazon Web Services,Data Platform,60
+2433112,Microsoft Azure,Data Platform,80
+2433112,Snowflake Data Cloud,Data Platform,100
+2433112,Databricks Lakehouse Platform,Data Platform,40
+2433112,Microsoft Fabric,Data Platform,40
+2433112,Amazon Web Services,Data Platform,60
+2433112,Microsoft Azure,Data Platform,80
+2433112,Snowflake Data Cloud,Data Platform,100
+2433112,Databricks Lakehouse Platform,Data Platform,40
+2433112,Microsoft Fabric,Data Platform,40
+2433112,Amazon Web Services,Data Platform,60
+2433112,Microsoft Azure,Data Platform,80
+2433112,Snowflake Data Cloud,Data Platform,100
+2433112,Databricks Lakehouse Platform,Data Platform,40
+2433112,Microsoft Fabric,Data Platform,40
+2433112,Amazon Web Services,Data Platform,60
+2433112,Microsoft Azure,Data Platform,80
+2433112,Snowflake Data Cloud,Data Platform,100
+2433112,Databricks Lakehouse Platform,Data Platform,40
+2433112,Microsoft Fabric,Data Platform,40
+2789547,Microsoft Azure,Data Platform,70
+2789547,Google Cloud Platform,Data Platform,40
+2789547,Snowflake Data Cloud,Data Platform,30
+2789547,Databricks Lakehouse Platform,Data Platform,80
+2789547,Microsoft Azure,Data Platform,70
+2789547,Google Cloud Platform,Data Platform,40
+2789547,Snowflake Data Cloud,Data Platform,30
+2789547,Databricks Lakehouse Platform,Data Platform,80
+2789547,Microsoft Azure,Data Platform,70
+2789547,Google Cloud Platform,Data Platform,40
+2789547,Snowflake Data Cloud,Data Platform,30
+2789547,Databricks Lakehouse Platform,Data Platform,80
+2836571,KNIME Analytics Platform,Data Science,40
+2836571,SAS Base,Data Science,60
+2836571,Databricks,Data Science,40
+2836571,KNIME Analytics Platform,Data Science,40
+2836571,SAS Base,Data Science,60
+2836571,Databricks,Data Science,40
+2836571,KNIME Analytics Platform,Data Science,40
+2836571,SAS Base,Data Science,60
+2836571,Databricks,Data Science,40
+2708864,RStudio Team,Data Science,30
+2443208,Dataiku,Data Science,100
+2443208,Dataiku,Data Science,100
+2452725,Databricks,Data Science,100
+2452725,IBM SPSS Statistics,Data Science,100
+2452725,Microsoft Azure Machine Learning,Data Science,100
+2452725,RStudio Team,Data Science,100
+2452725,Databricks,Data Science,100
+2452725,IBM SPSS Statistics,Data Science,100
+2452725,Microsoft Azure Machine Learning,Data Science,100
+2452725,RStudio Team,Data Science,100
+2452725,Databricks,Data Science,100
+2452725,IBM SPSS Statistics,Data Science,100
+2452725,Microsoft Azure Machine Learning,Data Science,100
+2452725,RStudio Team,Data Science,100
+2499680,RStudio Team,Data Science,80
+2499680,Anaconda Enterprise,Data Science,60
+2499680,Dataiku,Data Science,70
+2499680,Microsoft Azure Machine Learning,Data Science,60
+2513866,Dataiku,Data Science,40
+2513866,Dataiku,Data Science,40
+2513866,Dataiku,Data Science,40
+2513866,Dataiku,Data Science,40
+2513866,Dataiku,Data Science,40
+2533337,Anaconda Enterprise,Data Science,
+2533337,Matlab,Data Science,
+2578963,KNIME Analytics Platform,Data Science,40
+2578963,Microsoft Azure Machine Learning,Data Science,40
+2579999,Google Vertex AI,Data Science,50
+2579999,Matlab,Data Science,20
+2671704,Google Vertex AI,Data Science,70
+2671704,RStudio Team,Data Science,100
+2671704,Dataiku,Data Science,90
+2671704,Anaconda Enterprise,Data Science,80
+2671704,Microsoft Azure Machine Learning,Data Science,70
+2671704,SAS Base,Data Science,80
+2671704,Databricks,Data Science,40
+2671704,Google Vertex AI,Data Science,70
+2671704,RStudio Team,Data Science,100
+2671704,Dataiku,Data Science,90
+2671704,Anaconda Enterprise,Data Science,80
+2671704,Microsoft Azure Machine Learning,Data Science,70
+2671704,SAS Base,Data Science,80
+2671704,Databricks,Data Science,40
+2895177,TIBCO Data Science,Data Science,70
+2895177,TIBCO Data Science,Data Science,70
+2895177,TIBCO Data Science,Data Science,70
+2895177,TIBCO Data Science,Data Science,70
+2957009,RapidMiner Studio,Data Science,
+2957009,RapidMiner Studio,Data Science,
+2957009,RapidMiner Studio,Data Science,
+2957009,RapidMiner Studio,Data Science,
+2957009,RapidMiner Studio,Data Science,
+2946290,IBM SPSS Statistics,Data Science,100
+2946290,IBM SPSS Statistics,Data Science,100
+2946290,IBM SPSS Statistics,Data Science,100
+2818577,SAS Base,Data Science,20
+2818577,SAS Base,Data Science,20
+2818577,SAS Base,Data Science,20
+2433112,Databricks Lakehouse Platform,Data Science,30
+2433112,Dataiku,Data Science,50
+2433112,Matlab,Data Science,20
+2433112,Databricks Lakehouse Platform,Data Science,30
+2433112,Dataiku,Data Science,50
+2433112,Matlab,Data Science,20
+2433112,Databricks Lakehouse Platform,Data Science,30
+2433112,Dataiku,Data Science,50
+2433112,Matlab,Data Science,20
+2433112,Databricks Lakehouse Platform,Data Science,30
+2433112,Dataiku,Data Science,50
+2433112,Matlab,Data Science,20
+2433112,Databricks Lakehouse Platform,Data Science,30
+2433112,Dataiku,Data Science,50
+2433112,Matlab,Data Science,20
+2433112,Databricks Lakehouse Platform,Data Science,30
+2433112,Dataiku,Data Science,50
+2433112,Matlab,Data Science,20
+2433112,Databricks Lakehouse Platform,Data Science,30
+2433112,Dataiku,Data Science,50
+2433112,Matlab,Data Science,20
+2433112,Databricks Lakehouse Platform,Data Science,30
+2433112,Dataiku,Data Science,50
+2433112,Matlab,Data Science,20
+2433112,Databricks Lakehouse Platform,Data Science,30
+2433112,Dataiku,Data Science,50
+2433112,Matlab,Data Science,20
+2475141,Dataiku,Data Science,
+2475141,Dataiku,Data Science,
+2433112,Data Galaxy,Data Governance,40
+2433112,Data Galaxy,Data Governance,40
+2433112,Data Galaxy,Data Governance,40
+2433112,Data Galaxy,Data Governance,40
+2433112,Data Galaxy,Data Governance,40
+2433112,Data Galaxy,Data Governance,40
+2433112,Data Galaxy,Data Governance,40
+2433112,Data Galaxy,Data Governance,40
+2433112,Data Galaxy,Data Governance,40
+2789547,Azure Purview,Data Governance,60
+2789547,Azure Purview,Data Governance,60
+2789547,Azure Purview,Data Governance,60
+2836571,Tableau Desktop and Online,Data Analytics,40
+2836571,Microsoft Power BI,Data Analytics,70
+2836571,Tableau Desktop and Online,Data Analytics,40
+2836571,Microsoft Power BI,Data Analytics,70
+2836571,Tableau Desktop and Online,Data Analytics,40
+2836571,Microsoft Power BI,Data Analytics,70
+2700124,Amazon QuickSight,Data Analytics,40
+2700124,Google Data Studio,Data Analytics,40
+2700124,Looker,Data Analytics,50
+2700124,Microsoft Power BI,Data Analytics,50
+2700124,Microstrategy,Data Analytics,40
+2700124,Tableau Desktop and Online,Data Analytics,70
+2708864,Google Data Studio,Data Analytics,90
+2708864,Microsoft Power BI,Data Analytics,60
+2708864,Qlik View,Data Analytics,30
+2936770,Tableau Desktop and Online,Data Analytics,
+2936770,Microsoft Power BI,Data Analytics,
+2936770,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,
+2936770,Tableau Desktop and Online,Data Analytics,
+2936770,Microsoft Power BI,Data Analytics,
+2936770,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,
+2936770,Tableau Desktop and Online,Data Analytics,
+2936770,Microsoft Power BI,Data Analytics,
+2936770,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,
+2936770,Tableau Desktop and Online,Data Analytics,
+2936770,Microsoft Power BI,Data Analytics,
+2936770,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,
+2895177,Salesforce Einstein Analytics,Data Analytics,70
+2895177,Microsoft Power BI,Data Analytics,90
+2895177,Salesforce Einstein Analytics,Data Analytics,70
+2895177,Microsoft Power BI,Data Analytics,90
+2895177,Salesforce Einstein Analytics,Data Analytics,70
+2895177,Microsoft Power BI,Data Analytics,90
+2895177,Salesforce Einstein Analytics,Data Analytics,70
+2895177,Microsoft Power BI,Data Analytics,90
+2957009,Salesforce Einstein Analytics,Data Analytics,70
+2957009,Salesforce Einstein Analytics,Data Analytics,
+2957009,Tableau Desktop and Online,Data Analytics,
+2957009,Salesforce Einstein Analytics,Data Analytics,70
+2957009,Salesforce Einstein Analytics,Data Analytics,
+2957009,Tableau Desktop and Online,Data Analytics,
+2957009,Salesforce Einstein Analytics,Data Analytics,70
+2957009,Salesforce Einstein Analytics,Data Analytics,
+2957009,Tableau Desktop and Online,Data Analytics,
+2957009,Salesforce Einstein Analytics,Data Analytics,70
+2957009,Salesforce Einstein Analytics,Data Analytics,
+2957009,Tableau Desktop and Online,Data Analytics,
+2957009,Salesforce Einstein Analytics,Data Analytics,70
+2957009,Salesforce Einstein Analytics,Data Analytics,
+2957009,Tableau Desktop and Online,Data Analytics,
+2978961,Qlik Sense,Data Analytics,90
+2978961,Oracle Business Intelligence Enterprise Edition,Data Analytics,
+2978961,Microsoft Power BI,Data Analytics,90
+2978961,IBM Cognos Analytics,Data Analytics,70
+2978961,Tableau Desktop and Online,Data Analytics,
+2978961,Salesforce Einstein Analytics,Data Analytics,
+2978961,Alteryx Analytics Hub,Data Analytics,
+2978961,Qlik Sense,Data Analytics,90
+2978961,Oracle Business Intelligence Enterprise Edition,Data Analytics,
+2978961,Microsoft Power BI,Data Analytics,90
+2978961,IBM Cognos Analytics,Data Analytics,70
+2978961,Tableau Desktop and Online,Data Analytics,
+2978961,Salesforce Einstein Analytics,Data Analytics,
+2433099,SAP BusinessObjects BI,Data Analytics,20
+2433099,SAP BusinessObjects BI,Data Analytics,20
+2433099,SAP BusinessObjects BI,Data Analytics,20
+2433099,SAP BusinessObjects BI,Data Analytics,20
+2433099,SAP BusinessObjects BI,Data Analytics,20
+2433099,SAP BusinessObjects BI,Data Analytics,20
+2433099,SAP BusinessObjects BI,Data Analytics,20
+2433099,SAP BusinessObjects BI,Data Analytics,20
+2433099,SAP BusinessObjects BI,Data Analytics,20
+2433099,SAP BusinessObjects BI,Data Analytics,20
+2433136,Microsoft Power BI,Data Analytics,100
+2433136,Microstrategy,Data Analytics,100
+2433136,Tableau Desktop and Online,Data Analytics,100
+2433117,Microsoft Power BI,Data Analytics,60
+2433117,Microsoft Power BI,Data Analytics,60
+2433118,Microsoft Power BI,Data Analytics,100
+2433118,Microstrategy,Data Analytics,100
+2433118,Tableau Desktop and Online,Data Analytics,40
+2433118,Microsoft Power BI,Data Analytics,100
+2433118,Microstrategy,Data Analytics,100
+2433118,Tableau Desktop and Online,Data Analytics,40
+2433118,Microsoft Power BI,Data Analytics,100
+2433118,Microstrategy,Data Analytics,100
+2433118,Tableau Desktop and Online,Data Analytics,40
+2433118,Microsoft Power BI,Data Analytics,100
+2433118,Microstrategy,Data Analytics,100
+2433118,Tableau Desktop and Online,Data Analytics,40
+2433118,Microsoft Power BI,Data Analytics,100
+2433118,Microstrategy,Data Analytics,100
+2433118,Tableau Desktop and Online,Data Analytics,40
+2433118,Microsoft Power BI,Data Analytics,100
+2433118,Microstrategy,Data Analytics,100
+2433118,Tableau Desktop and Online,Data Analytics,40
+2433118,Microsoft Power BI,Data Analytics,100
+2433118,Microstrategy,Data Analytics,100
+2433118,Tableau Desktop and Online,Data Analytics,40
+2433118,Microsoft Power BI,Data Analytics,100
+2433118,Microstrategy,Data Analytics,100
+2433118,Tableau Desktop and Online,Data Analytics,40
+2433120,Microsoft Power BI,Data Analytics,40
+2433120,SAP BusinessObjects BI,Data Analytics,60
+2433120,Microsoft Power BI,Data Analytics,40
+2433120,SAP BusinessObjects BI,Data Analytics,60
+2433120,Microsoft Power BI,Data Analytics,40
+2433120,SAP BusinessObjects BI,Data Analytics,60
+2433120,Microsoft Power BI,Data Analytics,40
+2433120,SAP BusinessObjects BI,Data Analytics,60
+2433120,Microsoft Power BI,Data Analytics,40
+2433120,SAP BusinessObjects BI,Data Analytics,60
+2433125,Microsoft Power BI,Data Analytics,80
+2433125,Microstrategy,Data Analytics,100
+2433134,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,60
+2433134,Microsoft Power BI,Data Analytics,80
+2433134,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,60
+2433134,Microsoft Power BI,Data Analytics,80
+2433134,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,60
+2433134,Microsoft Power BI,Data Analytics,80
+2433134,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,60
+2433134,Microsoft Power BI,Data Analytics,80
+2433134,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,60
+2433134,Microsoft Power BI,Data Analytics,80
+2433138,Microsoft Power BI,Data Analytics,40
+2433138,Microstrategy,Data Analytics,100
+2433138,Oracle Analytics Cloud,Data Analytics,40
+2433138,SAP BusinessObjects BI,Data Analytics,50
+2433138,Tableau Desktop and Online,Data Analytics,100
+2433138,Looker,Data Analytics,40
+2433138,Microsoft Power BI,Data Analytics,40
+2433138,Microstrategy,Data Analytics,100
+2433138,Oracle Analytics Cloud,Data Analytics,40
+2433138,SAP BusinessObjects BI,Data Analytics,50
+2433138,Tableau Desktop and Online,Data Analytics,100
+2433138,Looker,Data Analytics,40
+2433143,Tableau Desktop and Online,Data Analytics,80
+2433852,SAS Enterprise Guide,Data Analytics,60
+2433852,Google Data Studio,Data Analytics,70
+2433852,Microsoft Power BI,Data Analytics,90
+2433852,Microstrategy,Data Analytics,60
+2433852,Qlik View,Data Analytics,30
+2442934,Microsoft Power BI,Data Analytics,50
+2443199,Microsoft Power BI,Data Analytics,80
+2443208,Microsoft Power BI,Data Analytics,100
+2443208,Tableau Desktop and Online,Data Analytics,100
+2443208,Microsoft Power BI,Data Analytics,100
+2443208,Tableau Desktop and Online,Data Analytics,100
+2444211,Microsoft Power BI,Data Analytics,100
+2444211,Qlik Sense,Data Analytics,100
+2444211,Qlik View,Data Analytics,100
+2445149,Microsoft Power BI,Data Analytics,80
+2445183,Microstrategy,Data Analytics,20
+2445183,Microsoft Power BI,Data Analytics,100
+2445183,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,60
+2445183,Microstrategy,Data Analytics,20
+2445183,Microsoft Power BI,Data Analytics,100
+2445183,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,60
+2446029,Alteryx Analytics Hub,Data Analytics,100
+2446382,Microsoft Power BI,Data Analytics,80
+2446382,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,50
+2446382,SAP BusinessObjects BI,Data Analytics,50
+2446382,Tableau Desktop and Online,Data Analytics,60
+2446382,Microsoft Power BI,Data Analytics,80
+2446382,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,50
+2446382,SAP BusinessObjects BI,Data Analytics,50
+2446382,Tableau Desktop and Online,Data Analytics,60
+2447137,Microsoft Power BI,Data Analytics,70
+2447746,Microsoft Power BI,Data Analytics,100
+2447746,Microsoft Power BI,Data Analytics,100
+2450849,Microsoft Power BI,Data Analytics,100
+2450849,Microsoft Power BI,Data Analytics,100
+2450849,Microsoft Power BI,Data Analytics,100
+2450849,Microsoft Power BI,Data Analytics,100
+2451833,Microsoft Power BI,Data Analytics,60
+2452725,IBM Cognos Analytics,Data Analytics,100
+2452725,Microsoft Power BI,Data Analytics,100
+2452725,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,100
+2452725,Tableau Desktop and Online,Data Analytics,90
+2452725,IBM Cognos Analytics,Data Analytics,100
+2452725,Microsoft Power BI,Data Analytics,100
+2452725,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,100
+2452725,Tableau Desktop and Online,Data Analytics,90
+2452725,IBM Cognos Analytics,Data Analytics,100
+2452725,Microsoft Power BI,Data Analytics,100
+2452725,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,100
+2452725,Tableau Desktop and Online,Data Analytics,90
+2453233,Qlik View,Data Analytics,80
+2453233,Microsoft Power BI,Data Analytics,100
+2453233,Qlik Sense,Data Analytics,100
+2453233,SAP BusinessObjects BI,Data Analytics,100
+2453233,Tableau Desktop and Online,Data Analytics,70
+2453233,Qlik View,Data Analytics,80
+2453233,Microsoft Power BI,Data Analytics,100
+2453233,Qlik Sense,Data Analytics,100
+2453233,SAP BusinessObjects BI,Data Analytics,100
+2453233,Tableau Desktop and Online,Data Analytics,70
+2453233,Qlik View,Data Analytics,80
+2453233,Microsoft Power BI,Data Analytics,100
+2453233,Qlik Sense,Data Analytics,100
+2453233,SAP BusinessObjects BI,Data Analytics,100
+2453233,Tableau Desktop and Online,Data Analytics,70
+2453262,Google Data Studio,Data Analytics,80
+2453262,Microsoft Power BI,Data Analytics,70
+2457327,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,60
+2457327,Microsoft Power BI,Data Analytics,100
+2457327,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,60
+2457327,Microsoft Power BI,Data Analytics,100
+2479537,Oracle Analytics Cloud,Data Analytics,60
+2480827,IBM Cognos Analytics,Data Analytics,60
+2480827,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,70
+2480827,Microsoft Power BI,Data Analytics,80
+2499680,Microsoft Power BI,Data Analytics,80
+2501974,Google Data Studio,Data Analytics,50
+2501974,Microsoft Power BI,Data Analytics,100
+2501974,Google Data Studio,Data Analytics,50
+2501974,Microsoft Power BI,Data Analytics,100
+2501974,Google Data Studio,Data Analytics,50
+2501974,Microsoft Power BI,Data Analytics,100
+2501974,Google Data Studio,Data Analytics,50
+2501974,Microsoft Power BI,Data Analytics,100
+2501974,Google Data Studio,Data Analytics,50
+2501974,Microsoft Power BI,Data Analytics,100
+2501974,Google Data Studio,Data Analytics,50
+2501974,Microsoft Power BI,Data Analytics,100
+2502347,SAP Crystal Reports,Data Analytics,
+2502347,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,
+2513831,Google Data Studio,Data Analytics,40
+2513831,Pentaho Business Analytics,Data Analytics,60
+2513831,IBM Cognos Analytics,Data Analytics,40
+2513831,Microsoft Power BI,Data Analytics,40
+2513831,Oracle Analytics Cloud,Data Analytics,80
+2513831,Oracle Business Intelligence Enterprise Edition,Data Analytics,80
+2513831,Qlik Sense,Data Analytics,40
+2513831,Qlik View,Data Analytics,60
+2513831,SAP BusinessObjects BI,Data Analytics,80
+2513831,SAS Enterprise Guide,Data Analytics,30
+2513831,Tableau Desktop and Online,Data Analytics,50
+2513866,Microsoft Power BI,Data Analytics,60
+2513866,Microsoft Power BI,Data Analytics,60
+2513866,Microsoft Power BI,Data Analytics,60
+2513866,Microsoft Power BI,Data Analytics,60
+2513866,Microsoft Power BI,Data Analytics,60
+2533338,Microsoft Power BI,Data Analytics,50
+2535513,Microsoft Power BI,Data Analytics,20
+2540340,Microsoft Power BI,Data Analytics,60
+2540340,Microstrategy,Data Analytics,40
+2540340,Qlik Sense,Data Analytics,40
+2540340,Tableau Desktop and Online,Data Analytics,30
+2540340,Microsoft Power BI,Data Analytics,60
+2540340,Microstrategy,Data Analytics,40
+2540340,Qlik Sense,Data Analytics,40
+2540340,Tableau Desktop and Online,Data Analytics,30
+2540340,Microsoft Power BI,Data Analytics,60
+2540340,Microstrategy,Data Analytics,40
+2540340,Qlik Sense,Data Analytics,40
+2540340,Tableau Desktop and Online,Data Analytics,30
+2540340,Microsoft Power BI,Data Analytics,60
+2540340,Microstrategy,Data Analytics,40
+2540340,Qlik Sense,Data Analytics,40
+2540340,Tableau Desktop and Online,Data Analytics,30
+2540340,Microsoft Power BI,Data Analytics,60
+2540340,Microstrategy,Data Analytics,40
+2540340,Qlik Sense,Data Analytics,40
+2540340,Tableau Desktop and Online,Data Analytics,30
+2540340,Microsoft Power BI,Data Analytics,60
+2540340,Microstrategy,Data Analytics,40
+2540340,Qlik Sense,Data Analytics,40
+2540340,Tableau Desktop and Online,Data Analytics,30
+2540340,Microsoft Power BI,Data Analytics,60
+2540340,Microstrategy,Data Analytics,40
+2540340,Qlik Sense,Data Analytics,40
+2540340,Tableau Desktop and Online,Data Analytics,30
+2551856,Microsoft Power BI,Data Analytics,100
+2551856,SAP BusinessObjects BI,Data Analytics,60
+2551856,Tableau Desktop and Online,Data Analytics,80
+2551856,Domo,Data Analytics,40
+2551856,Microsoft Power BI,Data Analytics,100
+2551856,SAP BusinessObjects BI,Data Analytics,60
+2551856,Tableau Desktop and Online,Data Analytics,80
+2551856,Domo,Data Analytics,40
+2551856,Microsoft Power BI,Data Analytics,100
+2551856,SAP BusinessObjects BI,Data Analytics,60
+2551856,Tableau Desktop and Online,Data Analytics,80
+2551856,Domo,Data Analytics,40
+2551856,Microsoft Power BI,Data Analytics,100
+2551856,SAP BusinessObjects BI,Data Analytics,60
+2551856,Tableau Desktop and Online,Data Analytics,80
+2551856,Domo,Data Analytics,40
+2551856,Microsoft Power BI,Data Analytics,100
+2551856,SAP BusinessObjects BI,Data Analytics,60
+2551856,Tableau Desktop and Online,Data Analytics,80
+2551856,Domo,Data Analytics,40
+2551856,Microsoft Power BI,Data Analytics,100
+2551856,SAP BusinessObjects BI,Data Analytics,60
+2551856,Tableau Desktop and Online,Data Analytics,80
+2551856,Domo,Data Analytics,40
+2551856,Microsoft Power BI,Data Analytics,100
+2551856,SAP BusinessObjects BI,Data Analytics,60
+2551856,Tableau Desktop and Online,Data Analytics,80
+2551856,Domo,Data Analytics,40
+2552838,Microsoft Power BI,Data Analytics,
+2552838,Microstrategy,Data Analytics,
+2552838,Tableau Desktop and Online,Data Analytics,
+2552838,Microsoft Power BI,Data Analytics,
+2552838,Microstrategy,Data Analytics,
+2552838,Tableau Desktop and Online,Data Analytics,
+2552838,Microsoft Power BI,Data Analytics,
+2552838,Microstrategy,Data Analytics,
+2552838,Tableau Desktop and Online,Data Analytics,
+2552838,Microsoft Power BI,Data Analytics,
+2552838,Microstrategy,Data Analytics,
+2552838,Tableau Desktop and Online,Data Analytics,
+2560995,Microsoft Power BI,Data Analytics,60
+2560995,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,40
+2560995,Qlik View,Data Analytics,40
+2578963,Microsoft Power BI,Data Analytics,90
+2578963,Oracle Business Intelligence Enterprise Edition,Data Analytics,80
+2578963,Tableau Desktop and Online,Data Analytics,60
+2579999,Looker,Data Analytics,50
+2579999,Microsoft Power BI,Data Analytics,100
+2579999,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,100
+2579999,SAP BusinessObjects BI,Data Analytics,60
+2583132,Microsoft Power BI,Data Analytics,70
+2583132,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,60
+2583132,Microsoft Power BI,Data Analytics,70
+2583132,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,60
+2583132,Microsoft Power BI,Data Analytics,70
+2583132,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,60
+2583132,Microsoft Power BI,Data Analytics,70
+2583132,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,60
+2583132,Microsoft Power BI,Data Analytics,70
+2583132,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,60
+2645516,Microsoft Power BI,Data Analytics,60
+2671704,Microstrategy,Data Analytics,70
+2671704,Microstrategy,Data Analytics,70
+2676328,Tableau Desktop and Online,Data Analytics,70
+2676328,Microsoft Power BI,Data Analytics,90
+2676328,Tableau Desktop and Online,Data Analytics,70
+2676328,Microsoft Power BI,Data Analytics,90
+2725267,Microsoft Power BI,Data Analytics,
+2725267,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,
+2725267,SAP BusinessObjects BI,Data Analytics,
+2725267,Tableau Desktop and Online,Data Analytics,
+2725267,Microsoft Power BI,Data Analytics,
+2725267,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,
+2725267,SAP BusinessObjects BI,Data Analytics,
+2725267,Tableau Desktop and Online,Data Analytics,
+2725267,Microsoft Power BI,Data Analytics,
+2725267,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,
+2725267,SAP BusinessObjects BI,Data Analytics,
+2725267,Tableau Desktop and Online,Data Analytics,
+2725267,Microsoft Power BI,Data Analytics,
+2725267,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,
+2725267,SAP BusinessObjects BI,Data Analytics,
+2725267,Tableau Desktop and Online,Data Analytics,
+2725267,Microsoft Power BI,Data Analytics,
+2725267,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,
+2725267,SAP BusinessObjects BI,Data Analytics,
+2725267,Tableau Desktop and Online,Data Analytics,
+2766619,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,80
+2766619,Microsoft Power BI,Data Analytics,80
+2766619,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,80
+2766619,Microsoft Power BI,Data Analytics,80
+2766619,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,80
+2766619,Microsoft Power BI,Data Analytics,80
+2766619,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,80
+2766619,Microsoft Power BI,Data Analytics,80
+2766619,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,80
+2766619,Microsoft Power BI,Data Analytics,80
+2766619,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,80
+2766619,Microsoft Power BI,Data Analytics,80
+2766619,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,80
+2766619,Microsoft Power BI,Data Analytics,80
+2766619,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,80
+2766619,Microsoft Power BI,Data Analytics,80
+2766619,Microsoft SQL Server Reporting Services (SSRS),Data Analytics,80
+2766619,Microsoft Power BI,Data Analytics,80
+2789583,Microsoft Power BI,Data Analytics,60
+2789583,SAP Crystal Reports,Data Analytics,60
+2978961,Alteryx Analytics Hub,Data Analytics,
+2946290,Microsoft Power BI,Data Analytics,90
+2946290,Microsoft Power BI,Data Analytics,90
+2946290,Microsoft Power BI,Data Analytics,90
+2836571,Atlassian JIRA Software,Agile Delivery,50
+2836571,Microsoft Azure DevOps Services,Agile Delivery,50
+2836571,Atlassian JIRA Software,Agile Delivery,50
+2836571,Microsoft Azure DevOps Services,Agile Delivery,50
+2836571,Atlassian JIRA Software,Agile Delivery,50
+2836571,Microsoft Azure DevOps Services,Agile Delivery,50
+2700124,Terraform,Agile Delivery,70
+2700124,Amazon AWS CloudFormation,Agile Delivery,70
+2700124,Microsoft Azure DevOps Services,Agile Delivery,
+2895177,Atlassian JIRA Software,Agile Delivery,70
+2895177,Atlassian JIRA Software,Agile Delivery,70
+2895177,Atlassian JIRA Software,Agile Delivery,70
+2895177,Atlassian JIRA Software,Agile Delivery,70
+2957009,Atlassian JIRA Software,Agile Delivery,
+2957009,Atlassian JIRA Software,Agile Delivery,
+2957009,Atlassian JIRA Software,Agile Delivery,
+2957009,Atlassian JIRA Software,Agile Delivery,
+2957009,Atlassian JIRA Software,Agile Delivery,
+2978961,Atlassian JIRA Software,Agile Delivery,
+2433092,Atlassian JIRA Software,Agile Delivery,100
+2433092,Microsoft Azure DevOps Services,Agile Delivery,100
+2433092,Atlassian JIRA Software,Agile Delivery,100
+2433092,Microsoft Azure DevOps Services,Agile Delivery,100
+2433092,Atlassian JIRA Software,Agile Delivery,100
+2433092,Microsoft Azure DevOps Services,Agile Delivery,100
+2433092,Atlassian JIRA Software,Agile Delivery,100
+2433092,Microsoft Azure DevOps Services,Agile Delivery,100
+2433092,Atlassian JIRA Software,Agile Delivery,100
+2433092,Microsoft Azure DevOps Services,Agile Delivery,100
+2433092,Atlassian JIRA Software,Agile Delivery,100
+2433092,Microsoft Azure DevOps Services,Agile Delivery,100
+2433099,Atlassian JIRA Software,Agile Delivery,80
+2433099,Microsoft Azure DevOps Services,Agile Delivery,20
+2433099,Atlassian JIRA Software,Agile Delivery,80
+2433099,Microsoft Azure DevOps Services,Agile Delivery,20
+2433099,Atlassian JIRA Software,Agile Delivery,80
+2433099,Microsoft Azure DevOps Services,Agile Delivery,20
+2433099,Atlassian JIRA Software,Agile Delivery,80
+2433099,Microsoft Azure DevOps Services,Agile Delivery,20
+2433099,Atlassian JIRA Software,Agile Delivery,80
+2433099,Microsoft Azure DevOps Services,Agile Delivery,20
+2433099,Atlassian JIRA Software,Agile Delivery,80
+2433099,Microsoft Azure DevOps Services,Agile Delivery,20
+2433099,Atlassian JIRA Software,Agile Delivery,80
+2433099,Microsoft Azure DevOps Services,Agile Delivery,20
+2433099,Atlassian JIRA Software,Agile Delivery,80
+2433099,Microsoft Azure DevOps Services,Agile Delivery,20
+2433099,Atlassian JIRA Software,Agile Delivery,80
+2433099,Microsoft Azure DevOps Services,Agile Delivery,20
+2433099,Atlassian JIRA Software,Agile Delivery,80
+2433099,Microsoft Azure DevOps Services,Agile Delivery,20
+2433136,Atlassian JIRA Software,Agile Delivery,100
+2433114,Project Management,Agile Delivery,70
+2433114,Atlassian JIRA Software,Agile Delivery,90
+2433114,Project Management,Agile Delivery,70
+2433114,Atlassian JIRA Software,Agile Delivery,90
+2433114,Project Management,Agile Delivery,70
+2433114,Atlassian JIRA Software,Agile Delivery,90
+2433117,Microsoft Azure DevOps Services,Agile Delivery,40
+2433117,Microsoft Azure DevOps Services,Agile Delivery,40
+2433120,Project Management,Agile Delivery,20
+2433120,GitHub Enterprise,Agile Delivery,40
+2433120,Project Management,Agile Delivery,20
+2433120,GitHub Enterprise,Agile Delivery,40
+2433120,Project Management,Agile Delivery,20
+2433120,GitHub Enterprise,Agile Delivery,40
+2433120,Project Management,Agile Delivery,20
+2433120,GitHub Enterprise,Agile Delivery,40
+2433120,Project Management,Agile Delivery,20
+2433120,GitHub Enterprise,Agile Delivery,40
+2433130,Project Management,Agile Delivery,
+2433142,Docker,Agile Delivery,90
+2433142,GitLab CI,Agile Delivery,70
+2433142,Terraform,Agile Delivery,70
+2433142,Amazon AWS CloudFormation,Agile Delivery,20
+2433142,GitHub Enterprise,Agile Delivery,50
+2433142,GitLab,Agile Delivery,50
+2433142,Microsoft Azure DevOps Services,Agile Delivery,90
+2433142,Docker,Agile Delivery,90
+2433142,GitLab CI,Agile Delivery,70
+2433142,Terraform,Agile Delivery,70
+2433142,Amazon AWS CloudFormation,Agile Delivery,20
+2433142,GitHub Enterprise,Agile Delivery,50
+2433142,GitLab,Agile Delivery,50
+2433142,Microsoft Azure DevOps Services,Agile Delivery,90
+2433142,Docker,Agile Delivery,90
+2433142,GitLab CI,Agile Delivery,70
+2433142,Terraform,Agile Delivery,70
+2433142,Amazon AWS CloudFormation,Agile Delivery,20
+2433142,GitHub Enterprise,Agile Delivery,50
+2433142,GitLab,Agile Delivery,50
+2433142,Microsoft Azure DevOps Services,Agile Delivery,90
+2433142,Docker,Agile Delivery,90
+2433142,GitLab CI,Agile Delivery,70
+2433142,Terraform,Agile Delivery,70
+2433142,Amazon AWS CloudFormation,Agile Delivery,20
+2433142,GitHub Enterprise,Agile Delivery,50
+2433142,GitLab,Agile Delivery,50
+2433142,Microsoft Azure DevOps Services,Agile Delivery,90
+2433142,Docker,Agile Delivery,90
+2433142,GitLab CI,Agile Delivery,70
+2433142,Terraform,Agile Delivery,70
+2433142,Amazon AWS CloudFormation,Agile Delivery,20
+2433142,GitHub Enterprise,Agile Delivery,50
+2433142,GitLab,Agile Delivery,50
+2433142,Microsoft Azure DevOps Services,Agile Delivery,90
+2433142,Docker,Agile Delivery,90
+2433142,GitLab CI,Agile Delivery,70
+2433142,Terraform,Agile Delivery,70
+2433142,Amazon AWS CloudFormation,Agile Delivery,20
+2433142,GitHub Enterprise,Agile Delivery,50
+2433142,GitLab,Agile Delivery,50
+2433142,Microsoft Azure DevOps Services,Agile Delivery,90
+2433142,Docker,Agile Delivery,90
+2433142,GitLab CI,Agile Delivery,70
+2433142,Terraform,Agile Delivery,70
+2433142,Amazon AWS CloudFormation,Agile Delivery,20
+2433142,GitHub Enterprise,Agile Delivery,50
+2433142,GitLab,Agile Delivery,50
+2433142,Microsoft Azure DevOps Services,Agile Delivery,90
+2445183,Microsoft Azure DevOps Services,Agile Delivery,100
+2445183,Atlassian JIRA Software,Agile Delivery,60
+2445183,Microsoft Azure DevOps Services,Agile Delivery,100
+2445183,Atlassian JIRA Software,Agile Delivery,60
+2446130,Atlassian JIRA Software,Agile Delivery,100
+2446130,Atlassian JIRA Software,Agile Delivery,100
+2446130,Atlassian JIRA Software,Agile Delivery,100
+2446130,Atlassian JIRA Software,Agile Delivery,100
+2447137,Atlassian JIRA Software,Agile Delivery,80
+2447137,Microsoft Azure DevOps Services,Agile Delivery,60
+2453262,Atlassian JIRA Software,Agile Delivery,80
+2453262,GitHub Enterprise,Agile Delivery,100
+2453262,Microsoft Azure DevOps Services,Agile Delivery,100
+2453262,GitLab,Agile Delivery,60
+2499680,Microsoft Azure DevOps Services,Agile Delivery,50
+2499680,GitHub Enterprise,Agile Delivery,50
+2499680,GitLab,Agile Delivery,50
+2513831,Project Management,Agile Delivery,100
+2513831,Atlassian JIRA Software,Agile Delivery,60
+2513866,Project Management,Agile Delivery,60
+2513866,GitLab CI,Agile Delivery,40
+2513866,Atlassian JIRA Software,Agile Delivery,60
+2513866,GitHub Enterprise,Agile Delivery,80
+2513866,GitLab,Agile Delivery,80
+2513866,Microsoft Azure DevOps Services,Agile Delivery,80
+2513866,Project Management,Agile Delivery,60
+2513866,GitLab CI,Agile Delivery,40
+2513866,Atlassian JIRA Software,Agile Delivery,60
+2513866,GitHub Enterprise,Agile Delivery,80
+2513866,GitLab,Agile Delivery,80
+2513866,Microsoft Azure DevOps Services,Agile Delivery,80
+2513866,Project Management,Agile Delivery,60
+2513866,GitLab CI,Agile Delivery,40
+2513866,Atlassian JIRA Software,Agile Delivery,60
+2513866,GitHub Enterprise,Agile Delivery,80
+2513866,GitLab,Agile Delivery,80
+2513866,Microsoft Azure DevOps Services,Agile Delivery,80
+2513866,Project Management,Agile Delivery,60
+2513866,GitLab CI,Agile Delivery,40
+2513866,Atlassian JIRA Software,Agile Delivery,60
+2513866,GitHub Enterprise,Agile Delivery,80
+2513866,GitLab,Agile Delivery,80
+2513866,Microsoft Azure DevOps Services,Agile Delivery,80
+2513866,Project Management,Agile Delivery,60
+2513866,GitLab CI,Agile Delivery,40
+2513866,Atlassian JIRA Software,Agile Delivery,60
+2513866,GitHub Enterprise,Agile Delivery,80
+2513866,GitLab,Agile Delivery,80
+2513866,Microsoft Azure DevOps Services,Agile Delivery,80
+2533337,GitLab,Agile Delivery,40
+2540340,Atlassian JIRA Software,Agile Delivery,50
+2540340,Microsoft Azure DevOps Services,Agile Delivery,40
+2540340,Atlassian JIRA Software,Agile Delivery,50
+2540340,Microsoft Azure DevOps Services,Agile Delivery,40
+2540340,Atlassian JIRA Software,Agile Delivery,50
+2540340,Microsoft Azure DevOps Services,Agile Delivery,40
+2540340,Atlassian JIRA Software,Agile Delivery,50
+2540340,Microsoft Azure DevOps Services,Agile Delivery,40
+2540340,Atlassian JIRA Software,Agile Delivery,50
+2540340,Microsoft Azure DevOps Services,Agile Delivery,40
+2540340,Atlassian JIRA Software,Agile Delivery,50
+2540340,Microsoft Azure DevOps Services,Agile Delivery,40
+2540340,Atlassian JIRA Software,Agile Delivery,50
+2540340,Microsoft Azure DevOps Services,Agile Delivery,40
+2551856,Project Management,Agile Delivery,80
+2551856,Project Management,Agile Delivery,80
+2551856,GitHub Enterprise,Agile Delivery,40
+2551856,Atlassian JIRA Software,Agile Delivery,
+2551856,Microsoft Azure DevOps Services,Agile Delivery,60
+2551856,Project Management,Agile Delivery,80
+2551856,Project Management,Agile Delivery,80
+2551856,GitHub Enterprise,Agile Delivery,40
+2551856,Atlassian JIRA Software,Agile Delivery,
+2551856,Microsoft Azure DevOps Services,Agile Delivery,60
+2551856,Project Management,Agile Delivery,80
+2551856,Project Management,Agile Delivery,80
+2551856,GitHub Enterprise,Agile Delivery,40
+2551856,Atlassian JIRA Software,Agile Delivery,
+2551856,Microsoft Azure DevOps Services,Agile Delivery,60
+2551856,Project Management,Agile Delivery,80
+2551856,Project Management,Agile Delivery,80
+2551856,GitHub Enterprise,Agile Delivery,40
+2551856,Atlassian JIRA Software,Agile Delivery,
+2551856,Microsoft Azure DevOps Services,Agile Delivery,60
+2551856,Project Management,Agile Delivery,80
+2551856,Project Management,Agile Delivery,80
+2551856,GitHub Enterprise,Agile Delivery,40
+2551856,Atlassian JIRA Software,Agile Delivery,
+2551856,Microsoft Azure DevOps Services,Agile Delivery,60
+2551856,Project Management,Agile Delivery,80
+2551856,Project Management,Agile Delivery,80
+2551856,GitHub Enterprise,Agile Delivery,40
+2551856,Atlassian JIRA Software,Agile Delivery,
+2551856,Microsoft Azure DevOps Services,Agile Delivery,60
+2551856,Project Management,Agile Delivery,80
+2551856,Project Management,Agile Delivery,80
+2551856,GitHub Enterprise,Agile Delivery,40
+2551856,Atlassian JIRA Software,Agile Delivery,
+2551856,Microsoft Azure DevOps Services,Agile Delivery,60
+2579999,Atlassian JIRA Software,Agile Delivery,80
+2579999,GitHub Enterprise,Agile Delivery,40
+2579999,Microsoft Azure DevOps Services,Agile Delivery,20
+2583132,Microsoft Azure DevOps Services,Agile Delivery,60
+2583132,Atlassian JIRA Software,Agile Delivery,70
+2583132,Microsoft Azure DevOps Services,Agile Delivery,60
+2583132,Atlassian JIRA Software,Agile Delivery,70
+2583132,Microsoft Azure DevOps Services,Agile Delivery,60
+2583132,Atlassian JIRA Software,Agile Delivery,70
+2583132,Microsoft Azure DevOps Services,Agile Delivery,60
+2583132,Atlassian JIRA Software,Agile Delivery,70
+2583132,Microsoft Azure DevOps Services,Agile Delivery,60
+2583132,Atlassian JIRA Software,Agile Delivery,70
+2671704,Microsoft Azure DevOps Services,Agile Delivery,50
+2671704,GitHub Enterprise,Agile Delivery,50
+2671704,GitLab,Agile Delivery,60
+2671704,Atlassian JIRA Software,Agile Delivery,50
+2671704,Microsoft Azure DevOps Services,Agile Delivery,50
+2671704,GitHub Enterprise,Agile Delivery,50
+2671704,GitLab,Agile Delivery,60
+2671704,Atlassian JIRA Software,Agile Delivery,50
+2676328,Atlassian Bitbucket,Agile Delivery,90
+2676328,Atlassian JIRA Software,Agile Delivery,100
+2676328,GitLab,Agile Delivery,100
+2676328,Atlassian Bitbucket,Agile Delivery,90
+2676328,Atlassian JIRA Software,Agile Delivery,100
+2676328,GitLab,Agile Delivery,100
+2766619,Microsoft Azure DevOps Services,Agile Delivery,60
+2766619,Microsoft Azure DevOps Services,Agile Delivery,60
+2766619,Microsoft Azure DevOps Services,Agile Delivery,60
+2766619,Microsoft Azure DevOps Services,Agile Delivery,60
+2766619,Microsoft Azure DevOps Services,Agile Delivery,60
+2766619,Microsoft Azure DevOps Services,Agile Delivery,60
+2766619,Microsoft Azure DevOps Services,Agile Delivery,60
+2766619,Microsoft Azure DevOps Services,Agile Delivery,60
+2766619,Microsoft Azure DevOps Services,Agile Delivery,60
+2978961,Atlassian JIRA Software,Agile Delivery,
+2967233,GitLab CI,Agile Delivery,
+2967233,Atlassian JIRA Software,Agile Delivery,
+2967233,Project Management,Agile Delivery,
+2967233,GitLab CI,Agile Delivery,
+2967233,Atlassian JIRA Software,Agile Delivery,
+2967233,GitHub Enterprise,Agile Delivery,
+2967233,GitLab,Agile Delivery,
+2766619,Microsoft Analytics Platform System (SSAS),Data Management,80
+2766619,Microsoft SQL Server,Data Management,80
+2766619,Microsoft Azure Data Lake Store,Data Management,80
+2766619,Microsoft Azure SQL Database,Data Management,70
+2766619,Databricks Lakehouse Platform,Data Management,70
+2766619,Microsoft Azure Synapse Analytics,Data Management,70
+2766619,Snowflake Data Cloud,Data Management,60
+2766619,Microsoft Analytics Platform System (SSAS),Data Management,80
+2766619,Microsoft SQL Server,Data Management,80
+2766619,Microsoft Azure Data Lake Store,Data Management,80
+2766619,Microsoft Azure SQL Database,Data Management,70
+2766619,Databricks Lakehouse Platform,Data Management,70
+2766619,Microsoft Azure Synapse Analytics,Data Management,70
+2766619,Snowflake Data Cloud,Data Management,60
+2766619,Microsoft Analytics Platform System (SSAS),Data Management,80
+2766619,Microsoft SQL Server,Data Management,80
+2766619,Microsoft Azure Data Lake Store,Data Management,80
+2766619,Microsoft Azure SQL Database,Data Management,70
+2766619,Databricks Lakehouse Platform,Data Management,70
+2766619,Microsoft Azure Synapse Analytics,Data Management,70
+2766619,Snowflake Data Cloud,Data Management,60
+2766619,Microsoft Analytics Platform System (SSAS),Data Management,80
+2766619,Microsoft SQL Server,Data Management,80
+2789583,Microsoft SQL Server,Data Management,40
+2978961,Cloudera Enterprise Data Hub,Data Management,
+2978961,SAP BW,Data Management,70
+2978961,Cloudera Data Warehouse,Data Management,90
+2978961,Snowflake Data Cloud,Data Management,
+2836571,Google BigQuery,Data Management,50
+2836571,Microsoft Azure SQL Database,Data Management,70
+2836571,Microsoft SQL Server,Data Management,70
+2836571,Google BigQuery,Data Management,50
+2836571,Microsoft Azure SQL Database,Data Management,70
+2836571,Microsoft SQL Server,Data Management,70
+2836571,Google BigQuery,Data Management,50
+2836571,Microsoft Azure SQL Database,Data Management,70
+2836571,Microsoft SQL Server,Data Management,70
+2700124,Amazon Redshift,Data Management,80
+2700124,Google Cloud DataProc,Data Management,60
+2700124,Google BigQuery,Data Management,60
+2700124,Microsoft Azure SQL Database,Data Management,50
+2700124,Microsoft Azure Synapse Analytics,Data Management,50
+2700124,Microsoft SQL Server,Data Management,60
+2700124,Oracle MySQL,Data Management,60
+2700124,Oracle Database,Data Management,60
+2700124,PostgreSQL,Data Management,60
+2700124,Snowflake Data Cloud,Data Management,70
+2708864,Oracle MySQL,Data Management,60
+2708864,PostgreSQL,Data Management,50
+2895177,Microsoft Azure SQL Database,Data Management,70
+2895177,Microsoft Azure SQL Database,Data Management,70
+2895177,Microsoft Azure SQL Database,Data Management,70
+2895177,Microsoft Azure SQL Database,Data Management,70
+2895177,Microsoft Azure SQL Database,Data Management,70
+2895177,Microsoft Azure SQL Database,Data Management,70
+2895177,Microsoft Azure SQL Database,Data Management,70
+2895177,Microsoft Azure SQL Database,Data Management,70
+2957009,Microsoft Azure Data Lake Store,Data Management,
+2957009,Microsoft Azure Data Lake Store,Data Management,
+2957009,Microsoft Azure Data Lake Store,Data Management,
+2957009,Microsoft Azure Data Lake Store,Data Management,
+2957009,Microsoft Azure Data Lake Store,Data Management,
+2978961,Cloudera Enterprise Data Hub,Data Management,
+2978961,SAP BW,Data Management,70
+2978961,Cloudera Data Warehouse,Data Management,90
+2978961,Snowflake Data Cloud,Data Management,
+2433099,SAP BW,Data Management,90
+2433099,SAP BW/4HANA,Data Management,70
+2433099,SAP HANA,Data Management,60
+2433099,SAP BW,Data Management,90
+2433099,SAP BW/4HANA,Data Management,70
+2433099,SAP HANA,Data Management,60
+2433099,SAP BW,Data Management,90
+2433099,SAP BW/4HANA,Data Management,70
+2433099,SAP HANA,Data Management,60
+2433099,SAP BW,Data Management,90
+2433099,SAP BW/4HANA,Data Management,70
+2433099,SAP HANA,Data Management,60
+2433099,SAP BW,Data Management,90
+2433099,SAP BW/4HANA,Data Management,70
+2433099,SAP HANA,Data Management,60
+2433099,SAP BW,Data Management,90
+2433099,SAP BW/4HANA,Data Management,70
+2433099,SAP HANA,Data Management,60
+2433099,SAP BW,Data Management,90
+2433099,SAP BW/4HANA,Data Management,70
+2433099,SAP HANA,Data Management,60
+2433099,SAP BW,Data Management,90
+2433099,SAP BW/4HANA,Data Management,70
+2433099,SAP HANA,Data Management,60
+2433099,SAP BW,Data Management,90
+2433099,SAP BW/4HANA,Data Management,70
+2433099,SAP HANA,Data Management,60
+2433099,SAP BW,Data Management,90
+2433099,SAP BW/4HANA,Data Management,70
+2433099,SAP HANA,Data Management,60
+2433136,PostgreSQL,Data Management,100
+2433136,Snowflake Data Cloud,Data Management,100
+2433136,Teradata Database,Data Management,90
+2433136,Teradata Vantage,Data Management,100
+2433114,Oracle MySQL,Data Management,70
+2433114,Oracle Database,Data Management,70
+2433114,Oracle MySQL,Data Management,70
+2433114,Oracle Database,Data Management,70
+2433114,Oracle MySQL,Data Management,70
+2433114,Oracle Database,Data Management,70
+2433117,Microsoft SQL Server,Data Management,40
+2433117,Snowflake Data Cloud,Data Management,60
+2433117,Microsoft SQL Server,Data Management,40
+2433117,Snowflake Data Cloud,Data Management,60
+2433118,Google BigQuery,Data Management,100
+2433118,PostgreSQL,Data Management,100
+2433118,Google BigQuery,Data Management,100
+2433118,PostgreSQL,Data Management,100
+2433118,Google BigQuery,Data Management,100
+2433118,PostgreSQL,Data Management,100
+2433118,Google BigQuery,Data Management,100
+2433118,PostgreSQL,Data Management,100
+2433118,Google BigQuery,Data Management,100
+2433118,PostgreSQL,Data Management,100
+2433118,Google BigQuery,Data Management,100
+2433118,PostgreSQL,Data Management,100
+2433118,Google BigQuery,Data Management,100
+2433118,PostgreSQL,Data Management,100
+2433118,Google BigQuery,Data Management,100
+2433118,PostgreSQL,Data Management,100
+2433120,Google BigQuery,Data Management,40
+2433120,IBM Db2,Data Management,40
+2433120,Snowflake Data Cloud,Data Management,60
+2433120,Microsoft SQL Server,Data Management,40
+2433120,Google BigQuery,Data Management,40
+2433120,IBM Db2,Data Management,40
+2433120,Snowflake Data Cloud,Data Management,60
+2433120,Microsoft SQL Server,Data Management,40
+2433120,Google BigQuery,Data Management,40
+2433120,IBM Db2,Data Management,40
+2433120,Snowflake Data Cloud,Data Management,60
+2433120,Microsoft SQL Server,Data Management,40
+2433120,Google BigQuery,Data Management,40
+2433120,IBM Db2,Data Management,40
+2433120,Snowflake Data Cloud,Data Management,60
+2433120,Microsoft SQL Server,Data Management,40
+2433120,Google BigQuery,Data Management,40
+2433120,IBM Db2,Data Management,40
+2433120,Snowflake Data Cloud,Data Management,60
+2433120,Microsoft SQL Server,Data Management,40
+2433122,IBM Db2,Data Management,70
+2433122,Snowflake Data Cloud,Data Management,80
+2433124,Snowflake Data Cloud,Data Management,100
+2433124,Snowflake Data Cloud,Data Management,100
+2433125,Microsoft Azure SQL Database,Data Management,100
+2433134,Microsoft Analytics Platform System (SSAS),Data Management,60
+2433134,Microsoft SQL Server,Data Management,60
+2433134,Microsoft Analytics Platform System (SSAS),Data Management,60
+2433134,Microsoft SQL Server,Data Management,60
+2433134,Microsoft Analytics Platform System (SSAS),Data Management,60
+2433134,Microsoft SQL Server,Data Management,60
+2433134,Microsoft Analytics Platform System (SSAS),Data Management,60
+2433134,Microsoft SQL Server,Data Management,60
+2433134,Microsoft Analytics Platform System (SSAS),Data Management,60
+2433134,Microsoft SQL Server,Data Management,60
+2433142,Microsoft SQL Server,Data Management,50
+2433142,Cloudera Data Platform,Data Management,50
+2433142,Google Cloud DataProc,Data Management,40
+2433142,Google BigQuery,Data Management,20
+2433142,Hadoop,Data Management,50
+2433142,Microsoft Azure Synapse Analytics,Data Management,90
+2433142,MongoDB,Data Management,20
+2433142,Microsoft Azure Data Lake Store,Data Management,80
+2433142,Snowflake Data Cloud,Data Management,80
+2433142,Microsoft SQL Server,Data Management,50
+2433142,Cloudera Data Platform,Data Management,50
+2433142,Google Cloud DataProc,Data Management,40
+2433142,Google BigQuery,Data Management,20
+2433142,Hadoop,Data Management,50
+2433142,Microsoft Azure Synapse Analytics,Data Management,90
+2433142,MongoDB,Data Management,20
+2433142,Microsoft Azure Data Lake Store,Data Management,80
+2433142,Snowflake Data Cloud,Data Management,80
+2433142,Microsoft SQL Server,Data Management,50
+2433142,Cloudera Data Platform,Data Management,50
+2433142,Google Cloud DataProc,Data Management,40
+2433142,Google BigQuery,Data Management,20
+2433142,Hadoop,Data Management,50
+2433142,Microsoft Azure Synapse Analytics,Data Management,90
+2433142,MongoDB,Data Management,20
+2433142,Microsoft Azure Data Lake Store,Data Management,80
+2433142,Snowflake Data Cloud,Data Management,80
+2433142,Microsoft SQL Server,Data Management,50
+2433142,Cloudera Data Platform,Data Management,50
+2433142,Google Cloud DataProc,Data Management,40
+2433142,Google BigQuery,Data Management,20
+2433142,Hadoop,Data Management,50
+2433142,Microsoft Azure Synapse Analytics,Data Management,90
+2433142,MongoDB,Data Management,20
+2433142,Microsoft Azure Data Lake Store,Data Management,80
+2433142,Snowflake Data Cloud,Data Management,80
+2433142,Microsoft SQL Server,Data Management,50
+2433142,Cloudera Data Platform,Data Management,50
+2433142,Google Cloud DataProc,Data Management,40
+2433142,Google BigQuery,Data Management,20
+2433142,Hadoop,Data Management,50
+2433142,Microsoft Azure Synapse Analytics,Data Management,90
+2433142,MongoDB,Data Management,20
+2433142,Microsoft Azure Data Lake Store,Data Management,80
+2433142,Snowflake Data Cloud,Data Management,80
+2433142,Microsoft SQL Server,Data Management,50
+2433142,Cloudera Data Platform,Data Management,50
+2433142,Google Cloud DataProc,Data Management,40
+2433142,Google BigQuery,Data Management,20
+2433142,Hadoop,Data Management,50
+2433142,Microsoft Azure Synapse Analytics,Data Management,90
+2433142,MongoDB,Data Management,20
+2433142,Microsoft Azure Data Lake Store,Data Management,80
+2433142,Snowflake Data Cloud,Data Management,80
+2433142,Microsoft SQL Server,Data Management,50
+2433142,Cloudera Data Platform,Data Management,50
+2433142,Google Cloud DataProc,Data Management,40
+2433142,Google BigQuery,Data Management,20
+2433142,Hadoop,Data Management,50
+2433142,Microsoft Azure Synapse Analytics,Data Management,90
+2433142,MongoDB,Data Management,20
+2433142,Microsoft Azure Data Lake Store,Data Management,80
+2433142,Snowflake Data Cloud,Data Management,80
+2433143,Snowflake Data Cloud,Data Management,100
+2433852,Google BigQuery,Data Management,70
+2433852,Microsoft SQL Server,Data Management,80
+2433852,Oracle Database,Data Management,40
+2433852,Snowflake Data Cloud,Data Management,70
+2442934,IBM Db2,Data Management,50
+2443208,Microsoft SQL Server,Data Management,100
+2443208,Microsoft SQL Server,Data Management,100
+2444211,Microsoft SQL Server,Data Management,100
+2445149,Snowflake Data Cloud,Data Management,100
+2445149,Microsoft SQL Server,Data Management,100
+2445183,Microsoft Azure Data Lake Store,Data Management,40
+2445183,Microsoft Azure SQL Database,Data Management,80
+2445183,Microsoft Azure Synapse Analytics,Data Management,40
+2445183,Microsoft Analytics Platform System (SSAS),Data Management,100
+2445183,Microsoft SQL Server,Data Management,100
+2445183,Microsoft Azure Data Lake Store,Data Management,40
+2445183,Microsoft Azure SQL Database,Data Management,80
+2445183,Microsoft Azure Synapse Analytics,Data Management,40
+2445183,Microsoft Analytics Platform System (SSAS),Data Management,100
+2445183,Microsoft SQL Server,Data Management,100
+2446382,Microsoft Analytics Platform System (SSAS),Data Management,60
+2446382,Microsoft SQL Server,Data Management,60
+2446382,Snowflake Data Cloud,Data Management,60
+2446382,Microsoft Analytics Platform System (SSAS),Data Management,60
+2446382,Microsoft SQL Server,Data Management,60
+2446382,Snowflake Data Cloud,Data Management,60
+2447137,Snowflake Data Cloud,Data Management,60
+2447137,Microsoft SQL Server,Data Management,60
+2447746,Databricks Lakehouse Platform,Data Management,60
+2447746,Snowflake Data Cloud,Data Management,80
+2447746,Databricks Lakehouse Platform,Data Management,60
+2447746,Snowflake Data Cloud,Data Management,80
+2450849,Microsoft SQL Server,Data Management,100
+2450849,Microsoft SQL Server,Data Management,100
+2450849,Microsoft SQL Server,Data Management,100
+2450849,Microsoft SQL Server,Data Management,100
+2452725,Microsoft SQL Server,Data Management,100
+2452725,MongoDB,Data Management,90
+2452725,Snowflake Data Cloud,Data Management,100
+2452725,Microsoft SQL Server,Data Management,100
+2452725,MongoDB,Data Management,90
+2452725,Snowflake Data Cloud,Data Management,100
+2452725,Microsoft SQL Server,Data Management,100
+2452725,MongoDB,Data Management,90
+2452725,Snowflake Data Cloud,Data Management,100
+2453233,Snowflake Data Cloud,Data Management,60
+2453233,Microsoft SQL Server,Data Management,100
+2453233,PostgreSQL,Data Management,80
+2453233,Snowflake Data Cloud,Data Management,60
+2453233,Microsoft SQL Server,Data Management,100
+2453233,PostgreSQL,Data Management,80
+2453233,Snowflake Data Cloud,Data Management,60
+2453233,Microsoft SQL Server,Data Management,100
+2453233,PostgreSQL,Data Management,80
+2453262,Cloudera Data Platform,Data Management,90
+2453262,Google Cloud DataProc,Data Management,80
+2453262,Google BigQuery,Data Management,80
+2453262,Microsoft Azure Data Lake Store,Data Management,100
+2453262,Microsoft Azure SQL Database,Data Management,80
+2453262,SAP HANA,Data Management,60
+2453262,Microsoft Azure Synapse Analytics,Data Management,100
+2453262,Snowflake Data Cloud,Data Management,100
+2456947,IBM Db2,Data Management,80
+2456947,Microsoft Analytics Platform System (SSAS),Data Management,50
+2456947,Microsoft SQL Server,Data Management,100
+2456947,Oracle MySQL,Data Management,100
+2457327,Google BigQuery,Data Management,60
+2457327,Microsoft Azure Synapse Analytics,Data Management,80
+2457327,Neo4j Graph Database,Data Management,40
+2457327,Microsoft Azure Data Lake Store,Data Management,100
+2457327,Microsoft Analytics Platform System (SSAS),Data Management,80
+2457327,Microsoft SQL Server,Data Management,100
+2457327,Snowflake Data Cloud,Data Management,100
+2457327,Google BigQuery,Data Management,60
+2457327,Microsoft Azure Synapse Analytics,Data Management,80
+2457327,Neo4j Graph Database,Data Management,40
+2457327,Microsoft Azure Data Lake Store,Data Management,100
+2457327,Microsoft Analytics Platform System (SSAS),Data Management,80
+2457327,Microsoft SQL Server,Data Management,100
+2457327,Snowflake Data Cloud,Data Management,100
+2499680,Google BigQuery,Data Management,60
+2502347,Microsoft SQL Server,Data Management,
+2502347,Oracle Database,Data Management,
+2502347,Microsoft Analytics Platform System (SSAS),Data Management,
+2513831,Google BigQuery,Data Management,30
+2513831,IBM Db2,Data Management,60
+2513831,Microsoft SQL Server,Data Management,40
+2513831,Oracle MySQL,Data Management,60
+2513831,Oracle Database,Data Management,60
+2513831,Snowflake Data Cloud,Data Management,60
+2513866,IBM Db2,Data Management,20
+2513866,Microsoft Azure SQL Database,Data Management,40
+2513866,PostgreSQL,Data Management,40
+2513866,Snowflake Data Cloud,Data Management,70
+2513866,IBM Db2,Data Management,20
+2513866,Microsoft Azure SQL Database,Data Management,40
+2513866,PostgreSQL,Data Management,40
+2513866,Snowflake Data Cloud,Data Management,70
+2513866,IBM Db2,Data Management,20
+2513866,Microsoft Azure SQL Database,Data Management,40
+2513866,PostgreSQL,Data Management,40
+2513866,Snowflake Data Cloud,Data Management,70
+2513866,IBM Db2,Data Management,20
+2513866,Microsoft Azure SQL Database,Data Management,40
+2513866,PostgreSQL,Data Management,40
+2513866,Snowflake Data Cloud,Data Management,70
+2513866,IBM Db2,Data Management,20
+2513866,Microsoft Azure SQL Database,Data Management,40
+2513866,PostgreSQL,Data Management,40
+2513866,Snowflake Data Cloud,Data Management,70
+2533338,Microsoft SQL Server,Data Management,30
+2540340,PostgreSQL,Data Management,30
+2540340,Snowflake Data Cloud,Data Management,50
+2540340,Google BigQuery,Data Management,30
+2540340,Microsoft Azure Data Lake Store,Data Management,30
+2540340,Microsoft SQL Server,Data Management,50
+2540340,PostgreSQL,Data Management,30
+2540340,Snowflake Data Cloud,Data Management,50
+2540340,Google BigQuery,Data Management,30
+2540340,Microsoft Azure Data Lake Store,Data Management,30
+2540340,Microsoft SQL Server,Data Management,50
+2540340,PostgreSQL,Data Management,30
+2540340,Snowflake Data Cloud,Data Management,50
+2540340,Google BigQuery,Data Management,30
+2540340,Microsoft Azure Data Lake Store,Data Management,30
+2540340,Microsoft SQL Server,Data Management,50
+2540340,PostgreSQL,Data Management,30
+2540340,Snowflake Data Cloud,Data Management,50
+2540340,Google BigQuery,Data Management,30
+2540340,Microsoft Azure Data Lake Store,Data Management,30
+2540340,Microsoft SQL Server,Data Management,50
+2540340,PostgreSQL,Data Management,30
+2540340,Snowflake Data Cloud,Data Management,50
+2540340,Google BigQuery,Data Management,30
+2540340,Microsoft Azure Data Lake Store,Data Management,30
+2540340,Microsoft SQL Server,Data Management,50
+2540340,PostgreSQL,Data Management,30
+2540340,Snowflake Data Cloud,Data Management,50
+2540340,Google BigQuery,Data Management,30
+2540340,Microsoft Azure Data Lake Store,Data Management,30
+2540340,Microsoft SQL Server,Data Management,50
+2540340,PostgreSQL,Data Management,30
+2540340,Snowflake Data Cloud,Data Management,50
+2540340,Google BigQuery,Data Management,30
+2540340,Microsoft Azure Data Lake Store,Data Management,30
+2540340,Microsoft SQL Server,Data Management,50
+2551856,Microsoft SQL Server,Data Management,80
+2551856,Snowflake Data Cloud,Data Management,60
+2551856,Microsoft Azure SQL Database,Data Management,60
+2551856,Microsoft SQL Server,Data Management,80
+2551856,Snowflake Data Cloud,Data Management,60
+2551856,Microsoft Azure SQL Database,Data Management,60
+2551856,Microsoft SQL Server,Data Management,80
+2551856,Snowflake Data Cloud,Data Management,60
+2551856,Microsoft Azure SQL Database,Data Management,60
+2551856,Microsoft SQL Server,Data Management,80
+2551856,Snowflake Data Cloud,Data Management,60
+2551856,Microsoft Azure SQL Database,Data Management,60
+2551856,Microsoft SQL Server,Data Management,80
+2551856,Snowflake Data Cloud,Data Management,60
+2551856,Microsoft Azure SQL Database,Data Management,60
+2551856,Microsoft SQL Server,Data Management,80
+2551856,Snowflake Data Cloud,Data Management,60
+2551856,Microsoft Azure SQL Database,Data Management,60
+2551856,Microsoft SQL Server,Data Management,80
+2551856,Snowflake Data Cloud,Data Management,60
+2551856,Microsoft Azure SQL Database,Data Management,60
+2552838,Snowflake Data Cloud,Data Management,
+2552838,Microsoft SQL Server,Data Management,
+2552838,Oracle Database,Data Management,
+2552838,PostgreSQL,Data Management,
+2552838,Snowflake Data Cloud,Data Management,
+2552838,Microsoft SQL Server,Data Management,
+2552838,Oracle Database,Data Management,
+2552838,PostgreSQL,Data Management,
+2552838,Snowflake Data Cloud,Data Management,
+2552838,Microsoft SQL Server,Data Management,
+2552838,Oracle Database,Data Management,
+2552838,PostgreSQL,Data Management,
+2552838,Snowflake Data Cloud,Data Management,
+2552838,Microsoft SQL Server,Data Management,
+2552838,Oracle Database,Data Management,
+2552838,PostgreSQL,Data Management,
+2560995,Microsoft SQL Server,Data Management,60
+2579999,Google BigQuery,Data Management,50
+2579999,Microsoft Analytics Platform System (SSAS),Data Management,100
+2579999,Microsoft Azure SQL Database,Data Management,50
+2579999,Microsoft SQL Server,Data Management,100
+2579999,Oracle Database,Data Management,50
+2579999,Snowflake Data Cloud,Data Management,60
+2583132,Microsoft Azure Synapse Analytics,Data Management,80
+2583132,Microsoft Azure Data Lake Store,Data Management,80
+2583132,Microsoft Azure SQL Database,Data Management,80
+2583132,Snowflake Data Cloud,Data Management,80
+2583132,Google BigQuery,Data Management,50
+2583132,Microsoft Analytics Platform System (SSAS),Data Management,70
+2583132,Microsoft SQL Server,Data Management,80
+2583132,MongoDB,Data Management,60
+2583132,Oracle MySQL,Data Management,70
+2583132,Oracle Database,Data Management,70
+2583132,PostgreSQL,Data Management,70
+2583132,SAP HANA,Data Management,50
+2583132,Microsoft Azure Synapse Analytics,Data Management,80
+2583132,Microsoft Azure Data Lake Store,Data Management,80
+2583132,Microsoft Azure SQL Database,Data Management,80
+2583132,Snowflake Data Cloud,Data Management,80
+2583132,Google BigQuery,Data Management,50
+2583132,Microsoft Analytics Platform System (SSAS),Data Management,70
+2583132,Microsoft SQL Server,Data Management,80
+2583132,MongoDB,Data Management,60
+2583132,Oracle MySQL,Data Management,70
+2583132,Oracle Database,Data Management,70
+2583132,PostgreSQL,Data Management,70
+2583132,SAP HANA,Data Management,50
+2583132,Microsoft Azure Synapse Analytics,Data Management,80
+2583132,Microsoft Azure Data Lake Store,Data Management,80
+2583132,Microsoft Azure SQL Database,Data Management,80
+2583132,Snowflake Data Cloud,Data Management,80
+2583132,Google BigQuery,Data Management,50
+2583132,Microsoft Analytics Platform System (SSAS),Data Management,70
+2583132,Microsoft SQL Server,Data Management,80
+2583132,MongoDB,Data Management,60
+2583132,Oracle MySQL,Data Management,70
+2583132,Oracle Database,Data Management,70
+2583132,PostgreSQL,Data Management,70
+2583132,SAP HANA,Data Management,50
+2583132,Microsoft Azure Synapse Analytics,Data Management,80
+2583132,Microsoft Azure Data Lake Store,Data Management,80
+2583132,Microsoft Azure SQL Database,Data Management,80
+2583132,Snowflake Data Cloud,Data Management,80
+2583132,Google BigQuery,Data Management,50
+2583132,Microsoft Analytics Platform System (SSAS),Data Management,70
+2583132,Microsoft SQL Server,Data Management,80
+2583132,MongoDB,Data Management,60
+2583132,Oracle MySQL,Data Management,70
+2583132,Oracle Database,Data Management,70
+2583132,PostgreSQL,Data Management,70
+2583132,SAP HANA,Data Management,50
+2583132,Microsoft Azure Synapse Analytics,Data Management,80
+2583132,Microsoft Azure Data Lake Store,Data Management,80
+2583132,Microsoft Azure SQL Database,Data Management,80
+2583132,Snowflake Data Cloud,Data Management,80
+2583132,Google BigQuery,Data Management,50
+2583132,Microsoft Analytics Platform System (SSAS),Data Management,70
+2583132,Microsoft SQL Server,Data Management,80
+2583132,MongoDB,Data Management,60
+2583132,Oracle MySQL,Data Management,70
+2583132,Oracle Database,Data Management,70
+2583132,PostgreSQL,Data Management,70
+2583132,SAP HANA,Data Management,50
+2645516,Microsoft SQL Server,Data Management,80
+2645516,Snowflake Data Cloud,Data Management,80
+2671704,Google BigQuery,Data Management,60
+2671704,Snowflake Data Cloud,Data Management,60
+2671704,Oracle Database,Data Management,40
+2671704,Microsoft SQL Server,Data Management,50
+2671704,Google BigQuery,Data Management,60
+2671704,Snowflake Data Cloud,Data Management,60
+2671704,Oracle Database,Data Management,40
+2671704,Microsoft SQL Server,Data Management,50
+2676328,Snowflake Data Cloud,Data Management,70
+2676328,Microsoft SQL Server,Data Management,90
+2676328,Oracle MySQL,Data Management,80
+2676328,Microsoft Azure Synapse Analytics,Data Management,80
+2676328,Snowflake Data Cloud,Data Management,70
+2676328,Microsoft SQL Server,Data Management,90
+2676328,Oracle MySQL,Data Management,80
+2676328,Microsoft Azure Synapse Analytics,Data Management,80
+2725267,Snowflake Data Cloud,Data Management,
+2725267,Snowflake Data Cloud,Data Management,
+2725267,Snowflake Data Cloud,Data Management,
+2725267,Snowflake Data Cloud,Data Management,
+2725267,Snowflake Data Cloud,Data Management,
+2766619,Microsoft Azure Data Lake Store,Data Management,80
+2766619,Microsoft Azure SQL Database,Data Management,70
+2766619,Databricks Lakehouse Platform,Data Management,70
+2766619,Microsoft Azure Synapse Analytics,Data Management,70
+2766619,Snowflake Data Cloud,Data Management,60
+2766619,Microsoft Analytics Platform System (SSAS),Data Management,80
+2766619,Microsoft SQL Server,Data Management,80
+2766619,Microsoft Azure Data Lake Store,Data Management,80
+2766619,Microsoft Azure SQL Database,Data Management,70
+2766619,Databricks Lakehouse Platform,Data Management,70
+2766619,Microsoft Azure Synapse Analytics,Data Management,70
+2766619,Snowflake Data Cloud,Data Management,60
+2766619,Microsoft Analytics Platform System (SSAS),Data Management,80
+2766619,Microsoft SQL Server,Data Management,80
+2766619,Microsoft Azure Data Lake Store,Data Management,80
+2766619,Microsoft Azure SQL Database,Data Management,70
+2766619,Databricks Lakehouse Platform,Data Management,70
+2766619,Microsoft Azure Synapse Analytics,Data Management,70
+2766619,Snowflake Data Cloud,Data Management,60
+2766619,Microsoft Analytics Platform System (SSAS),Data Management,80
+2766619,Microsoft SQL Server,Data Management,80
+2766619,Microsoft Azure Data Lake Store,Data Management,80
+2766619,Microsoft Azure SQL Database,Data Management,70
+2766619,Databricks Lakehouse Platform,Data Management,70
+2766619,Microsoft Azure Synapse Analytics,Data Management,70
+2766619,Snowflake Data Cloud,Data Management,60
+2766619,Microsoft Analytics Platform System (SSAS),Data Management,80
+2766619,Microsoft SQL Server,Data Management,80
+2766619,Microsoft Azure Data Lake Store,Data Management,80
+2766619,Microsoft Azure SQL Database,Data Management,70
+2766619,Databricks Lakehouse Platform,Data Management,70
+2766619,Microsoft Azure Synapse Analytics,Data Management,70
+2766619,Snowflake Data Cloud,Data Management,60
+2766619,Microsoft Analytics Platform System (SSAS),Data Management,80
+2766619,Microsoft SQL Server,Data Management,80
+2766619,Microsoft Azure Data Lake Store,Data Management,80
+2766619,Microsoft Azure SQL Database,Data Management,70
+2766619,Databricks Lakehouse Platform,Data Management,70
+2766619,Microsoft Azure Synapse Analytics,Data Management,70
+2766619,Snowflake Data Cloud,Data Management,60
+2841644,Oracle Hyperion Financial Management (HFM),Financial Close,
+2433099,SAP Business Planning and Consolidation (SAP BPC),Financial Close,90
+2433099,SAP Business Planning and Consolidation (SAP BPC),Financial Close,90
+2433099,SAP Business Planning and Consolidation (SAP BPC),Financial Close,90
+2433099,SAP Business Planning and Consolidation (SAP BPC),Financial Close,90
+2433099,SAP Business Planning and Consolidation (SAP BPC),Financial Close,90
+2433099,SAP Business Planning and Consolidation (SAP BPC),Financial Close,90
+2433099,SAP Business Planning and Consolidation (SAP BPC),Financial Close,90
+2433099,SAP Business Planning and Consolidation (SAP BPC),Financial Close,90
+2433099,SAP Business Planning and Consolidation (SAP BPC),Financial Close,90
+2433099,SAP Business Planning and Consolidation (SAP BPC),Financial Close,90
+2433114,Oracle Hyperion Financial Management (HFM),Financial Close,60
+2433114,Oracle Hyperion Financial Management (HFM),Financial Close,60
+2433114,Oracle Hyperion Financial Management (HFM),Financial Close,60
+2433130,Fluence,Financial Close,
+2433130,OneStream Conso,Financial Close,
+2433130,Prophix Conso,Financial Close,
+2433130,Vena Close,Financial Close,
+2433130,Workiva,Financial Close,
+2433144,Fluence,Financial Close,100
+2433144,Vena Close,Financial Close,100
+2433144,CCH Tagetik CPM Conso,Financial Close,100
+2433144,Fluence,Financial Close,100
+2433144,Vena Close,Financial Close,100
+2433144,CCH Tagetik CPM Conso,Financial Close,100
+2433144,Fluence,Financial Close,100
+2433144,Vena Close,Financial Close,100
+2433144,CCH Tagetik CPM Conso,Financial Close,100
+2443771,Workiva,Financial Close,100
+2443771,Oracle Hyperion Financial Management (HFM),Financial Close,60
+2443771,Workiva,Financial Close,100
+2443771,Oracle Hyperion Financial Management (HFM),Financial Close,60
+2446029,Oracle Financial Analytics,Financial Close,70
+2446029,Oracle Hyperion Financial Management (HFM),Financial Close,70
+2446029,CCH Tagetik CPM Conso,Financial Close,80
+2446029,SAP Business Planning and Consolidation (SAP BPC),Financial Close,70
+2446029,SAP Disclosure Management,Financial Close,70
+2446029,SAP Financial Consolidation,Financial Close,70
+2446029,SAP Financial Information Management,Financial Close,70
+2446029,SAP Process Control,Financial Close,70
+2446029,SAP Profitability and Cost Management,Financial Close,70
+2446130,CCH Tagetik CPM Conso,Financial Close,100
+2446130,Oracle Financial Analytics,Financial Close,100
+2446130,SAP Business Planning and Consolidation (SAP BPC),Financial Close,100
+2446130,SAP Disclosure Management,Financial Close,100
+2446130,SAP Financial Consolidation,Financial Close,100
+2446130,SAP Financial Information Management,Financial Close,100
+2446130,SAP Process Control,Financial Close,100
+2446130,SAP Profitability and Cost Management,Financial Close,100
+2446130,CCH Tagetik CPM Conso,Financial Close,100
+2446130,Oracle Financial Analytics,Financial Close,100
+2446130,SAP Business Planning and Consolidation (SAP BPC),Financial Close,100
+2446130,SAP Disclosure Management,Financial Close,100
+2446130,SAP Financial Consolidation,Financial Close,100
+2446130,SAP Financial Information Management,Financial Close,100
+2446130,SAP Process Control,Financial Close,100
+2446130,SAP Profitability and Cost Management,Financial Close,100
+2446130,CCH Tagetik CPM Conso,Financial Close,100
+2446130,Oracle Financial Analytics,Financial Close,100
+2446130,SAP Business Planning and Consolidation (SAP BPC),Financial Close,100
+2446130,SAP Disclosure Management,Financial Close,100
+2446130,SAP Financial Consolidation,Financial Close,100
+2446130,SAP Financial Information Management,Financial Close,100
+2446130,SAP Process Control,Financial Close,100
+2446130,SAP Profitability and Cost Management,Financial Close,100
+2446130,CCH Tagetik CPM Conso,Financial Close,100
+2446130,Oracle Financial Analytics,Financial Close,100
+2446130,SAP Business Planning and Consolidation (SAP BPC),Financial Close,100
+2446130,SAP Disclosure Management,Financial Close,100
+2446130,SAP Financial Consolidation,Financial Close,100
+2446130,SAP Financial Information Management,Financial Close,100
+2446130,SAP Process Control,Financial Close,100
+2446130,SAP Profitability and Cost Management,Financial Close,100
+2447137,SAP Business Planning and Consolidation (SAP BPC),Financial Close,60
+2447137,SAP Financial Information Management,Financial Close,60
+2456839,Fluence,Financial Close,70
+2456839,Vena Close,Financial Close,70
+2456839,Workiva,Financial Close,40
+2456839,SAP Financial Consolidation,Financial Close,40
+2456839,Fluence,Financial Close,70
+2456839,Vena Close,Financial Close,70
+2456839,Workiva,Financial Close,40
+2456839,SAP Financial Consolidation,Financial Close,40
+2456839,Fluence,Financial Close,70
+2456839,Vena Close,Financial Close,70
+2456839,Workiva,Financial Close,40
+2456839,SAP Financial Consolidation,Financial Close,40
+2456839,Fluence,Financial Close,70
+2456839,Vena Close,Financial Close,70
+2456839,Workiva,Financial Close,40
+2456839,SAP Financial Consolidation,Financial Close,40
+2456839,Fluence,Financial Close,70
+2456839,Vena Close,Financial Close,70
+2456839,Workiva,Financial Close,40
+2456839,SAP Financial Consolidation,Financial Close,40
+2456947,CCH Tagetik CPM Conso,Financial Close,60
+2456947,Oracle Hyperion Financial Management (HFM),Financial Close,80
+2456947,SAP Financial Consolidation,Financial Close,100
+2479537,Oracle Hyperion Financial Management (HFM),Financial Close,40
+2513848,CCH Tagetik CPM Conso,Financial Close,50
+2513848,Oracle Hyperion Financial Management (HFM),Financial Close,70
+2513848,CCH Tagetik CPM Conso,Financial Close,50
+2513848,Oracle Hyperion Financial Management (HFM),Financial Close,70
+2535513,Vena Close,Financial Close,100
+2957009,Oracle Financial Analytics,Financial Close,80
+2957009,Oracle Financial Analytics,Financial Close,80
+2957009,Oracle Financial Analytics,Financial Close,80
+2957009,Oracle Financial Analytics,Financial Close,80
+2957009,Oracle Financial Analytics,Financial Close,80
+2841644,Oracle Cloud EPM,Financial Planning and Analysis,
+2841644,Oracle Hyperion Essbase,Financial Planning and Analysis,
+2841644,Oracle Hyperion Planning,Financial Planning and Analysis,
+2433114,Applied OLAP Dodeca,Financial Planning and Analysis,70
+2433114,Oracle Cloud EPM,Financial Planning and Analysis,90
+2433114,Oracle Hyperion Essbase,Financial Planning and Analysis,100
+2433114,Oracle Hyperion Planning,Financial Planning and Analysis,100
+2433114,CCH Tagetik CPM Planning,Financial Planning and Analysis,70
+2433114,Applied OLAP Dodeca,Financial Planning and Analysis,70
+2433114,Oracle Cloud EPM,Financial Planning and Analysis,90
+2433114,Oracle Hyperion Essbase,Financial Planning and Analysis,100
+2433114,Oracle Hyperion Planning,Financial Planning and Analysis,100
+2433114,CCH Tagetik CPM Planning,Financial Planning and Analysis,70
+2433114,Applied OLAP Dodeca,Financial Planning and Analysis,70
+2433114,Oracle Cloud EPM,Financial Planning and Analysis,90
+2433114,Oracle Hyperion Essbase,Financial Planning and Analysis,100
+2433114,Oracle Hyperion Planning,Financial Planning and Analysis,100
+2433114,CCH Tagetik CPM Planning,Financial Planning and Analysis,70
+2433130,OneStream Planning,Financial Planning and Analysis,
+2433130,Anaplan for Finance,Financial Planning and Analysis,
+2433130,insightsoftware Longview Planning,Financial Planning and Analysis,
+2433130,Prophix Planning,Financial Planning and Analysis,
+2433130,"Vena Solutions Budgeting, Planning & Forecasting",Financial Planning and Analysis,
+2442934,CCH Tagetik CPM Planning,Financial Planning and Analysis,90
+2442934,Oracle Hyperion Essbase,Financial Planning and Analysis,40
+2443989,Oracle Cloud EPM,Financial Planning and Analysis,70
+2443989,Oracle Hyperion Essbase,Financial Planning and Analysis,60
+2443989,Oracle Hyperion Planning,Financial Planning and Analysis,80
+2443989,CCH Tagetik CPM Planning,Financial Planning and Analysis,80
+2443989,Oracle Cloud EPM,Financial Planning and Analysis,70
+2443989,Oracle Hyperion Essbase,Financial Planning and Analysis,60
+2443989,Oracle Hyperion Planning,Financial Planning and Analysis,80
+2443989,CCH Tagetik CPM Planning,Financial Planning and Analysis,80
+2443989,Oracle Cloud EPM,Financial Planning and Analysis,70
+2443989,Oracle Hyperion Essbase,Financial Planning and Analysis,60
+2443989,Oracle Hyperion Planning,Financial Planning and Analysis,80
+2443989,CCH Tagetik CPM Planning,Financial Planning and Analysis,80
+2443989,Oracle Cloud EPM,Financial Planning and Analysis,70
+2443989,Oracle Hyperion Essbase,Financial Planning and Analysis,60
+2443989,Oracle Hyperion Planning,Financial Planning and Analysis,80
+2443989,CCH Tagetik CPM Planning,Financial Planning and Analysis,80
+2443989,Oracle Cloud EPM,Financial Planning and Analysis,70
+2443989,Oracle Hyperion Essbase,Financial Planning and Analysis,60
+2443989,Oracle Hyperion Planning,Financial Planning and Analysis,80
+2443989,CCH Tagetik CPM Planning,Financial Planning and Analysis,80
+2446029,CCH Tagetik CPM Planning,Financial Planning and Analysis,80
+2446130,Oracle Cloud EPM,Financial Planning and Analysis,100
+2446130,CCH Tagetik CPM Planning,Financial Planning and Analysis,100
+2446130,Oracle Cloud EPM,Financial Planning and Analysis,100
+2446130,CCH Tagetik CPM Planning,Financial Planning and Analysis,100
+2446130,Oracle Cloud EPM,Financial Planning and Analysis,100
+2446130,CCH Tagetik CPM Planning,Financial Planning and Analysis,100
+2446130,Oracle Cloud EPM,Financial Planning and Analysis,100
+2446130,CCH Tagetik CPM Planning,Financial Planning and Analysis,100
+2451833,Workday Adaptive Planning,Financial Planning and Analysis,40
+2451833,"Vena Solutions Budgeting, Planning & Forecasting",Financial Planning and Analysis,100
+2456839,"Vena Solutions Budgeting, Planning & Forecasting",Financial Planning and Analysis,70
+2456839,"Vena Solutions Budgeting, Planning & Forecasting",Financial Planning and Analysis,70
+2456839,"Vena Solutions Budgeting, Planning & Forecasting",Financial Planning and Analysis,70
+2456839,"Vena Solutions Budgeting, Planning & Forecasting",Financial Planning and Analysis,70
+2456839,"Vena Solutions Budgeting, Planning & Forecasting",Financial Planning and Analysis,70
+2456947,"Vena Solutions Budgeting, Planning & Forecasting",Financial Planning and Analysis,40
+2456947,CCH Tagetik CPM Planning,Financial Planning and Analysis,80
+2456947,Oracle Hyperion Essbase,Financial Planning and Analysis,90
+2456947,Oracle Hyperion Planning,Financial Planning and Analysis,100
+2479537,Oracle Hyperion Planning,Financial Planning and Analysis,100
+2479537,Applied OLAP Dodeca,Financial Planning and Analysis,80
+2479537,Oracle Cloud EPM,Financial Planning and Analysis,80
+2479537,Oracle Hyperion Essbase,Financial Planning and Analysis,100
+2501974,Oracle Hyperion Essbase,Financial Planning and Analysis,80
+2501974,Oracle Hyperion Essbase,Financial Planning and Analysis,80
+2501974,Oracle Hyperion Essbase,Financial Planning and Analysis,80
+2501974,Oracle Hyperion Essbase,Financial Planning and Analysis,80
+2501974,Oracle Hyperion Essbase,Financial Planning and Analysis,80
+2501974,Oracle Hyperion Essbase,Financial Planning and Analysis,80
+2513848,Oracle Hyperion Essbase,Financial Planning and Analysis,50
+2513848,CCH Tagetik CPM Planning,Financial Planning and Analysis,80
+2513848,"Vena Solutions Budgeting, Planning & Forecasting",Financial Planning and Analysis,60
+2513848,Oracle Hyperion Essbase,Financial Planning and Analysis,50
+2513848,CCH Tagetik CPM Planning,Financial Planning and Analysis,80
+2513848,"Vena Solutions Budgeting, Planning & Forecasting",Financial Planning and Analysis,60
+2533337,IBM Cognos TM1,Financial Planning and Analysis,10
+2535513,"Vena Solutions Budgeting, Planning & Forecasting",Financial Planning and Analysis,100
+2578963,Oracle Hyperion Essbase,Financial Planning and Analysis,90
+2578963,Oracle Hyperion Planning,Financial Planning and Analysis,90
+2895177,Anaplan for Finance,Financial Planning and Analysis,90
+2895177,Anaplan for Finance,Financial Planning and Analysis,90
+2895177,Anaplan for Finance,Financial Planning and Analysis,90
+2895177,Anaplan for Finance,Financial Planning and Analysis,90
+2978961,IBM Cognos TM1,Financial Planning and Analysis,
+2978961,Anaplan for Finance,Financial Planning and Analysis,80
+2978961,IBM Cognos TM1,Financial Planning and Analysis,
+2978961,Anaplan for Finance,Financial Planning and Analysis,80
+2676328,PL/SQL,Programming Language,80
+2676328,Python,Programming Language,100
+2676328,R,Programming Language,80
+2676328,SQL,Programming Language,100
+2676328,VBA,Programming Language,60
+2789583,DAX,Programming Language,40
+2789583,PL/SQL,Programming Language,60
+2789583,VBA,Programming Language,60
+2789583,Python,Programming Language,60
+2936770,DAX,Programming Language,
+2936770,Python,Programming Language,
+2936770,SQL,Programming Language,
+2936770,DAX,Programming Language,
+2936770,Python,Programming Language,
+2936770,SQL,Programming Language,
+2936770,DAX,Programming Language,
+2936770,Python,Programming Language,
+2936770,SQL,Programming Language,
+2936770,DAX,Programming Language,
+2936770,Python,Programming Language,
+2936770,SQL,Programming Language,
+2946290,DAX,Programming Language,90
+2946290,Python,Programming Language,80
+2946290,R,Programming Language,90
+2946290,SQL,Programming Language,70
+2946290,DAX,Programming Language,90
+2946290,Python,Programming Language,80
+2946290,R,Programming Language,90
+2946290,SQL,Programming Language,70
+2946290,DAX,Programming Language,90
+2946290,Python,Programming Language,80
+2946290,R,Programming Language,90
+2946290,SQL,Programming Language,70
+2843838,Java,Programming Language,70
+2843838,Javascript,Programming Language,20
+2843838,PL/SQL,Programming Language,50
+2843838,Python,Programming Language,80
+2843838,SQL,Programming Language,50
+2843838,Java,Programming Language,70
+2843838,Javascript,Programming Language,20
+2843838,PL/SQL,Programming Language,50
+2843838,Python,Programming Language,80
+2843838,SQL,Programming Language,50
+2843838,Java,Programming Language,70
+2843838,Javascript,Programming Language,20
+2843838,PL/SQL,Programming Language,50
+2843838,Python,Programming Language,80
+2843838,SQL,Programming Language,50
+2836571,DAX,Programming Language,40
+2836571,Python,Programming Language,60
+2836571,R,Programming Language,60
+2836571,SQL,Programming Language,90
+2836571,T-SQL,Programming Language,90
+2836571,DAX,Programming Language,40
+2836571,Python,Programming Language,60
+2836571,R,Programming Language,60
+2836571,SQL,Programming Language,90
+2836571,T-SQL,Programming Language,90
+2836571,DAX,Programming Language,40
+2836571,Python,Programming Language,60
+2836571,R,Programming Language,60
+2836571,SQL,Programming Language,90
+2836571,T-SQL,Programming Language,90
+2700124,DAX,Programming Language,40
+2700124,Java,Programming Language,40
+2700124,PL/SQL,Programming Language,60
+2700124,Python,Programming Language,50
+2700124,Scala,Programming Language,40
+2700124,SQL,Programming Language,80
+2700124,T-SQL,Programming Language,60
+2708864,Python,Programming Language,30
+2708864,SQL,Programming Language,60
+2708864,VBA,Programming Language,50
+2433136,Python,Programming Language,100
+2433136,R,Programming Language,100
+2433136,SQL,Programming Language,100
+2433114,MDX,Programming Language,80
+2433114,PL/SQL,Programming Language,70
+2433114,SQL,Programming Language,80
+2433114,VBA,Programming Language,90
+2433114,MDX,Programming Language,80
+2433114,PL/SQL,Programming Language,70
+2433114,SQL,Programming Language,80
+2433114,VBA,Programming Language,90
+2433114,MDX,Programming Language,80
+2433114,PL/SQL,Programming Language,70
+2433114,SQL,Programming Language,80
+2433114,VBA,Programming Language,90
+2433117,Python,Programming Language,20
+2433117,DAX,Programming Language,70
+2433117,SQL,Programming Language,80
+2433117,Python,Programming Language,20
+2433117,DAX,Programming Language,70
+2433117,SQL,Programming Language,80
+2433120,DAX,Programming Language,40
+2433120,Python,Programming Language,20
+2433120,SQL,Programming Language,60
+2433120,DAX,Programming Language,40
+2433120,Python,Programming Language,20
+2433120,SQL,Programming Language,60
+2433120,DAX,Programming Language,40
+2433120,Python,Programming Language,20
+2433120,SQL,Programming Language,60
+2433120,DAX,Programming Language,40
+2433120,Python,Programming Language,20
+2433120,SQL,Programming Language,60
+2433120,DAX,Programming Language,40
+2433120,Python,Programming Language,20
+2433120,SQL,Programming Language,60
+2433122,Javascript,Programming Language,20
+2433122,VBA,Programming Language,40
+2433122,SQL,Programming Language,90
+2433134,DAX,Programming Language,60
+2433134,MDX,Programming Language,60
+2433134,T-SQL,Programming Language,80
+2433134,DAX,Programming Language,60
+2433134,MDX,Programming Language,60
+2433134,T-SQL,Programming Language,80
+2433134,DAX,Programming Language,60
+2433134,MDX,Programming Language,60
+2433134,T-SQL,Programming Language,80
+2433134,DAX,Programming Language,60
+2433134,MDX,Programming Language,60
+2433134,T-SQL,Programming Language,80
+2433134,DAX,Programming Language,60
+2433134,MDX,Programming Language,60
+2433134,T-SQL,Programming Language,80
+2433138,PL/SQL,Programming Language,100
+2433138,Python,Programming Language,30
+2433138,SQL,Programming Language,100
+2433138,PL/SQL,Programming Language,100
+2433138,Python,Programming Language,30
+2433138,SQL,Programming Language,100
+2433142,Python,Programming Language,100
+2433142,SQL,Programming Language,80
+2433142,Java,Programming Language,60
+2433142,Javascript,Programming Language,60
+2433142,Python,Programming Language,100
+2433142,SQL,Programming Language,80
+2433142,Java,Programming Language,60
+2433142,Javascript,Programming Language,60
+2433142,Python,Programming Language,100
+2433142,SQL,Programming Language,80
+2433142,Java,Programming Language,60
+2433142,Javascript,Programming Language,60
+2433142,Python,Programming Language,100
+2433142,SQL,Programming Language,80
+2433142,Java,Programming Language,60
+2433142,Javascript,Programming Language,60
+2433142,Python,Programming Language,100
+2433142,SQL,Programming Language,80
+2433142,Java,Programming Language,60
+2433142,Javascript,Programming Language,60
+2433142,Python,Programming Language,100
+2433142,SQL,Programming Language,80
+2433142,Java,Programming Language,60
+2433142,Javascript,Programming Language,60
+2433142,Python,Programming Language,100
+2433142,SQL,Programming Language,80
+2433142,Java,Programming Language,60
+2433142,Javascript,Programming Language,60
+2433143,Java,Programming Language,80
+2433143,SQL,Programming Language,100
+2433144,SQL,Programming Language,100
+2433144,VBA,Programming Language,100
+2433144,SQL,Programming Language,100
+2433144,VBA,Programming Language,100
+2433144,SQL,Programming Language,100
+2433144,VBA,Programming Language,100
+2433852,DAX,Programming Language,70
+2433852,PL/SQL,Programming Language,80
+2433852,SQL,Programming Language,80
+2442934,SQL,Programming Language,80
+2442934,MDX,Programming Language,60
+2443199,DAX,Programming Language,70
+2443199,Python,Programming Language,70
+2443199,R,Programming Language,60
+2443199,SQL,Programming Language,90
+2443208,Python,Programming Language,100
+2443208,R,Programming Language,100
+2443208,SQL,Programming Language,100
+2443208,Python,Programming Language,100
+2443208,R,Programming Language,100
+2443208,SQL,Programming Language,100
+2443989,Python,Programming Language,40
+2443989,SQL,Programming Language,100
+2443989,Python,Programming Language,40
+2443989,SQL,Programming Language,100
+2443989,Python,Programming Language,40
+2443989,SQL,Programming Language,100
+2443989,Python,Programming Language,40
+2443989,SQL,Programming Language,100
+2443989,Python,Programming Language,40
+2443989,SQL,Programming Language,100
+2445149,DAX,Programming Language,80
+2445149,Python,Programming Language,60
+2445149,SQL,Programming Language,100
+2445183,DAX,Programming Language,100
+2445183,PL/SQL,Programming Language,100
+2445183,SQL,Programming Language,100
+2445183,T-SQL,Programming Language,100
+2445183,DAX,Programming Language,100
+2445183,PL/SQL,Programming Language,100
+2445183,SQL,Programming Language,100
+2445183,T-SQL,Programming Language,100
+2445187,Java,Programming Language,40
+2445187,Javascript,Programming Language,70
+2445187,PL/SQL,Programming Language,60
+2445187,SQL,Programming Language,60
+2445187,Java,Programming Language,40
+2445187,Javascript,Programming Language,70
+2445187,PL/SQL,Programming Language,60
+2445187,SQL,Programming Language,60
+2445187,Java,Programming Language,40
+2445187,Javascript,Programming Language,70
+2445187,PL/SQL,Programming Language,60
+2445187,SQL,Programming Language,60
+2445187,Java,Programming Language,40
+2445187,Javascript,Programming Language,70
+2445187,PL/SQL,Programming Language,60
+2445187,SQL,Programming Language,60
+2445187,Java,Programming Language,40
+2445187,Javascript,Programming Language,70
+2445187,PL/SQL,Programming Language,60
+2445187,SQL,Programming Language,60
+2445187,Java,Programming Language,40
+2445187,Javascript,Programming Language,70
+2445187,PL/SQL,Programming Language,60
+2445187,SQL,Programming Language,60
+2445187,Java,Programming Language,40
+2445187,Javascript,Programming Language,70
+2445187,PL/SQL,Programming Language,60
+2445187,SQL,Programming Language,60
+2445187,Java,Programming Language,40
+2445187,Javascript,Programming Language,70
+2445187,PL/SQL,Programming Language,60
+2445187,SQL,Programming Language,60
+2445187,Java,Programming Language,40
+2445187,Javascript,Programming Language,70
+2445187,PL/SQL,Programming Language,60
+2445187,SQL,Programming Language,60
+2445187,Java,Programming Language,40
+2445187,Javascript,Programming Language,70
+2445187,PL/SQL,Programming Language,60
+2445187,SQL,Programming Language,60
+2445187,Java,Programming Language,40
+2445187,Javascript,Programming Language,70
+2445187,PL/SQL,Programming Language,60
+2445187,SQL,Programming Language,60
+2446382,SQL,Programming Language,80
+2446382,Java,Programming Language,40
+2446382,Python,Programming Language,60
+2446382,R,Programming Language,40
+2446382,SQL,Programming Language,80
+2446382,Java,Programming Language,40
+2446382,Python,Programming Language,60
+2446382,R,Programming Language,40
+2447746,DAX,Programming Language,70
+2447746,SQL,Programming Language,70
+2447746,DAX,Programming Language,70
+2447746,SQL,Programming Language,70
+2449548,Python,Programming Language,50
+2449548,SQL,Programming Language,100
+2449548,Python,Programming Language,50
+2449548,SQL,Programming Language,100
+2449548,Python,Programming Language,50
+2449548,SQL,Programming Language,100
+2449548,Python,Programming Language,50
+2449548,SQL,Programming Language,100
+2449548,Python,Programming Language,50
+2449548,SQL,Programming Language,100
+2449548,Python,Programming Language,50
+2449548,SQL,Programming Language,100
+2449548,Python,Programming Language,50
+2449548,SQL,Programming Language,100
+2451715,SQL,Programming Language,80
+2452725,Python,Programming Language,100
+2452725,R,Programming Language,100
+2452725,Scala,Programming Language,100
+2452725,SQL,Programming Language,100
+2452725,Python,Programming Language,100
+2452725,R,Programming Language,100
+2452725,Scala,Programming Language,100
+2452725,SQL,Programming Language,100
+2452725,Python,Programming Language,100
+2452725,R,Programming Language,100
+2452725,Scala,Programming Language,100
+2452725,SQL,Programming Language,100
+2453233,DAX,Programming Language,80
+2453233,Python,Programming Language,80
+2453233,Java,Programming Language,70
+2453233,R,Programming Language,80
+2453233,SQL,Programming Language,100
+2453233,T-SQL,Programming Language,80
+2453233,DAX,Programming Language,80
+2453233,Python,Programming Language,80
+2453233,Java,Programming Language,70
+2453233,R,Programming Language,80
+2453233,SQL,Programming Language,100
+2453233,T-SQL,Programming Language,80
+2453233,DAX,Programming Language,80
+2453233,Python,Programming Language,80
+2453233,Java,Programming Language,70
+2453233,R,Programming Language,80
+2453233,SQL,Programming Language,100
+2453233,T-SQL,Programming Language,80
+2456947,Python,Programming Language,40
+2456947,R,Programming Language,40
+2456947,Java,Programming Language,50
+2456947,SQL,Programming Language,100
+2456947,VBA,Programming Language,100
+2457327,DAX,Programming Language,60
+2457327,MDX,Programming Language,60
+2457327,Python,Programming Language,80
+2457327,SQL,Programming Language,100
+2457327,DAX,Programming Language,60
+2457327,MDX,Programming Language,60
+2457327,Python,Programming Language,80
+2457327,SQL,Programming Language,100
+2479537,Java,Programming Language,60
+2479537,VBA,Programming Language,100
+2480827,DAX,Programming Language,60
+2480827,SQL,Programming Language,60
+2499680,Python,Programming Language,90
+2499680,R,Programming Language,80
+2499680,SQL,Programming Language,80
+2501164,Javascript,Programming Language,60
+2501164,Javascript,Programming Language,60
+2501974,DAX,Programming Language,80
+2501974,Python,Programming Language,30
+2501974,SQL,Programming Language,80
+2501974,VBA,Programming Language,50
+2501974,DAX,Programming Language,80
+2501974,Python,Programming Language,30
+2501974,SQL,Programming Language,80
+2501974,VBA,Programming Language,50
+2501974,DAX,Programming Language,80
+2501974,Python,Programming Language,30
+2501974,SQL,Programming Language,80
+2501974,VBA,Programming Language,50
+2501974,DAX,Programming Language,80
+2501974,Python,Programming Language,30
+2501974,SQL,Programming Language,80
+2501974,VBA,Programming Language,50
+2501974,DAX,Programming Language,80
+2501974,Python,Programming Language,30
+2501974,SQL,Programming Language,80
+2501974,VBA,Programming Language,50
+2501974,DAX,Programming Language,80
+2501974,Python,Programming Language,30
+2501974,SQL,Programming Language,80
+2501974,VBA,Programming Language,50
+2502347,PL/SQL,Programming Language,
+2513831,Java,Programming Language,30
+2513831,Javascript,Programming Language,40
+2513831,PL/SQL,Programming Language,80
+2513831,SQL,Programming Language,80
+2513831,VBA,Programming Language,30
+2513848,MDX,Programming Language,50
+2513848,SQL,Programming Language,60
+2513848,MDX,Programming Language,50
+2513848,SQL,Programming Language,60
+2513866,DAX,Programming Language,60
+2513866,Java,Programming Language,60
+2513866,Javascript,Programming Language,80
+2513866,Python,Programming Language,80
+2513866,R,Programming Language,60
+2513866,SQL,Programming Language,80
+2513866,DAX,Programming Language,60
+2513866,Java,Programming Language,60
+2513866,Javascript,Programming Language,80
+2513866,Python,Programming Language,80
+2513866,R,Programming Language,60
+2513866,SQL,Programming Language,80
+2513866,DAX,Programming Language,60
+2513866,Java,Programming Language,60
+2513866,Javascript,Programming Language,80
+2513866,Python,Programming Language,80
+2513866,R,Programming Language,60
+2513866,SQL,Programming Language,80
+2513866,DAX,Programming Language,60
+2513866,Java,Programming Language,60
+2513866,Javascript,Programming Language,80
+2513866,Python,Programming Language,80
+2513866,R,Programming Language,60
+2513866,SQL,Programming Language,80
+2513866,DAX,Programming Language,60
+2513866,Java,Programming Language,60
+2513866,Javascript,Programming Language,80
+2513866,Python,Programming Language,80
+2513866,R,Programming Language,60
+2513866,SQL,Programming Language,80
+2533337,Java,Programming Language,20
+2533337,DAX,Programming Language,20
+2533337,Python,Programming Language,40
+2533337,SQL,Programming Language,50
+2533338,DAX,Programming Language,20
+2533338,Python,Programming Language,30
+2533338,SQL,Programming Language,40
+2535513,R,Programming Language,20
+2535513,Javascript,Programming Language,20
+2535513,SQL,Programming Language,40
+2535513,VBA,Programming Language,60
+2540340,DAX,Programming Language,60
+2540340,Python,Programming Language,30
+2540340,R,Programming Language,20
+2540340,SQL,Programming Language,50
+2540340,T-SQL,Programming Language,30
+2540340,DAX,Programming Language,60
+2540340,Python,Programming Language,30
+2540340,R,Programming Language,20
+2540340,SQL,Programming Language,50
+2540340,T-SQL,Programming Language,30
+2540340,DAX,Programming Language,60
+2540340,Python,Programming Language,30
+2540340,R,Programming Language,20
+2540340,SQL,Programming Language,50
+2540340,T-SQL,Programming Language,30
+2540340,DAX,Programming Language,60
+2540340,Python,Programming Language,30
+2540340,R,Programming Language,20
+2540340,SQL,Programming Language,50
+2540340,T-SQL,Programming Language,30
+2540340,DAX,Programming Language,60
+2540340,Python,Programming Language,30
+2540340,R,Programming Language,20
+2540340,SQL,Programming Language,50
+2540340,T-SQL,Programming Language,30
+2540340,DAX,Programming Language,60
+2540340,Python,Programming Language,30
+2540340,R,Programming Language,20
+2540340,SQL,Programming Language,50
+2540340,T-SQL,Programming Language,30
+2540340,DAX,Programming Language,60
+2540340,Python,Programming Language,30
+2540340,R,Programming Language,20
+2540340,SQL,Programming Language,50
+2540340,T-SQL,Programming Language,30
+2551856,SQL,Programming Language,80
+2551856,Python,Programming Language,70
+2551856,R,Programming Language,40
+2551856,DAX,Programming Language,80
+2551856,SQL,Programming Language,80
+2551856,Python,Programming Language,70
+2551856,R,Programming Language,40
+2551856,DAX,Programming Language,80
+2551856,SQL,Programming Language,80
+2551856,Python,Programming Language,70
+2551856,R,Programming Language,40
+2551856,DAX,Programming Language,80
+2551856,SQL,Programming Language,80
+2551856,Python,Programming Language,70
+2551856,R,Programming Language,40
+2551856,DAX,Programming Language,80
+2551856,SQL,Programming Language,80
+2551856,Python,Programming Language,70
+2551856,R,Programming Language,40
+2551856,DAX,Programming Language,80
+2551856,SQL,Programming Language,80
+2551856,Python,Programming Language,70
+2551856,R,Programming Language,40
+2551856,DAX,Programming Language,80
+2551856,SQL,Programming Language,80
+2551856,Python,Programming Language,70
+2551856,R,Programming Language,40
+2551856,DAX,Programming Language,80
+2552838,T-SQL,Programming Language,
+2552838,T-SQL,Programming Language,
+2552838,T-SQL,Programming Language,
+2552838,T-SQL,Programming Language,
+2560995,DAX,Programming Language,40
+2560995,SQL,Programming Language,80
+2560995,T-SQL,Programming Language,60
+2578963,DAX,Programming Language,80
+2578963,Python,Programming Language,80
+2578963,SQL,Programming Language,80
+2579999,Python,Programming Language,60
+2579999,DAX,Programming Language,100
+2579999,Javascript,Programming Language,60
+2579999,MDX,Programming Language,60
+2579999,R,Programming Language,40
+2579999,T-SQL,Programming Language,100
+2579999,VBA,Programming Language,100
+2583132,DAX,Programming Language,60
+2583132,Java,Programming Language,70
+2583132,Javascript,Programming Language,70
+2583132,MDX,Programming Language,50
+2583132,PL/SQL,Programming Language,80
+2583132,Python,Programming Language,70
+2583132,SQL,Programming Language,80
+2583132,T-SQL,Programming Language,80
+2583132,DAX,Programming Language,60
+2583132,Java,Programming Language,70
+2583132,Javascript,Programming Language,70
+2583132,MDX,Programming Language,50
+2583132,PL/SQL,Programming Language,80
+2583132,Python,Programming Language,70
+2583132,SQL,Programming Language,80
+2583132,T-SQL,Programming Language,80
+2583132,DAX,Programming Language,60
+2583132,Java,Programming Language,70
+2583132,Javascript,Programming Language,70
+2583132,MDX,Programming Language,50
+2583132,PL/SQL,Programming Language,80
+2583132,Python,Programming Language,70
+2583132,SQL,Programming Language,80
+2583132,T-SQL,Programming Language,80
+2583132,DAX,Programming Language,60
+2583132,Java,Programming Language,70
+2583132,Javascript,Programming Language,70
+2583132,MDX,Programming Language,50
+2583132,PL/SQL,Programming Language,80
+2583132,Python,Programming Language,70
+2583132,SQL,Programming Language,80
+2583132,T-SQL,Programming Language,80
+2583132,DAX,Programming Language,60
+2583132,Java,Programming Language,70
+2583132,Javascript,Programming Language,70
+2583132,MDX,Programming Language,50
+2583132,PL/SQL,Programming Language,80
+2583132,Python,Programming Language,70
+2583132,SQL,Programming Language,80
+2583132,T-SQL,Programming Language,80
+2645516,SQL,Programming Language,80
+2671704,R,Programming Language,100
+2671704,Python,Programming Language,90
+2671704,SQL,Programming Language,50
+2671704,Javascript,Programming Language,20
+2671704,R,Programming Language,100
+2671704,Python,Programming Language,90
+2671704,SQL,Programming Language,50
+2671704,Javascript,Programming Language,20
+2676328,DAX,Programming Language,90
+2676328,Java,Programming Language,80
+2676328,Javascript,Programming Language,100
+2676328,PL/SQL,Programming Language,80
+2676328,Python,Programming Language,100
+2676328,R,Programming Language,80
+2676328,SQL,Programming Language,100
+2676328,VBA,Programming Language,60
+2676328,DAX,Programming Language,90
+2676328,Java,Programming Language,80
+2676328,Javascript,Programming Language,100
+2818577,Microsoft SQL Server,Data Management,30
+2818577,Snowflake Data Cloud,Data Management,10
+2818577,Microsoft SQL Server,Data Management,30
+2818577,Snowflake Data Cloud,Data Management,10
+2818577,Microsoft SQL Server,Data Management,30
+2818577,Snowflake Data Cloud,Data Management,10
+2433083,Microsoft Azure Data Lake Store,Data Management,90
+2433083,Microsoft Analytics Platform System (SSAS),Data Management,80
+2433083,Microsoft Azure SQL Database,Data Management,90
+2433083,Snowflake Data Cloud,Data Management,100
+2433083,Microsoft SQL Server,Data Management,90
+2433083,PostgreSQL,Data Management,90
+2433083,Microsoft Azure Data Lake Store,Data Management,90
+2433083,Microsoft Analytics Platform System (SSAS),Data Management,80
+2433083,Microsoft Azure SQL Database,Data Management,90
+2433083,Snowflake Data Cloud,Data Management,100
+2433083,Microsoft SQL Server,Data Management,90
+2433083,PostgreSQL,Data Management,90
+2903451,Microsoft SQL Server,Data Management,
+2433083,Microsoft Azure Data Lake Store,Data Management,90
+2433083,Microsoft Analytics Platform System (SSAS),Data Management,80
+2433083,Microsoft Azure SQL Database,Data Management,90
+2433083,Snowflake Data Cloud,Data Management,100
+2433083,Microsoft SQL Server,Data Management,90
+2433083,PostgreSQL,Data Management,90
+2433083,Microsoft Azure Data Lake Store,Data Management,90
+2433083,Microsoft Analytics Platform System (SSAS),Data Management,80
+2433083,Microsoft Azure SQL Database,Data Management,90
+2433083,Snowflake Data Cloud,Data Management,100
+2433083,Microsoft SQL Server,Data Management,90
+2433083,PostgreSQL,Data Management,90
+2433111,Microsoft SQL Server,Data Management,80
+2433111,Snowflake Data Cloud,Data Management,90
+2433111,Microsoft SQL Server,Data Management,80
+2433111,Snowflake Data Cloud,Data Management,90
+2433111,Microsoft SQL Server,Data Management,80
+2433111,Snowflake Data Cloud,Data Management,90
+2433111,Microsoft SQL Server,Data Management,80
+2433111,Snowflake Data Cloud,Data Management,90
+2433111,Microsoft SQL Server,Data Management,80
+2433111,Snowflake Data Cloud,Data Management,90
+2433111,Microsoft SQL Server,Data Management,80
+2433111,Snowflake Data Cloud,Data Management,90
+2433111,Microsoft SQL Server,Data Management,80
+2433111,Snowflake Data Cloud,Data Management,90
+2433111,Microsoft SQL Server,Data Management,80
+2433111,Snowflake Data Cloud,Data Management,90
+2433111,Microsoft SQL Server,Data Management,80
+2433111,Snowflake Data Cloud,Data Management,90
+2433111,Microsoft SQL Server,Data Management,80
+2433111,Snowflake Data Cloud,Data Management,90
+2433111,Microsoft SQL Server,Data Management,80
+2433111,Snowflake Data Cloud,Data Management,90
+2433111,Microsoft SQL Server,Data Management,80
+2433111,Snowflake Data Cloud,Data Management,90
+2433109,Oracle MySQL,Data Management,100
+2433109,Oracle Database,Data Management,100
+2433109,Google BigQuery,Data Management,100
+2433109,IBM Db2,Data Management,100
+2433109,Microsoft SQL Server,Data Management,100
+2433109,Snowflake Data Cloud,Data Management,100
+2433109,Oracle MySQL,Data Management,100
+2433109,Oracle Database,Data Management,100
+2433109,Google BigQuery,Data Management,100
+2433109,IBM Db2,Data Management,100
+2433109,Microsoft SQL Server,Data Management,100
+2433109,Snowflake Data Cloud,Data Management,100
+2433109,Oracle MySQL,Data Management,100
+2433109,Oracle Database,Data Management,100
+2433109,Google BigQuery,Data Management,100
+2433109,IBM Db2,Data Management,100
+2433109,Microsoft SQL Server,Data Management,100
+2433109,Snowflake Data Cloud,Data Management,100
+2433109,Oracle MySQL,Data Management,100
+2433109,Oracle Database,Data Management,100
+2433109,Google BigQuery,Data Management,100
+2433109,IBM Db2,Data Management,100
+2433109,Microsoft SQL Server,Data Management,100
+2433109,Snowflake Data Cloud,Data Management,100
+2433109,Oracle MySQL,Data Management,100
+2433109,Oracle Database,Data Management,100
+2433109,Google BigQuery,Data Management,100
+2433109,IBM Db2,Data Management,100
+2433109,Microsoft SQL Server,Data Management,100
+2433109,Snowflake Data Cloud,Data Management,100
+2433109,Oracle MySQL,Data Management,100
+2433109,Oracle Database,Data Management,100
+2433109,Google BigQuery,Data Management,100
+2433109,IBM Db2,Data Management,100
+2433109,Microsoft SQL Server,Data Management,100
+2433109,Snowflake Data Cloud,Data Management,100
+2433109,Oracle MySQL,Data Management,100
+2433109,Oracle Database,Data Management,100
+2433109,Google BigQuery,Data Management,100
+2433109,IBM Db2,Data Management,100
+2433109,Microsoft SQL Server,Data Management,100
+2433109,Snowflake Data Cloud,Data Management,100
+2433109,Oracle MySQL,Data Management,100
+2433109,Oracle Database,Data Management,100
+2433109,Google BigQuery,Data Management,100
+2433109,IBM Db2,Data Management,100
+2433109,Microsoft SQL Server,Data Management,100
+2433109,Snowflake Data Cloud,Data Management,100
+2433112,Google BigQuery,Data Management,40
+2433112,IBM Db2,Data Management,70
+2433112,IBM Netezza Performance Server,Data Management,80
+2433112,Microsoft Azure Data Lake Store,Data Management,50
+2433112,Microsoft Azure SQL Database,Data Management,40
+2433112,Microsoft Azure Synapse Analytics,Data Management,40
+2433112,Microsoft SQL Server,Data Management,30
+2433112,Oracle Database,Data Management,60
+2433112,PostgreSQL,Data Management,40
+2433112,Snowflake Data Cloud,Data Management,100
+2433112,Teradata Database,Data Management,60
+2433112,Google BigQuery,Data Management,40
+2433112,IBM Db2,Data Management,70
+2433112,IBM Netezza Performance Server,Data Management,80
+2433112,Microsoft Azure Data Lake Store,Data Management,50
+2433112,Microsoft Azure SQL Database,Data Management,40
+2433112,Microsoft Azure Synapse Analytics,Data Management,40
+2433112,Microsoft SQL Server,Data Management,30
+2433112,Oracle Database,Data Management,60
+2433112,PostgreSQL,Data Management,40
+2433112,Snowflake Data Cloud,Data Management,100
+2433112,Teradata Database,Data Management,60
+2433112,Google BigQuery,Data Management,40
+2433112,IBM Db2,Data Management,70
+2433112,IBM Netezza Performance Server,Data Management,80
+2433112,Microsoft Azure Data Lake Store,Data Management,50
+2433112,Microsoft Azure SQL Database,Data Management,40
+2433112,Microsoft Azure Synapse Analytics,Data Management,40
+2433112,Microsoft SQL Server,Data Management,30
+2433112,Oracle Database,Data Management,60
+2433112,PostgreSQL,Data Management,40
+2433112,Snowflake Data Cloud,Data Management,100
+2433112,Teradata Database,Data Management,60
+2433112,Google BigQuery,Data Management,40
+2433112,IBM Db2,Data Management,70
+2433112,IBM Netezza Performance Server,Data Management,80
+2433112,Microsoft Azure Data Lake Store,Data Management,50
+2433112,Microsoft Azure SQL Database,Data Management,40
+2433112,Microsoft Azure Synapse Analytics,Data Management,40
+2433112,Microsoft SQL Server,Data Management,30
+2433112,Oracle Database,Data Management,60
+2433112,PostgreSQL,Data Management,40
+2433112,Snowflake Data Cloud,Data Management,100
+2433112,Teradata Database,Data Management,60
+2433112,Google BigQuery,Data Management,40
+2433112,IBM Db2,Data Management,70
+2433112,IBM Netezza Performance Server,Data Management,80
+2433112,Microsoft Azure Data Lake Store,Data Management,50
+2433112,Microsoft Azure SQL Database,Data Management,40
+2433112,Microsoft Azure Synapse Analytics,Data Management,40
+2433112,Microsoft SQL Server,Data Management,30
+2433112,Oracle Database,Data Management,60
+2433112,PostgreSQL,Data Management,40
+2433112,Snowflake Data Cloud,Data Management,100
+2433112,Teradata Database,Data Management,60
+2433112,Google BigQuery,Data Management,40
+2433112,IBM Db2,Data Management,70
+2433112,IBM Netezza Performance Server,Data Management,80
+2433112,Microsoft Azure Data Lake Store,Data Management,50
+2433112,Microsoft Azure SQL Database,Data Management,40
+2433112,Microsoft Azure Synapse Analytics,Data Management,40
+2433112,Microsoft SQL Server,Data Management,30
+2433112,Oracle Database,Data Management,60
+2433112,PostgreSQL,Data Management,40
+2433112,Snowflake Data Cloud,Data Management,100
+2433112,Teradata Database,Data Management,60
+2433112,Google BigQuery,Data Management,40
+2433112,IBM Db2,Data Management,70
+2433112,IBM Netezza Performance Server,Data Management,80
+2433112,Microsoft Azure Data Lake Store,Data Management,50
+2433112,Microsoft Azure SQL Database,Data Management,40
+2433112,Microsoft Azure Synapse Analytics,Data Management,40
+2433112,Microsoft SQL Server,Data Management,30
+2433112,Oracle Database,Data Management,60
+2433112,PostgreSQL,Data Management,40
+2433112,Snowflake Data Cloud,Data Management,100
+2433112,Teradata Database,Data Management,60
+2433112,Google BigQuery,Data Management,40
+2433112,IBM Db2,Data Management,70
+2433112,IBM Netezza Performance Server,Data Management,80
+2433112,Microsoft Azure Data Lake Store,Data Management,50
+2433112,Microsoft Azure SQL Database,Data Management,40
+2433112,Microsoft Azure Synapse Analytics,Data Management,40
+2433112,Microsoft SQL Server,Data Management,30
+2433112,Oracle Database,Data Management,60
+2433112,PostgreSQL,Data Management,40
+2433112,Snowflake Data Cloud,Data Management,100
+2433112,Teradata Database,Data Management,60
+2433112,Google BigQuery,Data Management,40
+2433112,IBM Db2,Data Management,70
+2433112,IBM Netezza Performance Server,Data Management,80
+2433112,Microsoft Azure Data Lake Store,Data Management,50
+2433112,Microsoft Azure SQL Database,Data Management,40
+2433112,Microsoft Azure Synapse Analytics,Data Management,40
+2433112,Microsoft SQL Server,Data Management,30
+2433112,Oracle Database,Data Management,60
+2433112,PostgreSQL,Data Management,40
+2433112,Snowflake Data Cloud,Data Management,100
+2433112,Teradata Database,Data Management,60
+2451804,Amazon Redshift,Data Management,40
+2451804,IBM Netezza Performance Server,Data Management,40
+2451804,Microsoft Azure SQL Database,Data Management,80
+2451804,Oracle MySQL,Data Management,80
+2451804,Oracle Database,Data Management,80
+2451804,Teradata Database,Data Management,40
+2451804,IBM Db2,Data Management,100
+2451804,Microsoft SQL Server,Data Management,80
+2451804,Snowflake Data Cloud,Data Management,80
+2451804,Amazon Redshift,Data Management,40
+2451804,IBM Netezza Performance Server,Data Management,40
+2451804,Microsoft Azure SQL Database,Data Management,80
+2451804,Oracle MySQL,Data Management,80
+2451804,Oracle Database,Data Management,80
+2451804,Teradata Database,Data Management,40
+2451804,IBM Db2,Data Management,100
+2451804,Microsoft SQL Server,Data Management,80
+2451804,Snowflake Data Cloud,Data Management,80
+2451804,Amazon Redshift,Data Management,40
+2451804,IBM Netezza Performance Server,Data Management,40
+2451804,Microsoft Azure SQL Database,Data Management,80
+2451804,Oracle MySQL,Data Management,80
+2451804,Oracle Database,Data Management,80
+2451804,Teradata Database,Data Management,40
+2451804,IBM Db2,Data Management,100
+2451804,Microsoft SQL Server,Data Management,80
+2451804,Snowflake Data Cloud,Data Management,80
+2451804,Amazon Redshift,Data Management,40
+2451804,IBM Netezza Performance Server,Data Management,40
+2451804,Microsoft Azure SQL Database,Data Management,80
+2451804,Oracle MySQL,Data Management,80
+2451804,Oracle Database,Data Management,80
+2451804,Teradata Database,Data Management,40
+2451804,IBM Db2,Data Management,100
+2451804,Microsoft SQL Server,Data Management,80
+2451804,Snowflake Data Cloud,Data Management,80
+2451804,Amazon Redshift,Data Management,40
+2451804,IBM Netezza Performance Server,Data Management,40
+2451804,Microsoft Azure SQL Database,Data Management,80
+2451804,Oracle MySQL,Data Management,80
+2451804,Oracle Database,Data Management,80
+2451804,Teradata Database,Data Management,40
+2451804,IBM Db2,Data Management,100
+2451804,Microsoft SQL Server,Data Management,80
+2451804,Snowflake Data Cloud,Data Management,80
+2451804,Amazon Redshift,Data Management,40
+2451804,IBM Netezza Performance Server,Data Management,40
+2451804,Microsoft Azure SQL Database,Data Management,80
+2451804,Oracle MySQL,Data Management,80
+2451804,Oracle Database,Data Management,80
+2451804,Teradata Database,Data Management,40
+2451804,IBM Db2,Data Management,100
+2451804,Microsoft SQL Server,Data Management,80
+2451804,Snowflake Data Cloud,Data Management,80
+2451804,Amazon Redshift,Data Management,40
+2451804,IBM Netezza Performance Server,Data Management,40
+2451804,Microsoft Azure SQL Database,Data Management,80
+2451804,Oracle MySQL,Data Management,80
+2451804,Oracle Database,Data Management,80
+2451804,Teradata Database,Data Management,40
+2451804,IBM Db2,Data Management,100
+2451804,Microsoft SQL Server,Data Management,80
+2451804,Snowflake Data Cloud,Data Management,80
+2451804,Amazon Redshift,Data Management,40
+2451804,IBM Netezza Performance Server,Data Management,40
+2451804,Microsoft Azure SQL Database,Data Management,80
+2451804,Oracle MySQL,Data Management,80
+2451804,Oracle Database,Data Management,80
+2451804,Teradata Database,Data Management,40
+2451804,IBM Db2,Data Management,100
+2451804,Microsoft SQL Server,Data Management,80
+2451804,Snowflake Data Cloud,Data Management,80
+2451804,Amazon Redshift,Data Management,40
+2451804,IBM Netezza Performance Server,Data Management,40
+2451804,Microsoft Azure SQL Database,Data Management,80
+2451804,Oracle MySQL,Data Management,80
+2451804,Oracle Database,Data Management,80
+2451804,Teradata Database,Data Management,40
+2451804,IBM Db2,Data Management,100
+2451804,Microsoft SQL Server,Data Management,80
+2451804,Snowflake Data Cloud,Data Management,80
+2451804,Amazon Redshift,Data Management,40
+2451804,IBM Netezza Performance Server,Data Management,40
+2451804,Microsoft Azure SQL Database,Data Management,80
+2451804,Oracle MySQL,Data Management,80
+2451804,Oracle Database,Data Management,80
+2451804,Teradata Database,Data Management,40
+2451804,IBM Db2,Data Management,100
+2451804,Microsoft SQL Server,Data Management,80
+2451804,Snowflake Data Cloud,Data Management,80
+2471586,SAP HANA,Data Management,50
+2818577,DBT,Data Integration,
+2818577,Informatica PowerCenter,Data Integration,10
+2818577,Matillion ETL,Data Integration,10
+2818577,Microsoft Azure Data Factory,Data Integration,30
+2818577,DBT,Data Integration,
+2818577,Informatica PowerCenter,Data Integration,10
+2818577,Matillion ETL,Data Integration,10
+2818577,Microsoft Azure Data Factory,Data Integration,30
+2818577,DBT,Data Integration,
+2818577,Informatica PowerCenter,Data Integration,10
+2818577,Matillion ETL,Data Integration,10
+2818577,Microsoft Azure Data Factory,Data Integration,30
+2433083,DBT,Data Integration,80
+2433083,Microsoft Azure Data Factory,Data Integration,100
+2433083,Microsoft SQL Server Integration Services (SSIS),Data Integration,100
+2433083,DBT,Data Integration,80
+2433083,Microsoft Azure Data Factory,Data Integration,100
+2433083,Microsoft SQL Server Integration Services (SSIS),Data Integration,100
+2433083,DBT,Data Integration,80
+2977311,Spark,Data Integration,
+2977311,DBT,Data Integration,
+2977311,Fivetran,Data Integration,
+2977311,DBT,Data Integration,
+2977311,Fivetran,Data Integration,
+2977311,Spark,Data Integration,
+2977311,Spark,Data Integration,
+2977311,DBT,Data Integration,
+2977311,Fivetran,Data Integration,
+2977311,DBT,Data Integration,
+2977311,Fivetran,Data Integration,
+2977311,Spark,Data Integration,
+2977311,Spark,Data Integration,
+2977311,DBT,Data Integration,
+2977311,Fivetran,Data Integration,
+2977311,DBT,Data Integration,
+2977311,Fivetran,Data Integration,
+2977311,Spark,Data Integration,
+2977311,Spark,Data Integration,
+2977311,DBT,Data Integration,
+2977311,Fivetran,Data Integration,
+2977311,DBT,Data Integration,
+2977311,Fivetran,Data Integration,
+2977311,Spark,Data Integration,
+2977311,Spark,Data Integration,
+2977311,DBT,Data Integration,
+2977311,Fivetran,Data Integration,
+2977311,DBT,Data Integration,
+2977311,Fivetran,Data Integration,
+2977311,Spark,Data Integration,
+2977311,Spark,Data Integration,
+2977311,DBT,Data Integration,
+2977311,Fivetran,Data Integration,
+2977311,DBT,Data Integration,
+2977311,Fivetran,Data Integration,
+2977311,Spark,Data Integration,
+2903451,Denodo Platform,Data Integration,
+2903451,Microsoft Azure Data Factory,Data Integration,
+2433083,Microsoft Azure Data Factory,Data Integration,100
+2433083,Microsoft SQL Server Integration Services (SSIS),Data Integration,100
+2433083,DBT,Data Integration,80
+2433083,Microsoft Azure Data Factory,Data Integration,100
+2433083,Microsoft SQL Server Integration Services (SSIS),Data Integration,100
+2433109,Informatica PowerCenter,Data Integration,100
+2433109,Matillion ETL,Data Integration,100
+2433109,Microsoft SQL Server Integration Services (SSIS),Data Integration,100
+2433109,Informatica PowerCenter,Data Integration,100
+2433109,Matillion ETL,Data Integration,100
+2433109,Microsoft SQL Server Integration Services (SSIS),Data Integration,100
+2433109,Informatica PowerCenter,Data Integration,100
+2433109,Matillion ETL,Data Integration,100
+2433109,Microsoft SQL Server Integration Services (SSIS),Data Integration,100
+2433109,Informatica PowerCenter,Data Integration,100
+2433109,Matillion ETL,Data Integration,100
+2433109,Microsoft SQL Server Integration Services (SSIS),Data Integration,100
+2433109,Informatica PowerCenter,Data Integration,100
+2433109,Matillion ETL,Data Integration,100
+2433109,Microsoft SQL Server Integration Services (SSIS),Data Integration,100
+2433109,Informatica PowerCenter,Data Integration,100
+2433109,Matillion ETL,Data Integration,100
+2433109,Microsoft SQL Server Integration Services (SSIS),Data Integration,100
+2433109,Informatica PowerCenter,Data Integration,100
+2433109,Matillion ETL,Data Integration,100
+2433109,Microsoft SQL Server Integration Services (SSIS),Data Integration,100
+2433109,Informatica PowerCenter,Data Integration,100
+2433109,Matillion ETL,Data Integration,100
+2433109,Microsoft SQL Server Integration Services (SSIS),Data Integration,100
+2433112,DBT,Data Integration,90
+2433112,Fivetran,Data Integration,100
+2433112,Airbyte,Data Integration,80
+2433112,Denodo Platform,Data Integration,90
+2433112,IBM DataStage,Data Integration,40
+2433112,Informatica Intelligent Cloud Services,Data Integration,60
+2433112,Informatica PowerCenter,Data Integration,100
+2433112,Matillion ETL,Data Integration,80
+2433112,Microsoft Azure Data Factory,Data Integration,60
+2433112,SnapLogic Intelligent Integration Platform,Data Integration,80
+2433112,DBT,Data Integration,90
+2433112,Fivetran,Data Integration,100
+2433112,Airbyte,Data Integration,80
+2433112,Denodo Platform,Data Integration,90
+2433112,IBM DataStage,Data Integration,40
+2433112,Informatica Intelligent Cloud Services,Data Integration,60
+2433112,Informatica PowerCenter,Data Integration,100
+2433112,Matillion ETL,Data Integration,80
+2433112,Microsoft Azure Data Factory,Data Integration,60
+2433112,SnapLogic Intelligent Integration Platform,Data Integration,80
+2433112,DBT,Data Integration,90
+2433112,Fivetran,Data Integration,100
+2433112,Airbyte,Data Integration,80
+2433112,Denodo Platform,Data Integration,90
+2433112,IBM DataStage,Data Integration,40
+2433112,Informatica Intelligent Cloud Services,Data Integration,60
+2433112,Informatica PowerCenter,Data Integration,100
+2433112,Matillion ETL,Data Integration,80
+2433112,Microsoft Azure Data Factory,Data Integration,60
+2433112,SnapLogic Intelligent Integration Platform,Data Integration,80
+2433112,DBT,Data Integration,90
+2433112,Fivetran,Data Integration,100
+2433112,Airbyte,Data Integration,80
+2433112,Denodo Platform,Data Integration,90
+2433112,IBM DataStage,Data Integration,40
+2433112,Informatica Intelligent Cloud Services,Data Integration,60
+2433112,Informatica PowerCenter,Data Integration,100
+2433112,Matillion ETL,Data Integration,80
+2433112,Microsoft Azure Data Factory,Data Integration,60
+2433112,SnapLogic Intelligent Integration Platform,Data Integration,80
+2433112,DBT,Data Integration,90
+2433112,Fivetran,Data Integration,100
+2433112,Airbyte,Data Integration,80
+2433112,Denodo Platform,Data Integration,90
+2433112,IBM DataStage,Data Integration,40
+2433112,Informatica Intelligent Cloud Services,Data Integration,60
+2433112,Informatica PowerCenter,Data Integration,100
+2433112,Matillion ETL,Data Integration,80
+2433112,Microsoft Azure Data Factory,Data Integration,60
+2433112,SnapLogic Intelligent Integration Platform,Data Integration,80
+2433112,DBT,Data Integration,90
+2433112,Fivetran,Data Integration,100
+2433112,Airbyte,Data Integration,80
+2433112,Denodo Platform,Data Integration,90
+2433112,IBM DataStage,Data Integration,40
+2433112,Informatica Intelligent Cloud Services,Data Integration,60
+2433112,Informatica PowerCenter,Data Integration,100
+2433112,Matillion ETL,Data Integration,80
+2433112,Microsoft Azure Data Factory,Data Integration,60
+2433112,SnapLogic Intelligent Integration Platform,Data Integration,80
+2433112,DBT,Data Integration,90
+2433112,Fivetran,Data Integration,100
+2433112,Airbyte,Data Integration,80
+2433112,Denodo Platform,Data Integration,90
+2433112,IBM DataStage,Data Integration,40
+2433112,Informatica Intelligent Cloud Services,Data Integration,60
+2433112,Informatica PowerCenter,Data Integration,100
+2433112,Matillion ETL,Data Integration,80
+2433112,Microsoft Azure Data Factory,Data Integration,60
+2433112,SnapLogic Intelligent Integration Platform,Data Integration,80
+2433112,DBT,Data Integration,90
+2433112,Fivetran,Data Integration,100
+2433112,Airbyte,Data Integration,80
+2433112,Denodo Platform,Data Integration,90
+2433112,IBM DataStage,Data Integration,40
+2433112,Informatica Intelligent Cloud Services,Data Integration,60
+2433112,Informatica PowerCenter,Data Integration,100
+2433112,Matillion ETL,Data Integration,80
+2433112,Microsoft Azure Data Factory,Data Integration,60
+2433112,SnapLogic Intelligent Integration Platform,Data Integration,80
+2433112,DBT,Data Integration,90
+2433112,Fivetran,Data Integration,100
+2433112,Airbyte,Data Integration,80
+2433112,Denodo Platform,Data Integration,90
+2433112,IBM DataStage,Data Integration,40
+2433112,Informatica Intelligent Cloud Services,Data Integration,60
+2433112,Informatica PowerCenter,Data Integration,100
+2433112,Matillion ETL,Data Integration,80
+2433112,Microsoft Azure Data Factory,Data Integration,60
+2433112,SnapLogic Intelligent Integration Platform,Data Integration,80
+2789547,Microsoft Azure Data Factory,Data Integration,80
+2789547,Microsoft Azure Data Factory,Data Integration,80
+2789547,Microsoft Azure Data Factory,Data Integration,80
+2836571,Microsoft Azure Data Factory,Data Integration,70
+2836571,Microsoft SQL Server Integration Services (SSIS),Data Integration,50
+2836571,Microsoft Azure Data Factory,Data Integration,70
+2836571,Microsoft SQL Server Integration Services (SSIS),Data Integration,50
+2836571,Microsoft Azure Data Factory,Data Integration,70
+2836571,Microsoft SQL Server Integration Services (SSIS),Data Integration,50
+2700124,DBT,Data Integration,80
+2700124,Airbyte,Data Integration,40
+2700124,Amazon AWS Glue,Data Integration,80
+2700124,Microsoft Azure Data Factory,Data Integration,60
+2895177,Matillion ETL,Data Integration,70
+2895177,Matillion ETL,Data Integration,70
+2895177,Matillion ETL,Data Integration,70
+2895177,Matillion ETL,Data Integration,70
+2433114,Oracle Data Integrator (ODI),Data Integration,70
+2433114,Oracle Data Integrator (ODI),Data Integration,70
+2433114,Oracle Data Integrator (ODI),Data Integration,70
+2433117,DBT,Data Integration,20
+2433117,Airbyte,Data Integration,10
+2433117,Informatica PowerCenter,Data Integration,70
+2433117,Matillion ETL,Data Integration,30
+2433117,Microsoft SQL Server Integration Services (SSIS),Data Integration,70
+2433117,SnapLogic Intelligent Integration Platform,Data Integration,70
+2433117,Talend Data Fabric,Data Integration,50
+2433117,Talend Open Studio,Data Integration,50
+2433117,DBT,Data Integration,20
+2433117,Airbyte,Data Integration,10
+2433117,Informatica PowerCenter,Data Integration,70
+2433117,Matillion ETL,Data Integration,30
+2433117,Microsoft SQL Server Integration Services (SSIS),Data Integration,70
+2433117,SnapLogic Intelligent Integration Platform,Data Integration,70
+2433117,Talend Data Fabric,Data Integration,50
+2433117,Talend Open Studio,Data Integration,50
+2433120,Fivetran,Data Integration,40
+2433120,Informatica Intelligent Cloud Services,Data Integration,80
+2433120,Informatica PowerCenter,Data Integration,80
+2433120,SAP Data Services,Data Integration,60
+2433120,Fivetran,Data Integration,40
+2433120,Informatica Intelligent Cloud Services,Data Integration,80
+2433120,Informatica PowerCenter,Data Integration,80
+2433120,SAP Data Services,Data Integration,60
+2433120,Fivetran,Data Integration,40
+2433120,Informatica Intelligent Cloud Services,Data Integration,80
+2433120,Informatica PowerCenter,Data Integration,80
+2433120,SAP Data Services,Data Integration,60
+2433120,Fivetran,Data Integration,40
+2433120,Informatica Intelligent Cloud Services,Data Integration,80
+2433120,Informatica PowerCenter,Data Integration,80
+2433120,SAP Data Services,Data Integration,60
+2433120,Fivetran,Data Integration,40
+2433120,Informatica Intelligent Cloud Services,Data Integration,80
+2433120,Informatica PowerCenter,Data Integration,80
+2433120,SAP Data Services,Data Integration,60
+2433122,Informatica Intelligent Cloud Services,Data Integration,90
+2433122,Informatica PowerCenter,Data Integration,80
+2433138,Alteryx Designer,Data Integration,40
+2433138,Denodo Platform,Data Integration,40
+2433138,Informatica Intelligent Cloud Services,Data Integration,70
+2433138,Informatica PowerCenter,Data Integration,100
+2433138,Microsoft Azure Data Factory,Data Integration,100
+2433138,Microsoft SQL Server Integration Services (SSIS),Data Integration,100
+2433138,Informatica Intelligent Cloud Services,Data Integration,100
+2433138,Informatica PowerCenter,Data Integration,100
+2433138,Microsoft SQL Server Integration Services (SSIS),Data Integration,100
+2433138,Alteryx Designer,Data Integration,40
+2433138,Denodo Platform,Data Integration,40
+2433138,Informatica Intelligent Cloud Services,Data Integration,70
+2433138,Informatica PowerCenter,Data Integration,100
+2433138,Microsoft Azure Data Factory,Data Integration,100
+2433138,Microsoft SQL Server Integration Services (SSIS),Data Integration,100
+2433138,Informatica Intelligent Cloud Services,Data Integration,100
+2433138,Informatica PowerCenter,Data Integration,100
+2433138,Microsoft SQL Server Integration Services (SSIS),Data Integration,100
+2433142,Kubernetes,Data Integration,30
+2433142,DBT,Data Integration,20
+2433142,Airbyte,Data Integration,80
+2433142,Microsoft Azure Data Factory,Data Integration,80
+2433142,Kubernetes,Data Integration,30
+2433142,DBT,Data Integration,20
+2433142,Airbyte,Data Integration,80
+2433142,Microsoft Azure Data Factory,Data Integration,80
+2433142,Kubernetes,Data Integration,30
+2433142,DBT,Data Integration,20
+2433142,Airbyte,Data Integration,80
+2433142,Microsoft Azure Data Factory,Data Integration,80
+2433142,Kubernetes,Data Integration,30
+2433142,DBT,Data Integration,20
+2433142,Airbyte,Data Integration,80
+2433142,Microsoft Azure Data Factory,Data Integration,80
+2433142,Kubernetes,Data Integration,30
+2433142,DBT,Data Integration,20
+2433142,Airbyte,Data Integration,80
+2433142,Microsoft Azure Data Factory,Data Integration,80
+2433142,Kubernetes,Data Integration,30
+2433142,DBT,Data Integration,20
+2433142,Airbyte,Data Integration,80
+2433142,Microsoft Azure Data Factory,Data Integration,80
+2433142,Kubernetes,Data Integration,30
+2433142,DBT,Data Integration,20
+2433142,Airbyte,Data Integration,80
+2433142,Microsoft Azure Data Factory,Data Integration,80
+2433143,Microsoft Azure Data Factory,Data Integration,60
+2433143,Talend Open Studio,Data Integration,60
+2445149,Informatica Intelligent Cloud Services,Data Integration,80
+2445149,Informatica PowerCenter,Data Integration,80
+2445183,Microsoft SQL Server Integration Services (SSIS),Data Integration,80
+2445183,Microsoft Azure Data Factory,Data Integration,60
+2445183,Microsoft SQL Server Integration Services (SSIS),Data Integration,80
+2445183,Microsoft Azure Data Factory,Data Integration,60
+2446382,Talend Open Studio,Data Integration,60
+2446382,Microsoft SQL Server Integration Services (SSIS),Data Integration,60
+2446382,Talend Open Studio,Data Integration,60
+2446382,Microsoft SQL Server Integration Services (SSIS),Data Integration,60
+2449548,DBT,Data Integration,80
+2449548,Denodo Platform,Data Integration,40
+2449548,Informatica Intelligent Cloud Services,Data Integration,80
+2449548,Matillion ETL,Data Integration,100
+2449548,DBT,Data Integration,80
+2449548,Denodo Platform,Data Integration,40
+2449548,Informatica Intelligent Cloud Services,Data Integration,80
+2449548,Matillion ETL,Data Integration,100
+2449548,DBT,Data Integration,80
+2449548,Denodo Platform,Data Integration,40
+2449548,Informatica Intelligent Cloud Services,Data Integration,80
+2449548,Matillion ETL,Data Integration,100
+2449548,DBT,Data Integration,80
+2449548,Denodo Platform,Data Integration,40
+2449548,Informatica Intelligent Cloud Services,Data Integration,80
+2449548,Matillion ETL,Data Integration,100
+2449548,DBT,Data Integration,80
+2449548,Denodo Platform,Data Integration,40
+2449548,Informatica Intelligent Cloud Services,Data Integration,80
+2449548,Matillion ETL,Data Integration,100
+2449548,DBT,Data Integration,80
+2449548,Denodo Platform,Data Integration,40
+2449548,Informatica Intelligent Cloud Services,Data Integration,80
+2449548,Matillion ETL,Data Integration,100
+2449548,DBT,Data Integration,80
+2449548,Denodo Platform,Data Integration,40
+2449548,Informatica Intelligent Cloud Services,Data Integration,80
+2449548,Matillion ETL,Data Integration,100
+2452725,IBM DataStage,Data Integration,100
+2452725,SnapLogic Intelligent Integration Platform,Data Integration,100
+2452725,Talend Open Studio,Data Integration,100
+2452725,IBM DataStage,Data Integration,100
+2452725,SnapLogic Intelligent Integration Platform,Data Integration,100
+2452725,Talend Open Studio,Data Integration,100
+2452725,IBM DataStage,Data Integration,100
+2452725,SnapLogic Intelligent Integration Platform,Data Integration,100
+2452725,Talend Open Studio,Data Integration,100
+2453233,Microsoft SQL Server Integration Services (SSIS),Data Integration,100
+2453233,Talend Open Studio,Data Integration,80
+2453233,Microsoft SQL Server Integration Services (SSIS),Data Integration,100
+2453233,Talend Open Studio,Data Integration,80
+2453233,Microsoft SQL Server Integration Services (SSIS),Data Integration,100
+2453233,Talend Open Studio,Data Integration,80
+2453262,DBT,Data Integration,60
+2453262,Fivetran,Data Integration,80
+2502347,Microsoft SQL Server Integration Services (SSIS),Data Integration,
+2513831,Informatica Intelligent Cloud Services,Data Integration,40
+2513831,Oracle Data Integrator (ODI),Data Integration,80
+2513831,Talend Open Studio,Data Integration,40
+2513866,Fivetran,Data Integration,60
+2513866,DBT,Data Integration,80
+2513866,Airbyte,Data Integration,80
+2513866,Microsoft Azure Data Factory,Data Integration,40
+2513866,Fivetran,Data Integration,60
+2513866,DBT,Data Integration,80
+2513866,Airbyte,Data Integration,80
+2513866,Microsoft Azure Data Factory,Data Integration,40
+2513866,Fivetran,Data Integration,60
+2513866,DBT,Data Integration,80
+2513866,Airbyte,Data Integration,80
+2513866,Microsoft Azure Data Factory,Data Integration,40
+2513866,Fivetran,Data Integration,60
+2513866,DBT,Data Integration,80
+2513866,Airbyte,Data Integration,80
+2513866,Microsoft Azure Data Factory,Data Integration,40
+2513866,Fivetran,Data Integration,60
+2513866,DBT,Data Integration,80
+2513866,Airbyte,Data Integration,80
+2513866,Microsoft Azure Data Factory,Data Integration,40
+2533337,Oracle Data Integrator (ODI),Data Integration,30
+2533337,Talend Open Studio,Data Integration,50
+2533337,Talend Platform for Big Data Integration,Data Integration,20
+2540340,Informatica PowerCenter,Data Integration,30
+2540340,Talend Open Studio,Data Integration,30
+2540340,Informatica PowerCenter,Data Integration,30
+2540340,Talend Open Studio,Data Integration,30
+2540340,Informatica PowerCenter,Data Integration,30
+2540340,Talend Open Studio,Data Integration,30
+2540340,Informatica PowerCenter,Data Integration,30
+2540340,Talend Open Studio,Data Integration,30
+2540340,Informatica PowerCenter,Data Integration,30
+2540340,Talend Open Studio,Data Integration,30
+2540340,Informatica PowerCenter,Data Integration,30
+2540340,Talend Open Studio,Data Integration,30
+2540340,Informatica PowerCenter,Data Integration,30
+2540340,Talend Open Studio,Data Integration,30
+2551856,Microsoft Azure Data Factory,Data Integration,40
+2551856,Microsoft SQL Server Integration Services (SSIS),Data Integration,40
+2551856,Microsoft Azure Data Factory,Data Integration,40
+2551856,Microsoft SQL Server Integration Services (SSIS),Data Integration,40
+2551856,Microsoft Azure Data Factory,Data Integration,40
+2551856,Microsoft SQL Server Integration Services (SSIS),Data Integration,40
+2551856,Microsoft Azure Data Factory,Data Integration,40
+2551856,Microsoft SQL Server Integration Services (SSIS),Data Integration,40
+2551856,Microsoft Azure Data Factory,Data Integration,40
+2551856,Microsoft SQL Server Integration Services (SSIS),Data Integration,40
+2551856,Microsoft Azure Data Factory,Data Integration,40
+2551856,Microsoft SQL Server Integration Services (SSIS),Data Integration,40
+2551856,Microsoft Azure Data Factory,Data Integration,40
+2551856,Microsoft SQL Server Integration Services (SSIS),Data Integration,40
+2552838,Microsoft Azure Data Factory,Data Integration,
+2552838,Microsoft SQL Server Integration Services (SSIS),Data Integration,
+2552838,Microsoft Azure Data Factory,Data Integration,
+2552838,Microsoft SQL Server Integration Services (SSIS),Data Integration,
+2552838,Microsoft Azure Data Factory,Data Integration,
+2552838,Microsoft SQL Server Integration Services (SSIS),Data Integration,
+2552838,Microsoft Azure Data Factory,Data Integration,
+2552838,Microsoft SQL Server Integration Services (SSIS),Data Integration,
+2560995,Microsoft SQL Server Integration Services (SSIS),Data Integration,60
+2578963,Oracle Data Integrator (ODI),Data Integration,80
+2579999,Denodo Platform,Data Integration,60
+2579999,Microsoft Azure Data Factory,Data Integration,40
+2579999,Microsoft SQL Server Integration Services (SSIS),Data Integration,100
+2583132,Microsoft Azure Data Factory,Data Integration,80
+2583132,Microsoft SQL Server Integration Services (SSIS),Data Integration,80
+2583132,Microsoft Azure Data Factory,Data Integration,80
+2583132,Microsoft SQL Server Integration Services (SSIS),Data Integration,80
+2583132,Microsoft Azure Data Factory,Data Integration,80
+2583132,Microsoft SQL Server Integration Services (SSIS),Data Integration,80
+2583132,Microsoft Azure Data Factory,Data Integration,80
+2583132,Microsoft SQL Server Integration Services (SSIS),Data Integration,80
+2583132,Microsoft Azure Data Factory,Data Integration,80
+2583132,Microsoft SQL Server Integration Services (SSIS),Data Integration,80
+2676328,Talend Open Studio,Data Integration,60
+2676328,Talend Open Studio,Data Integration,60
+2766619,Matillion ETL,Data Integration,50
+2766619,Microsoft Azure Data Factory,Data Integration,80
+2766619,Microsoft SQL Server Integration Services (SSIS),Data Integration,80
+2766619,Matillion ETL,Data Integration,50
+2766619,Microsoft Azure Data Factory,Data Integration,80
+2766619,Microsoft SQL Server Integration Services (SSIS),Data Integration,80
+2766619,Matillion ETL,Data Integration,50
+2766619,Microsoft Azure Data Factory,Data Integration,80
+2766619,Microsoft SQL Server Integration Services (SSIS),Data Integration,80
+2766619,Matillion ETL,Data Integration,50
+2766619,Microsoft Azure Data Factory,Data Integration,80
+2766619,Microsoft SQL Server Integration Services (SSIS),Data Integration,80
+2766619,Matillion ETL,Data Integration,50
+2766619,Microsoft Azure Data Factory,Data Integration,80
+2766619,Microsoft SQL Server Integration Services (SSIS),Data Integration,80
+2766619,Matillion ETL,Data Integration,50
+2766619,Microsoft Azure Data Factory,Data Integration,80
+2766619,Microsoft SQL Server Integration Services (SSIS),Data Integration,80
+2766619,Matillion ETL,Data Integration,50
+2766619,Microsoft Azure Data Factory,Data Integration,80
+2766619,Microsoft SQL Server Integration Services (SSIS),Data Integration,80
+2766619,Matillion ETL,Data Integration,50
+2766619,Microsoft Azure Data Factory,Data Integration,80
+2766619,Microsoft SQL Server Integration Services (SSIS),Data Integration,80
+2766619,Matillion ETL,Data Integration,50
+2766619,Microsoft Azure Data Factory,Data Integration,80
+2766619,Microsoft SQL Server Integration Services (SSIS),Data Integration,80
+2789583,Microsoft Azure Data Factory,Data Integration,20
+2700124,Azure Purview,Data Governance,20
+2700124,Colibra,Data Governance,60
+2433138,Informatica Data Quality (IDQ),Data Governance,100
+2433138,Informatica Data Quality (IDQ),Data Governance,100
+2533337,Talend Open Studio for Data Quality,Data Governance,20
+2818577,Google Data Studio,Data Analytics,20
+2818577,Microsoft Power BI,Data Analytics,60
+2818577,Microstrategy,Data Analytics,10
+2818577,Qlik Sense,Data Analytics,20
+2818577,Qlik View,Data Analytics,20
+2818577,Tableau Desktop and Online,Data Analytics,50
+2818577,Google Data Studio,Data Analytics,20
+2818577,Microsoft Power BI,Data Analytics,60
+2818577,Microstrategy,Data Analytics,10
+2818577,Qlik Sense,Data Analytics,20
+2818577,Qlik View,Data Analytics,20
+2818577,Tableau Desktop and Online,Data Analytics,50
+2818577,Google Data Studio,Data Analytics,20
+2818577,Microsoft Power BI,Data Analytics,60
+2818577,Microstrategy,Data Analytics,10
+2818577,Qlik Sense,Data Analytics,20
+2818577,Qlik View,Data Analytics,20
+2818577,Tableau Desktop and Online,Data Analytics,50
+2433111,Tableau Desktop and Online,Data Analytics,70
+2433111,Microsoft Power BI,Data Analytics,80
+2433111,Tableau Desktop and Online,Data Analytics,70
+2433111,Microsoft Power BI,Data Analytics,80
+2433111,Tableau Desktop and Online,Data Analytics,70
+2433111,Microsoft Power BI,Data Analytics,80
+2433111,Tableau Desktop and Online,Data Analytics,70
+2433111,Microsoft Power BI,Data Analytics,80
+2433111,Tableau Desktop and Online,Data Analytics,70
+2433111,Microsoft Power BI,Data Analytics,80
+2433111,Tableau Desktop and Online,Data Analytics,70
+2433111,Microsoft Power BI,Data Analytics,80
+2433111,Tableau Desktop and Online,Data Analytics,70
+2433111,Microsoft Power BI,Data Analytics,80
+2433111,Tableau Desktop and Online,Data Analytics,70
+2433111,Microsoft Power BI,Data Analytics,80
+2433111,Tableau Desktop and Online,Data Analytics,70
+2433111,Microsoft Power BI,Data Analytics,80
+2433111,Tableau Desktop and Online,Data Analytics,70
+2433111,Microsoft Power BI,Data Analytics,80
+2433111,Tableau Desktop and Online,Data Analytics,70
+2433111,Microsoft Power BI,Data Analytics,80
+2433111,Tableau Desktop and Online,Data Analytics,70
+2433111,Microsoft Power BI,Data Analytics,80
+2433112,IBM Cognos Analytics,Data Analytics,20
+2433112,Looker,Data Analytics,50
+2433112,Microsoft Power BI,Data Analytics,40
+2433112,Microstrategy,Data Analytics,40
+2433112,Oracle Business Intelligence Enterprise Edition,Data Analytics,60
+2433112,IBM Cognos Analytics,Data Analytics,20
+2433112,Looker,Data Analytics,50
+2433112,Microsoft Power BI,Data Analytics,40
+2433112,Microstrategy,Data Analytics,40
+2433112,Oracle Business Intelligence Enterprise Edition,Data Analytics,60
+2433112,IBM Cognos Analytics,Data Analytics,20
+2433112,Looker,Data Analytics,50
+2433112,Microsoft Power BI,Data Analytics,40
+2433112,Microstrategy,Data Analytics,40
+2433112,Oracle Business Intelligence Enterprise Edition,Data Analytics,60
+2433112,IBM Cognos Analytics,Data Analytics,20
+2433112,Looker,Data Analytics,50
+2433112,Microsoft Power BI,Data Analytics,40
+2433112,Microstrategy,Data Analytics,40
+2433112,Oracle Business Intelligence Enterprise Edition,Data Analytics,60
+2433112,IBM Cognos Analytics,Data Analytics,20
+2433112,Looker,Data Analytics,50
+2433112,Microsoft Power BI,Data Analytics,40
+2433112,Microstrategy,Data Analytics,40
+2433112,Oracle Business Intelligence Enterprise Edition,Data Analytics,60
+2433112,IBM Cognos Analytics,Data Analytics,20
+2433112,Looker,Data Analytics,50
+2433112,Microsoft Power BI,Data Analytics,40
+2433112,Microstrategy,Data Analytics,40
+2433112,Oracle Business Intelligence Enterprise Edition,Data Analytics,60
+2433112,IBM Cognos Analytics,Data Analytics,20
+2433112,Looker,Data Analytics,50
+2433112,Microsoft Power BI,Data Analytics,40
+2433112,Microstrategy,Data Analytics,40
+2433112,Oracle Business Intelligence Enterprise Edition,Data Analytics,60
+2433112,IBM Cognos Analytics,Data Analytics,20
+2433112,Looker,Data Analytics,50
+2433112,Microsoft Power BI,Data Analytics,40
+2433112,Microstrategy,Data Analytics,40
+2433112,Oracle Business Intelligence Enterprise Edition,Data Analytics,60
+2433112,IBM Cognos Analytics,Data Analytics,20
+2433112,Looker,Data Analytics,50
+2433112,Microsoft Power BI,Data Analytics,40
+2433112,Microstrategy,Data Analytics,40
+2433112,Oracle Business Intelligence Enterprise Edition,Data Analytics,60
+2448418,SAP BusinessObjects BI,Data Analytics,80
+2448418,Qlik View,Data Analytics,80
+2451804,Microstrategy,Data Analytics,60
+2451804,Microsoft Power BI,Data Analytics,60
+2451804,Microstrategy,Data Analytics,60
+2451804,Microsoft Power BI,Data Analytics,60
+2451804,Microstrategy,Data Analytics,60
+2451804,Microsoft Power BI,Data Analytics,60
+2451804,Microstrategy,Data Analytics,60
+2451804,Microsoft Power BI,Data Analytics,60
+2451804,Microstrategy,Data Analytics,60
+2451804,Microsoft Power BI,Data Analytics,60
+2451804,Microstrategy,Data Analytics,60
+2451804,Microsoft Power BI,Data Analytics,60
+2451804,Microstrategy,Data Analytics,60
+2451804,Microsoft Power BI,Data Analytics,60
+2451804,Microstrategy,Data Analytics,60
+2451804,Microsoft Power BI,Data Analytics,60
+2451804,Microstrategy,Data Analytics,60
+2451804,Microsoft Power BI,Data Analytics,60
+2451804,Microstrategy,Data Analytics,60
+2451804,Microsoft Power BI,Data Analytics,60
+2475141,Microstrategy,Data Analytics,
+2475141,Microsoft Power BI,Data Analytics,60
+2475141,Microstrategy,Data Analytics,
+2475141,Microsoft Power BI,Data Analytics,60
+2789547,Microsoft Power BI,Data Analytics,80
+2789547,Microsoft Power BI,Data Analytics,80
+2789547,Microsoft Power BI,Data Analytics,80
+2977311,Tableau Desktop and Online,Data Analytics,
+2977311,Tableau Desktop and Online,Data Analytics,
+2977311,Tableau Desktop and Online,Data Analytics,
+2977311,Tableau Desktop and Online,Data Analytics,
+2977311,Tableau Desktop and Online,Data Analytics,
+2977311,Tableau Desktop and Online,Data Analytics,
+2903451,IBM Cognos Analytics,Data Analytics,
+2903451,Microsoft Power BI,Data Analytics,
+2433140,"Vena Solutions Budgeting, Planning & Forecasting",Financial Planning and Analysis,100
+2437177,Oracle Hyperion Essbase,Financial Planning and Analysis,100
+2437177,Oracle Hyperion Planning,Financial Planning and Analysis,100
+2448418,CCH Tagetik CPM Planning,Financial Planning and Analysis,40
+2448418,Oracle Hyperion Planning,Financial Planning and Analysis,60
+2448418,IBM Cognos TM1,Financial Planning and Analysis,40
+2471586,Oracle Hyperion Essbase,Financial Planning and Analysis,50
+2818577,Python,Programming Language,50
+2818577,R,Programming Language,20
+2818577,SQL,Programming Language,40
+2818577,DAX,Programming Language,40
+2818577,Javascript,Programming Language,10
+2818577,Python,Programming Language,30
+2818577,R,Programming Language,20
+2818577,SQL,Programming Language,40
+2818577,Python,Programming Language,50
+2818577,R,Programming Language,20
+2818577,SQL,Programming Language,40
+2818577,DAX,Programming Language,40
+2818577,Javascript,Programming Language,10
+2818577,Python,Programming Language,30
+2818577,R,Programming Language,20
+2818577,SQL,Programming Language,40
+2818577,Python,Programming Language,50
+2818577,R,Programming Language,20
+2818577,SQL,Programming Language,40
+2818577,DAX,Programming Language,40
+2818577,Javascript,Programming Language,10
+2818577,Python,Programming Language,30
+2818577,R,Programming Language,20
+2818577,SQL,Programming Language,40
+2977311,SQL,Programming Language,
+2977311,SQL,Programming Language,
+2977311,SQL,Programming Language,
+2977311,SQL,Programming Language,
+2977311,SQL,Programming Language,
+2977311,SQL,Programming Language,
+2903451,Java,Programming Language,
+2903451,Python,Programming Language,
+2903451,SQL,Programming Language,
+2433111,DAX,Programming Language,70
+2433111,SQL,Programming Language,100
+2433111,DAX,Programming Language,70
+2433111,SQL,Programming Language,100
+2433111,DAX,Programming Language,70
+2433111,SQL,Programming Language,100
+2433111,DAX,Programming Language,70
+2433111,SQL,Programming Language,100
+2433111,DAX,Programming Language,70
+2433111,SQL,Programming Language,100
+2433111,DAX,Programming Language,70
+2433111,SQL,Programming Language,100
+2433111,DAX,Programming Language,70
+2433111,SQL,Programming Language,100
+2433111,DAX,Programming Language,70
+2433111,SQL,Programming Language,100
+2433111,DAX,Programming Language,70
+2433111,SQL,Programming Language,100
+2433111,DAX,Programming Language,70
+2433111,SQL,Programming Language,100
+2433111,DAX,Programming Language,70
+2433111,SQL,Programming Language,100
+2433111,DAX,Programming Language,70
+2433111,SQL,Programming Language,100
+2433109,DAX,Programming Language,100
+2433109,MDX,Programming Language,100
+2433109,SQL,Programming Language,100
+2433109,T-SQL,Programming Language,100
+2433109,DAX,Programming Language,100
+2433109,MDX,Programming Language,100
+2433109,SQL,Programming Language,100
+2433109,T-SQL,Programming Language,100
+2433109,DAX,Programming Language,100
+2433109,MDX,Programming Language,100
+2433109,SQL,Programming Language,100
+2433109,T-SQL,Programming Language,100
+2433109,DAX,Programming Language,100
+2433109,MDX,Programming Language,100
+2433109,SQL,Programming Language,100
+2433109,T-SQL,Programming Language,100
+2433109,DAX,Programming Language,100
+2433109,MDX,Programming Language,100
+2433109,SQL,Programming Language,100
+2433109,T-SQL,Programming Language,100
+2433109,DAX,Programming Language,100
+2433109,MDX,Programming Language,100
+2433109,SQL,Programming Language,100
+2433109,T-SQL,Programming Language,100
+2433109,DAX,Programming Language,100
+2433109,MDX,Programming Language,100
+2433109,SQL,Programming Language,100
+2433109,T-SQL,Programming Language,100
+2433109,DAX,Programming Language,100
+2433109,MDX,Programming Language,100
+2433109,SQL,Programming Language,100
+2433109,T-SQL,Programming Language,100
+2433112,PL/SQL,Programming Language,60
+2433112,Python,Programming Language,30
+2433112,SQL,Programming Language,100
+2433112,PL/SQL,Programming Language,60
+2433112,Python,Programming Language,30
+2433112,SQL,Programming Language,100
+2433112,PL/SQL,Programming Language,60
+2433112,Python,Programming Language,30
+2433112,SQL,Programming Language,100
+2433112,PL/SQL,Programming Language,60
+2433112,Python,Programming Language,30
+2433112,SQL,Programming Language,100
+2433112,PL/SQL,Programming Language,60
+2433112,Python,Programming Language,30
+2433112,SQL,Programming Language,100
+2433112,PL/SQL,Programming Language,60
+2433112,Python,Programming Language,30
+2433112,SQL,Programming Language,100
+2433112,PL/SQL,Programming Language,60
+2433112,Python,Programming Language,30
+2433112,SQL,Programming Language,100
+2433112,PL/SQL,Programming Language,60
+2433112,Python,Programming Language,30
+2433112,SQL,Programming Language,100
+2433112,PL/SQL,Programming Language,60
+2433112,Python,Programming Language,30
+2433112,SQL,Programming Language,100
+2451804,SQL,Programming Language,100
+2451804,Java,Programming Language,40
+2451804,PL/SQL,Programming Language,100
+2451804,T-SQL,Programming Language,100
+2451804,SQL,Programming Language,100
+2451804,Java,Programming Language,40
+2451804,PL/SQL,Programming Language,100
+2451804,T-SQL,Programming Language,100
+2451804,SQL,Programming Language,100
+2451804,Java,Programming Language,40
+2451804,PL/SQL,Programming Language,100
+2451804,T-SQL,Programming Language,100
+2451804,SQL,Programming Language,100
+2451804,Java,Programming Language,40
+2451804,PL/SQL,Programming Language,100
+2451804,T-SQL,Programming Language,100
+2451804,SQL,Programming Language,100
+2451804,Java,Programming Language,40
+2451804,PL/SQL,Programming Language,100
+2451804,T-SQL,Programming Language,100
+2451804,SQL,Programming Language,100
+2451804,Java,Programming Language,40
+2451804,PL/SQL,Programming Language,100
+2451804,T-SQL,Programming Language,100
+2451804,SQL,Programming Language,100
+2451804,Java,Programming Language,40
+2451804,PL/SQL,Programming Language,100
+2451804,T-SQL,Programming Language,100
+2451804,SQL,Programming Language,100
+2451804,Java,Programming Language,40
+2451804,PL/SQL,Programming Language,100
+2451804,T-SQL,Programming Language,100
+2451804,SQL,Programming Language,100
+2451804,Java,Programming Language,40
+2451804,PL/SQL,Programming Language,100
+2451804,T-SQL,Programming Language,100
+2451804,SQL,Programming Language,100
+2451804,Java,Programming Language,40
+2451804,PL/SQL,Programming Language,100
+2451804,T-SQL,Programming Language,100
+2471586,SQL,Programming Language,
+2475141,DAX,Programming Language,20
+2475141,Java,Programming Language,10
+2475141,Javascript,Programming Language,10
+2475141,DAX,Programming Language,20
+2475141,Java,Programming Language,10
+2475141,Javascript,Programming Language,10
+2789547,Java,Programming Language,30
+2789547,Python,Programming Language,70
+2789547,Scala,Programming Language,30
+2789547,SQL,Programming Language,80
+2789547,Java,Programming Language,30
+2789547,Python,Programming Language,70
+2789547,Scala,Programming Language,30
+2789547,SQL,Programming Language,80
+2789547,Java,Programming Language,30
+2789547,Python,Programming Language,70
+2789547,Scala,Programming Language,30
+2789547,SQL,Programming Language,80
+3072774,Python,Programming Language,40
+3072774,R,Programming Language,40
+3072774,SQL,Programming Language,50
+3072774,Python,Programming Language,40
+3072774,R,Programming Language,40
+3072774,SQL,Programming Language,50
+2818577,Atlassian JIRA Software,Agile Delivery,10
+2818577,Atlassian JIRA Software,Agile Delivery,10
+2818577,Atlassian JIRA Software,Agile Delivery,10
+2433109,Atlassian JIRA Software,Agile Delivery,100
+2433109,Microsoft Azure DevOps Services,Agile Delivery,100
+2433109,Atlassian JIRA Software,Agile Delivery,100
+2433109,Microsoft Azure DevOps Services,Agile Delivery,100
+2433109,Atlassian JIRA Software,Agile Delivery,100
+2433109,Microsoft Azure DevOps Services,Agile Delivery,100
+2433109,Atlassian JIRA Software,Agile Delivery,100
+2433109,Microsoft Azure DevOps Services,Agile Delivery,100
+2433109,Atlassian JIRA Software,Agile Delivery,100
+2433109,Microsoft Azure DevOps Services,Agile Delivery,100
+2433109,Atlassian JIRA Software,Agile Delivery,100
+2433109,Microsoft Azure DevOps Services,Agile Delivery,100
+2433109,Atlassian JIRA Software,Agile Delivery,100
+2433109,Microsoft Azure DevOps Services,Agile Delivery,100
+2433109,Atlassian JIRA Software,Agile Delivery,100
+2433109,Microsoft Azure DevOps Services,Agile Delivery,100
+2433112,Project Management,Agile Delivery,60
+2433112,Terraform,Agile Delivery,30
+2433112,Atlassian Bitbucket,Agile Delivery,30
+2433112,Atlassian JIRA Software,Agile Delivery,60
+2433112,GitHub Enterprise,Agile Delivery,60
+2433112,GitLab,Agile Delivery,20
+2433112,Microsoft Azure DevOps Services,Agile Delivery,60
+2433112,Project Management,Agile Delivery,60
+2433112,Terraform,Agile Delivery,30
+2433112,Atlassian Bitbucket,Agile Delivery,30
+2433112,Atlassian JIRA Software,Agile Delivery,60
+2433112,GitHub Enterprise,Agile Delivery,60
+2433112,GitLab,Agile Delivery,20
+2433112,Microsoft Azure DevOps Services,Agile Delivery,60
+2433112,Project Management,Agile Delivery,60
+2433112,Terraform,Agile Delivery,30
+2433112,Atlassian Bitbucket,Agile Delivery,30
+2433112,Atlassian JIRA Software,Agile Delivery,60
+2433112,GitHub Enterprise,Agile Delivery,60
+2433112,GitLab,Agile Delivery,20
+2433112,Microsoft Azure DevOps Services,Agile Delivery,60
+2433112,Project Management,Agile Delivery,60
+2433112,Terraform,Agile Delivery,30
+2433112,Atlassian Bitbucket,Agile Delivery,30
+2433112,Atlassian JIRA Software,Agile Delivery,60
+2433112,GitHub Enterprise,Agile Delivery,60
+2433112,GitLab,Agile Delivery,20
+2433112,Microsoft Azure DevOps Services,Agile Delivery,60
+2433112,Project Management,Agile Delivery,60
+2433112,Terraform,Agile Delivery,30
+2433112,Atlassian Bitbucket,Agile Delivery,30
+2433112,Atlassian JIRA Software,Agile Delivery,60
+2433112,GitHub Enterprise,Agile Delivery,60
+2433112,GitLab,Agile Delivery,20
+2433112,Microsoft Azure DevOps Services,Agile Delivery,60
+2433112,Project Management,Agile Delivery,60
+2433112,Terraform,Agile Delivery,30
+2433112,Atlassian Bitbucket,Agile Delivery,30
+2433112,Atlassian JIRA Software,Agile Delivery,60
+2433112,GitHub Enterprise,Agile Delivery,60
+2433112,GitLab,Agile Delivery,20
+2433112,Microsoft Azure DevOps Services,Agile Delivery,60
+2433112,Project Management,Agile Delivery,60
+2433112,Terraform,Agile Delivery,30
+2433112,Atlassian Bitbucket,Agile Delivery,30
+2433112,Atlassian JIRA Software,Agile Delivery,60
+2433112,GitHub Enterprise,Agile Delivery,60
+2433112,GitLab,Agile Delivery,20
+2433112,Microsoft Azure DevOps Services,Agile Delivery,60
+2433112,Project Management,Agile Delivery,60
+2433112,Terraform,Agile Delivery,30
+2433112,Atlassian Bitbucket,Agile Delivery,30
+2433112,Atlassian JIRA Software,Agile Delivery,60
+2433112,GitHub Enterprise,Agile Delivery,60
+2433112,GitLab,Agile Delivery,20
+2433112,Microsoft Azure DevOps Services,Agile Delivery,60
+2433112,Project Management,Agile Delivery,60
+2433112,Terraform,Agile Delivery,30
+2433112,Atlassian Bitbucket,Agile Delivery,30
+2433112,Atlassian JIRA Software,Agile Delivery,60
+2433112,GitHub Enterprise,Agile Delivery,60
+2433112,GitLab,Agile Delivery,20
+2433112,Microsoft Azure DevOps Services,Agile Delivery,60
+2789547,Terraform,Agile Delivery,60
+2789547,Atlassian JIRA Software,Agile Delivery,80
+2789547,Terraform,Agile Delivery,60
+2789547,Atlassian JIRA Software,Agile Delivery,80
+2789547,Terraform,Agile Delivery,60
+2789547,Atlassian JIRA Software,Agile Delivery,80
+2977311,Project Management,Agile Delivery,
+2977311,Atlassian JIRA Software,Agile Delivery,
+2977311,Project Management,Agile Delivery,
+2977311,Atlassian JIRA Software,Agile Delivery,
+2977311,Project Management,Agile Delivery,
+2977311,Atlassian JIRA Software,Agile Delivery,
+2977311,Project Management,Agile Delivery,
+2977311,Atlassian JIRA Software,Agile Delivery,
+2977311,Project Management,Agile Delivery,
+2977311,Atlassian JIRA Software,Agile Delivery,
+2977311,Project Management,Agile Delivery,
+2977311,Atlassian JIRA Software,Agile Delivery,
+2903451,Project Management,Agile Delivery,
+2903451,Atlassian JIRA Software,Agile Delivery,
+2433140,Vena Close,Financial Close,100
+2447527,Fluence,Financial Close,
+2447527,Fluence,Financial Close,
+2447527,Fluence,Financial Close,
+2447527,Fluence,Financial Close,
+2447527,Fluence,Financial Close,
+2447527,Fluence,Financial Close,
